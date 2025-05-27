@@ -1,0 +1,2 @@
+C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/TouchGFX/generated/images/src/BitmapDatabase.cpp:81:37:const touchgfx::Bitmap::BitmapData* BitmapDatabase::getInstance()	0	static
+C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/TouchGFX/generated/images/src/BitmapDatabase.cpp:86:10:uint16_t BitmapDatabase::getInstanceSize()	0	static

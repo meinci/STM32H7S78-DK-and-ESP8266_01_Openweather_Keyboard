@@ -1,0 +1,17 @@
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Appli/Core/Src/stm32h7rsxx_hal_msp.c:66:6:HAL_MspInit	2
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Appli/Core/Src/stm32h7rsxx_hal_msp.c:95:6:HAL_CRC_MspInit	2
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Appli/Core/Src/stm32h7rsxx_hal_msp.c:118:6:HAL_CRC_MspDeInit	2
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Appli/Core/Src/stm32h7rsxx_hal_msp.c:140:6:HAL_DMA2D_MspInit	2
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Appli/Core/Src/stm32h7rsxx_hal_msp.c:165:6:HAL_DMA2D_MspDeInit	2
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Appli/Core/Src/stm32h7rsxx_hal_msp.c:190:6:HAL_GPU2D_MspInit	2
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Appli/Core/Src/stm32h7rsxx_hal_msp.c:218:6:HAL_GPU2D_MspDeInit	2
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Appli/Core/Src/stm32h7rsxx_hal_msp.c:244:6:HAL_I2C_MspInit	3
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Appli/Core/Src/stm32h7rsxx_hal_msp.c:291:6:HAL_I2C_MspDeInit	2
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Appli/Core/Src/stm32h7rsxx_hal_msp.c:322:6:HAL_JPEG_MspInit	7
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Appli/Core/Src/stm32h7rsxx_hal_msp.c:412:6:HAL_JPEG_MspDeInit	2
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Appli/Core/Src/stm32h7rsxx_hal_msp.c:441:6:HAL_LTDC_MspInit	3
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Appli/Core/Src/stm32h7rsxx_hal_msp.c:587:6:HAL_LTDC_MspDeInit	2
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Appli/Core/Src/stm32h7rsxx_hal_msp.c:657:6:HAL_TIM_Base_MspInit	2
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Appli/Core/Src/stm32h7rsxx_hal_msp.c:683:6:HAL_TIM_Base_MspDeInit	2
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Appli/Core/Src/stm32h7rsxx_hal_msp.c:708:6:HAL_UART_MspInit	3
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Appli/Core/Src/stm32h7rsxx_hal_msp.c:759:6:HAL_UART_MspDeInit	2

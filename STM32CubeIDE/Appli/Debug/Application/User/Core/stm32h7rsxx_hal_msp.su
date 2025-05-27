@@ -1,0 +1,17 @@
+C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/Core/Src/stm32h7rsxx_hal_msp.c:66:6:HAL_MspInit	8	static
+C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/Core/Src/stm32h7rsxx_hal_msp.c:95:6:HAL_CRC_MspInit	8	static
+C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/Core/Src/stm32h7rsxx_hal_msp.c:118:6:HAL_CRC_MspDeInit	0	static
+C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/Core/Src/stm32h7rsxx_hal_msp.c:140:6:HAL_DMA2D_MspInit	8	static
+C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/Core/Src/stm32h7rsxx_hal_msp.c:165:6:HAL_DMA2D_MspDeInit	0	static
+C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/Core/Src/stm32h7rsxx_hal_msp.c:190:6:HAL_GPU2D_MspInit	16	static
+C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/Core/Src/stm32h7rsxx_hal_msp.c:218:6:HAL_GPU2D_MspDeInit	8	static
+C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/Core/Src/stm32h7rsxx_hal_msp.c:244:6:HAL_I2C_MspInit	168	static
+C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/Core/Src/stm32h7rsxx_hal_msp.c:291:6:HAL_I2C_MspDeInit	8	static
+C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/Core/Src/stm32h7rsxx_hal_msp.c:322:6:HAL_JPEG_MspInit	32	static
+C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/Core/Src/stm32h7rsxx_hal_msp.c:412:6:HAL_JPEG_MspDeInit	8	static
+C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/Core/Src/stm32h7rsxx_hal_msp.c:441:6:HAL_LTDC_MspInit	200	static
+C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/Core/Src/stm32h7rsxx_hal_msp.c:587:6:HAL_LTDC_MspDeInit	8	static
+C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/Core/Src/stm32h7rsxx_hal_msp.c:657:6:HAL_TIM_Base_MspInit	16	static
+C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/Core/Src/stm32h7rsxx_hal_msp.c:683:6:HAL_TIM_Base_MspDeInit	0	static
+C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/Core/Src/stm32h7rsxx_hal_msp.c:708:6:HAL_UART_MspInit	168	static
+C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/Core/Src/stm32h7rsxx_hal_msp.c:759:6:HAL_UART_MspDeInit	8	static

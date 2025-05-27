@@ -1,0 +1,8 @@
+Application/User/generated/LanguageSonderzeichen.o: \
+ C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/TouchGFX/generated/texts/src/LanguageSonderzeichen.cpp \
+ ../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Unicode.hpp \
+ ../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Types.hpp \
+ ../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Config.hpp
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Unicode.hpp:
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Types.hpp:
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Config.hpp:

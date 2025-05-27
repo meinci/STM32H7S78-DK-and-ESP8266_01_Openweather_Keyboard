@@ -1,0 +1,5 @@
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Middlewares/ST/STM32_ExtMem_Manager/psram/stm32_psram_driver.c:149:35:EXTMEM_DRIVER_PSRAM_DeInit	8	static
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Middlewares/ST/STM32_ExtMem_Manager/psram/stm32_psram_driver.c:156:35:EXTMEM_DRIVER_PSRAM_Enable_MemoryMappedMode	24	static
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Middlewares/ST/STM32_ExtMem_Manager/psram/stm32_psram_driver.c:180:35:EXTMEM_DRIVER_PSRAM_Disable_MemoryMappedMode	8	static
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Middlewares/ST/STM32_ExtMem_Manager/psram/stm32_psram_driver.c:207:35:PSRAM_ExecuteCommand	32	static
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Middlewares/ST/STM32_ExtMem_Manager/psram/stm32_psram_driver.c:84:35:EXTMEM_DRIVER_PSRAM_Init	24	static

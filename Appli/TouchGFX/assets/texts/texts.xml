@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.25.0">
+  <Languages>
+    <Language Id="GB" />
+    <Language Id="Sonderzeichen" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1">
+      <Text Id="AlphaMode" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">123</Translation>
+        <Translation Language="Sonderzeichen">123</Translation>
+      </Text>
+      <Text Id="NumMode" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">ABC</Translation>
+        <Translation Language="Sonderzeichen">ABC</Translation>
+      </Text>
+      <Text Id="EnteredText" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB" Alignment="Left">&lt;placeholder&gt;</Translation>
+        <Translation Language="Sonderzeichen">&lt;placeholder&gt;</Translation>
+      </Text>
+      <Text Id="Resource_4" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Frankfurt&#10;</Translation>
+        <Translation Language="Sonderzeichen">Frankfurt&#10;</Translation>
+      </Text>
+      <Text Id="Resource_3" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB" Alignment="Center">Ennepetal</Translation>
+        <Translation Language="Sonderzeichen">Ennepetal</Translation>
+      </Text>
+      <Text Id="Resource_2" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB" Alignment="Center">Lünen&#10;</Translation>
+        <Translation Language="Sonderzeichen">Lünen&#10;</Translation>
+      </Text>
+      <Text Id="Resource_1" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB" Alignment="Center">Dortmund</Translation>
+        <Translation Language="Sonderzeichen">Dortmund</Translation>
+      </Text>
+    </TextGroup>
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_942A" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">Cancel</Translation>
+        <Translation Language="Sonderzeichen">New Text</Translation>
+      </Text>
+      <Text Id="__SingleUse_4KTG" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">OK</Translation>
+        <Translation Language="Sonderzeichen">New Text</Translation>
+      </Text>
+      <Text Id="__SingleUse_PV0L" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Password</Translation>
+        <Translation Language="Sonderzeichen">New Text</Translation>
+      </Text>
+      <Text Id="__SingleUse_B84I" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">SSID</Translation>
+        <Translation Language="Sonderzeichen">New Text</Translation>
+      </Text>
+      <Text Id="__SingleUse_9KEY" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">Cancel</Translation>
+        <Translation Language="Sonderzeichen">New Text</Translation>
+      </Text>
+      <Text Id="__SingleUse_EJUD" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">OK</Translation>
+        <Translation Language="Sonderzeichen">New Text</Translation>
+      </Text>
+      <Text Id="__SingleUse_RDAB" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">Password</Translation>
+        <Translation Language="Sonderzeichen">New Text</Translation>
+      </Text>
+      <Text Id="__SingleUse_RLC5" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">SSID</Translation>
+        <Translation Language="Sonderzeichen">New Text</Translation>
+      </Text>
+      <Text Id="__SingleUse_XUSJ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+        <Translation Language="Sonderzeichen">New Text&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_LCFX" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+        <Translation Language="Sonderzeichen">New Text&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_054A" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">Cancel</Translation>
+        <Translation Language="Sonderzeichen">New Text</Translation>
+      </Text>
+      <Text Id="__SingleUse_4BBU" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">OK</Translation>
+        <Translation Language="Sonderzeichen">New Text</Translation>
+      </Text>
+      <Text Id="__SingleUse_CA5K" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Wi - Fi</Translation>
+        <Translation Language="Sonderzeichen">New Text</Translation>
+      </Text>
+      <Text Id="__SingleUse_OSRE" Alignment="Right" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+        <Translation Language="Sonderzeichen">New Text&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_WV8T" Alignment="Right" TypographyId="Default">
+        <Translation Language="GB">SSID:&lt;value&gt;</Translation>
+        <Translation Language="Sonderzeichen">New Text&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_8HKD" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">&lt;value&gt; </Translation>
+        <Translation Language="Sonderzeichen">Temperatur:  &lt;value&gt; </Translation>
+      </Text>
+      <Text Id="__SingleUse_XHV0" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+        <Translation Language="Sonderzeichen" Alignment="Center">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_YXKY" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+        <Translation Language="Sonderzeichen">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_P907" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;.</Translation>
+        <Translation Language="Sonderzeichen">&lt;value&gt;.</Translation>
+      </Text>
+      <Text Id="__SingleUse_DKEQ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;.</Translation>
+        <Translation Language="Sonderzeichen">&lt;value&gt;.</Translation>
+      </Text>
+      <Text Id="__SingleUse_5U2A" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;.</Translation>
+        <Translation Language="Sonderzeichen">&lt;value&gt;.</Translation>
+      </Text>
+      <Text Id="__SingleUse_THZU" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+        <Translation Language="Sonderzeichen">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_6MGE" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">&lt;value&gt; </Translation>
+        <Translation Language="Sonderzeichen">Luftdruck:  &lt;value&gt; </Translation>
+      </Text>
+      <Text Id="__SingleUse_9PER" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">&lt;value&gt; </Translation>
+        <Translation Language="Sonderzeichen">&lt;value&gt; </Translation>
+      </Text>
+      <Text Id="__SingleUse_WTE2" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">&lt;value&gt; </Translation>
+        <Translation Language="Sonderzeichen">Luftfeuchte:  &lt;value&gt; </Translation>
+      </Text>
+      <Text Id="__SingleUse_JSTH" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">&lt;value&gt; </Translation>
+        <Translation Language="Sonderzeichen">Temperatur:  &lt;value&gt; </Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="arial.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" WildcardCharacters="°CÇçĞğİıÖöŞşÜüÄäßẞß!”&quot;#*%&amp;()'$+-@_, .:;?/~±×÷•º`´{}©£€^®¥_=[]¡¢|\¿&gt;&lt;" WildcardCharacterRanges="a-z,A-Z,0-9">
+      <LanguageSetting Language="Sonderzeichen" Font="arial.ttf" Size="20" Bpp="4" IsVector="yes" IsCompressed="no" Direction="LTR" WildcardCharacters="°CÇçĞğİıÖöŞşÜü" />
+    </Typography>
+    <Typography Id="Large" Font="arial.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" WildcardCharacters="°CÄÖÜäöüß!”&quot;#*%&amp;()'$+-@_, .:;?/~±×÷•º`´{}©£€^®¥_=[]¡¢|\¿&gt;&lt;" WildcardCharacterRanges="0x0020-0x007E" />
+    <Typography Id="Small" Font="arial.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacters="°CÇçĞğİıÖöŞşÜüÄäßẞß!”&quot;#*%&amp;()'$+-@_, .:;?/~±×÷•º`´{}©£€^®¥_=[]¡¢|\¿&gt;&lt;" WildcardCharacterRanges="a-z,A-Z,0-9" />
+    <Typography Id="Typography_00" Font="verdana.ttf" Size="27" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacters="!”&quot;#*%&amp;()'$+-@_, .:;?/~±×÷•º`´{}©£€^®¥_=[]¡¢|\¿&gt;&lt;" WildcardCharacterRanges="a-z,A-Z,0-9" />
+    <Typography Id="Display" Font="arial.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" WildcardCharacters="!”&quot;#*%&amp;()'$+-@_, .:;?/~±×÷•º`´{}©£€^®¥_=[]¡¢|\¿&gt;&lt;" WildcardCharacterRanges="0x0020-0x007E" />
+    <Typography Id="Keyboard" Font="arial.ttf" Size="28" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacters="!”&quot;#*%&amp;()'$+-@_, .:;?/~±×÷•º`´{}©£€^®¥_=[]¡¢|\¿&gt;&lt;" WildcardCharacterRanges="a-z,A-Z,0-9" />
+    <Typography Id="Mode" Font="arial.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacters="!”&quot;#*%&amp;()'$+-@_, .:;?/~±×÷•º`´{}©£€^®¥_=[]¡¢|\¿&gt;&lt;" WildcardCharacterRanges="a-z,A-Z,0-9" />
+  </Typographies>
+</TextDatabase>

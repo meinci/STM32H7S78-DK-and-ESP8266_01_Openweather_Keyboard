@@ -1,0 +1,12 @@
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:640:38:driver_set_FlagWEL.constprop	24	static
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:135:38:EXTMEM_DRIVER_NOR_SFDP_Init	48	static
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:256:38:EXTMEM_DRIVER_NOR_SFDP_DeInit	0	static
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:262:6:EXTMEM_DRIVER_NOR_SFDP_GetFlashInfo	0	static
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:278:38:EXTMEM_DRIVER_NOR_SFDP_Write	40	static
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:447:38:EXTMEM_DRIVER_NOR_SFDP_Read	32	static
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:468:38:EXTMEM_DRIVER_NOR_SFDP_SectorErase	24	static
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:547:38:EXTMEM_DRIVER_NOR_SFDP_MassErase	8	static
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:586:38:EXTMEM_DRIVER_NOR_SFDP_Enable_MemoryMappedMode	16	static
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:601:38:EXTMEM_DRIVER_NOR_SFDP_Disable_MemoryMappedMode	8	static
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:664:13:EXTMEM_MemCopy	12	static
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:348:38:EXTMEM_DRIVER_NOR_SFDP_WriteInMappedMode	24	static

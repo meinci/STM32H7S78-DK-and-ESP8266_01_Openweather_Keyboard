@@ -1,0 +1,3 @@
+../../Appli/../../Appli/TouchGFX/generated/fonts/include/fonts/ApplicationFontProvider.hpp:29:7:ApplicationFontProvider::~ApplicationFontProvider()	1
+../../Appli/../../Appli/TouchGFX/generated/fonts/include/fonts/ApplicationFontProvider.hpp:29:7:virtual ApplicationFontProvider::~ApplicationFontProvider()	1
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Appli/TouchGFX/generated/fonts/src/ApplicationFontProvider.cpp:8:17:virtual touchgfx::Font* ApplicationFontProvider::getFont(touchgfx::FontId)	4

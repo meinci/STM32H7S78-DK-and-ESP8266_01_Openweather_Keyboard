@@ -1,0 +1,9 @@
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Appli/Core/Src/main.c:167:7:extract_json	2
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Appli/Core/Src/main.c:228:6:parse_weather_data	16
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Appli/Core/Src/main.c:339:5:main	28
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Appli/Core/Src/main.c:950:6:send_at_command	1
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Appli/Core/Src/main.c:179:6:HAL_UARTEx_RxEventCallback	10
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Appli/Core/Src/main.c:970:6:StartDefaultTask	1
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Appli/Core/Src/main.c:955:6:HAL_UART_TxCpltCallback	2
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Appli/Core/Src/main.c:1089:6:HAL_TIM_PeriodElapsedCallback	3
+C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Appli/Core/Src/main.c:1112:6:Error_Handler	1

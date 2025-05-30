@@ -1,5 +1,5 @@
 Middlewares/STM32_ExtMem_Manager/stm32_sdcard_driver.o: \
- C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Middlewares/ST/STM32_ExtMem_Manager/sdcard/stm32_sdcard_driver.c \
+ C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Middlewares/ST/STM32_ExtMem_Manager/sdcard/stm32_sdcard_driver.c \
  ../../../Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.h \
  ../../../Boot/Core/Inc/stm32_extmem_conf.h \
  ../../../Drivers/STM32H7RSxx_HAL_Driver/Inc/stm32h7rsxx_hal.h \

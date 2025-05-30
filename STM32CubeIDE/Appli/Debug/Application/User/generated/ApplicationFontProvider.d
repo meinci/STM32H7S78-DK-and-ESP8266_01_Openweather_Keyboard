@@ -1,5 +1,5 @@
 Application/User/generated/ApplicationFontProvider.o: \
- C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/TouchGFX/generated/fonts/src/ApplicationFontProvider.cpp \
+ C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Appli/TouchGFX/generated/fonts/src/ApplicationFontProvider.cpp \
  ../../Appli/../../Appli/TouchGFX/generated/fonts/include/fonts/ApplicationFontProvider.hpp \
  ../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/FontManager.hpp \
  ../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Font.hpp \

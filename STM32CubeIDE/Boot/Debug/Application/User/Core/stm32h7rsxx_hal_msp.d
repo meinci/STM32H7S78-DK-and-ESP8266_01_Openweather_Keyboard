@@ -1,5 +1,5 @@
 Application/User/Core/stm32h7rsxx_hal_msp.o: \
- C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Boot/Core/Src/stm32h7rsxx_hal_msp.c \
+ C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Boot/Core/Src/stm32h7rsxx_hal_msp.c \
  ../../../Boot/Core/Inc/main.h \
  ../../../Drivers/STM32H7RSxx_HAL_Driver/Inc/stm32h7rsxx_hal.h \
  ../../../Boot/Core/Inc/stm32h7rsxx_hal_conf.h \

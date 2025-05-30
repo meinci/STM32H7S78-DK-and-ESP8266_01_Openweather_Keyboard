@@ -1,5 +1,5 @@
 Application/User/TouchGFX/target/generated/HardwareMJPEGDecoder.o: \
- C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/TouchGFX/target/generated/HardwareMJPEGDecoder.cpp \
+ C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Appli/TouchGFX/target/generated/HardwareMJPEGDecoder.cpp \
  ../../../Appli/TouchGFX/target/generated/HardwareMJPEGDecoder.hpp \
  ../../../Appli/TouchGFX/target/generated/MJPEGDecoder.hpp \
  ../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Types.hpp \

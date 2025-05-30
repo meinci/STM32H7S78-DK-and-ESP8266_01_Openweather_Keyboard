@@ -1,3 +1,3 @@
-C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Drivers/STM32H7RSxx_HAL_Driver/Src/stm32h7rsxx_hal_crc_ex.c:89:19:HAL_CRCEx_Polynomial_Set	8	static
-C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Drivers/STM32H7RSxx_HAL_Driver/Src/stm32h7rsxx_hal_crc_ex.c:168:19:HAL_CRCEx_Input_Data_Reverse	0	static
-C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Drivers/STM32H7RSxx_HAL_Driver/Src/stm32h7rsxx_hal_crc_ex.c:194:19:HAL_CRCEx_Output_Data_Reverse	0	static
+C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Drivers/STM32H7RSxx_HAL_Driver/Src/stm32h7rsxx_hal_crc_ex.c:89:19:HAL_CRCEx_Polynomial_Set	8	static
+C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Drivers/STM32H7RSxx_HAL_Driver/Src/stm32h7rsxx_hal_crc_ex.c:168:19:HAL_CRCEx_Input_Data_Reverse	0	static
+C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Drivers/STM32H7RSxx_HAL_Driver/Src/stm32h7rsxx_hal_crc_ex.c:194:19:HAL_CRCEx_Output_Data_Reverse	0	static

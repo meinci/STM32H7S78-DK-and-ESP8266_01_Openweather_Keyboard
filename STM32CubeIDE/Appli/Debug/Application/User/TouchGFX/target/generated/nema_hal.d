@@ -1,5 +1,5 @@
 Application/User/TouchGFX/target/generated/nema_hal.o: \
- C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/TouchGFX/target/generated/nema_hal.c \
+ C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Appli/TouchGFX/target/generated/nema_hal.c \
  ../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Config.hpp \
  ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/NemaGFX/include/nema_sys_defs.h \
  ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/NemaGFX/include/nema_core.h \

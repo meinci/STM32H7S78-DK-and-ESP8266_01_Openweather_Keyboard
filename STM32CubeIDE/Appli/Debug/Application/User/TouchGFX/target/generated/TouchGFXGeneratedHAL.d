@@ -1,5 +1,5 @@
 Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o: \
- C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/TouchGFX/target/generated/TouchGFXGeneratedHAL.cpp \
+ C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Appli/TouchGFX/target/generated/TouchGFXGeneratedHAL.cpp \
  ../../../Appli/TouchGFX/target/generated/TouchGFXGeneratedHAL.hpp \
  ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/include/touchgfx_nema/HALGPU2D.hpp \
  ../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/hal/HAL.hpp \

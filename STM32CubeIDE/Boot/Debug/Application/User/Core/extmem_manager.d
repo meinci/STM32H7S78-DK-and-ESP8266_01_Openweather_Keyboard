@@ -1,5 +1,5 @@
 Application/User/Core/extmem_manager.o: \
- C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Boot/Core/Src/extmem_manager.c \
+ C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Boot/Core/Src/extmem_manager.c \
  ../../../Boot/Core/Inc/extmem_manager.h \
  ../../../Boot/Core/Inc/stm32_extmem_conf.h \
  ../../../Drivers/STM32H7RSxx_HAL_Driver/Inc/stm32h7rsxx_hal.h \

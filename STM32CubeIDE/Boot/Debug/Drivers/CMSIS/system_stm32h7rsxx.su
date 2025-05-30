@@ -1,2 +1,2 @@
-C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Boot/Core/Src/system_stm32h7rsxx.c:160:6:SystemInit	4	static
-C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Boot/Core/Src/system_stm32h7rsxx.c:214:6:SystemCoreClockUpdate	40	static
+C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Boot/Core/Src/system_stm32h7rsxx.c:160:6:SystemInit	4	static
+C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Boot/Core/Src/system_stm32h7rsxx.c:214:6:SystemCoreClockUpdate	40	static

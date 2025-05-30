@@ -1,5 +1,5 @@
 Middlewares/FreeRTOS/cmsis_os2.o: \
- C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c \
+ C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c \
  ../../../Drivers/CMSIS/RTOS2/Include/cmsis_os2.h \
  ../../../Drivers/CMSIS/Include/cmsis_compiler.h \
  ../../../Drivers/CMSIS/Include/cmsis_gcc.h \
@@ -18,8 +18,8 @@ Middlewares/FreeRTOS/cmsis_os2.o: \
  ../../../Middlewares/Third_Party/FreeRTOS/Source/include/semphr.h \
  ../../../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h \
  ../../../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h \
- C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/freertos_mpool.h \
- C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/freertos_os2.h \
+ C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/freertos_mpool.h \
+ C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/freertos_os2.h \
  ../../../Drivers/CMSIS/Device/ST/STM32H7RSxx/Include/stm32h7rsxx.h \
  ../../../Drivers/CMSIS/Device/ST/STM32H7RSxx/Include/stm32h7s7xx.h \
  ../../../Drivers/CMSIS/Include/core_cm7.h \
@@ -77,8 +77,8 @@ Middlewares/FreeRTOS/cmsis_os2.o: \
 ../../../Middlewares/Third_Party/FreeRTOS/Source/include/semphr.h:
 ../../../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h:
 ../../../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h:
-C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/freertos_mpool.h:
-C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/freertos_os2.h:
+C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/freertos_mpool.h:
+C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/freertos_os2.h:
 ../../../Drivers/CMSIS/Device/ST/STM32H7RSxx/Include/stm32h7rsxx.h:
 ../../../Drivers/CMSIS/Device/ST/STM32H7RSxx/Include/stm32h7s7xx.h:
 ../../../Drivers/CMSIS/Include/core_cm7.h:

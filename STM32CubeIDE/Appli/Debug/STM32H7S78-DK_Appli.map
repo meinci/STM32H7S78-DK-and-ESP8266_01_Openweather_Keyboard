@@ -3583,8 +3583,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x18a ./Application/User/generated/CompressedFontCache.o
  .debug_macro   0x00000000       0x16 ./Application/User/generated/CompressedFontCache.o
  .debug_macro   0x00000000       0x10 ./Application/User/generated/CompressedFontCache.o
- .debug_line    0x00000000     0x1164 ./Application/User/generated/CompressedFontCache.o
- .debug_str     0x00000000    0x123ab ./Application/User/generated/CompressedFontCache.o
+ .debug_line    0x00000000     0x1140 ./Application/User/generated/CompressedFontCache.o
+ .debug_str     0x00000000    0x12363 ./Application/User/generated/CompressedFontCache.o
  .comment       0x00000000       0x44 ./Application/User/generated/CompressedFontCache.o
  .debug_frame   0x00000000       0xb0 ./Application/User/generated/CompressedFontCache.o
  .ARM.attributes
@@ -3699,8 +3699,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x18a ./Application/User/generated/CompressedUnmappedFontCache.o
  .debug_macro   0x00000000       0x16 ./Application/User/generated/CompressedUnmappedFontCache.o
  .debug_macro   0x00000000       0x10 ./Application/User/generated/CompressedUnmappedFontCache.o
- .debug_line    0x00000000     0x131c ./Application/User/generated/CompressedUnmappedFontCache.o
- .debug_str     0x00000000    0x126f6 ./Application/User/generated/CompressedUnmappedFontCache.o
+ .debug_line    0x00000000     0x12f8 ./Application/User/generated/CompressedUnmappedFontCache.o
+ .debug_str     0x00000000    0x126ae ./Application/User/generated/CompressedUnmappedFontCache.o
  .comment       0x00000000       0x44 ./Application/User/generated/CompressedUnmappedFontCache.o
  .debug_frame   0x00000000       0xfc ./Application/User/generated/CompressedUnmappedFontCache.o
  .ARM.attributes
@@ -4765,8 +4765,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x1df ./Application/User/generated/SVGDatabase.o
  .debug_macro   0x00000000       0xa3 ./Application/User/generated/SVGDatabase.o
  .debug_macro   0x00000000       0x1c ./Application/User/generated/SVGDatabase.o
- .debug_line    0x00000000      0x667 ./Application/User/generated/SVGDatabase.o
- .debug_str     0x00000000     0x5193 ./Application/User/generated/SVGDatabase.o
+ .debug_line    0x00000000      0x643 ./Application/User/generated/SVGDatabase.o
+ .debug_str     0x00000000     0x514b ./Application/User/generated/SVGDatabase.o
  .comment       0x00000000       0x44 ./Application/User/generated/SVGDatabase.o
  .debug_frame   0x00000000       0x30 ./Application/User/generated/SVGDatabase.o
  .ARM.attributes
@@ -5934,8 +5934,8 @@ Discarded input sections
  .debug_macro   0x00000000       0xa3 ./Application/User/generated/UnmappedDataFont.o
  .debug_macro   0x00000000       0x1c ./Application/User/generated/UnmappedDataFont.o
  .debug_macro   0x00000000       0x58 ./Application/User/generated/UnmappedDataFont.o
- .debug_line    0x00000000      0xd87 ./Application/User/generated/UnmappedDataFont.o
- .debug_str     0x00000000     0x6f0c ./Application/User/generated/UnmappedDataFont.o
+ .debug_line    0x00000000      0xd63 ./Application/User/generated/UnmappedDataFont.o
+ .debug_str     0x00000000     0x6ec4 ./Application/User/generated/UnmappedDataFont.o
  .comment       0x00000000       0x44 ./Application/User/generated/UnmappedDataFont.o
  .debug_frame   0x00000000      0x200 ./Application/User/generated/UnmappedDataFont.o
  .ARM.attributes
@@ -9224,8 +9224,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x693 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_exti.o
  .debug_macro   0x00000000       0xa6 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_exti.o
  .debug_macro   0x00000000      0x587 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_exti.o
- .debug_line    0x00000000      0xf76 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_exti.o
- .debug_str     0x00000000   0x145c08 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_exti.o
+ .debug_line    0x00000000      0xf52 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_exti.o
+ .debug_str     0x00000000   0x145bc0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_exti.o
  .comment       0x00000000       0x44 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_exti.o
  .debug_frame   0x00000000       0xcc ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_exti.o
  .ARM.attributes
@@ -10981,8 +10981,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x693 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_ltdc_ex.o
  .debug_macro   0x00000000       0xa6 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_ltdc_ex.o
  .debug_macro   0x00000000      0x587 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_ltdc_ex.o
- .debug_line    0x00000000      0xa61 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_ltdc_ex.o
- .debug_str     0x00000000   0x1458e0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_ltdc_ex.o
+ .debug_line    0x00000000      0xa3d ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_ltdc_ex.o
+ .debug_str     0x00000000   0x145898 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_ltdc_ex.o
  .comment       0x00000000       0x44 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_ltdc_ex.o
  .ARM.attributes
                 0x00000000       0x32 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_ltdc_ex.o
@@ -11164,8 +11164,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x693 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
  .debug_macro   0x00000000       0xa6 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
  .debug_macro   0x00000000      0x587 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
- .debug_line    0x00000000      0xc96 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
- .debug_str     0x00000000   0x145d7f ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
+ .debug_line    0x00000000      0xc72 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
+ .debug_str     0x00000000   0x145d37 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
  .comment       0x00000000       0x44 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
  .debug_frame   0x00000000      0x100 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
  .ARM.attributes
@@ -11929,8 +11929,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x693 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_smbus.o
  .debug_macro   0x00000000       0xa6 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_smbus.o
  .debug_macro   0x00000000      0x587 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_smbus.o
- .debug_line    0x00000000      0xa5f ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_smbus.o
- .debug_str     0x00000000   0x1458de ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_smbus.o
+ .debug_line    0x00000000      0xa3b ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_smbus.o
+ .debug_str     0x00000000   0x145896 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_smbus.o
  .comment       0x00000000       0x44 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_smbus.o
  .ARM.attributes
                 0x00000000       0x32 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_smbus.o
@@ -12078,8 +12078,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x693 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_smbus_ex.o
  .debug_macro   0x00000000       0xa6 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_smbus_ex.o
  .debug_macro   0x00000000      0x587 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_smbus_ex.o
- .debug_line    0x00000000      0xa62 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_smbus_ex.o
- .debug_str     0x00000000   0x1458e1 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_smbus_ex.o
+ .debug_line    0x00000000      0xa3e ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_smbus_ex.o
+ .debug_str     0x00000000   0x145899 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_smbus_ex.o
  .comment       0x00000000       0x44 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_smbus_ex.o
  .ARM.attributes
                 0x00000000       0x32 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_smbus_ex.o
@@ -13438,8 +13438,8 @@ Discarded input sections
  .debug_macro   0x00000000       0xc3 ./Middlewares/FreeRTOS/croutine.o
  .debug_macro   0x00000000      0x120 ./Middlewares/FreeRTOS/croutine.o
  .debug_macro   0x00000000       0x49 ./Middlewares/FreeRTOS/croutine.o
- .debug_line    0x00000000      0x5b5 ./Middlewares/FreeRTOS/croutine.o
- .debug_str     0x00000000     0x97cd ./Middlewares/FreeRTOS/croutine.o
+ .debug_line    0x00000000      0x591 ./Middlewares/FreeRTOS/croutine.o
+ .debug_str     0x00000000     0x9785 ./Middlewares/FreeRTOS/croutine.o
  .comment       0x00000000       0x44 ./Middlewares/FreeRTOS/croutine.o
  .ARM.attributes
                 0x00000000       0x32 ./Middlewares/FreeRTOS/croutine.o
@@ -13553,8 +13553,8 @@ Discarded input sections
  .debug_macro   0x00000000       0xc3 ./Middlewares/FreeRTOS/event_groups.o
  .debug_macro   0x00000000      0x120 ./Middlewares/FreeRTOS/event_groups.o
  .debug_macro   0x00000000       0x91 ./Middlewares/FreeRTOS/event_groups.o
- .debug_line    0x00000000      0xf46 ./Middlewares/FreeRTOS/event_groups.o
- .debug_str     0x00000000     0xd3ca ./Middlewares/FreeRTOS/event_groups.o
+ .debug_line    0x00000000      0xf22 ./Middlewares/FreeRTOS/event_groups.o
+ .debug_str     0x00000000     0xd382 ./Middlewares/FreeRTOS/event_groups.o
  .comment       0x00000000       0x44 ./Middlewares/FreeRTOS/event_groups.o
  .debug_frame   0x00000000      0x160 ./Middlewares/FreeRTOS/event_groups.o
  .ARM.attributes
@@ -13765,8 +13765,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x87 ./Middlewares/FreeRTOS/mpu_wrappers.o
  .debug_macro   0x00000000       0x97 ./Middlewares/FreeRTOS/mpu_wrappers.o
  .debug_macro   0x00000000       0x18 ./Middlewares/FreeRTOS/mpu_wrappers.o
- .debug_line    0x00000000      0x60b ./Middlewares/FreeRTOS/mpu_wrappers.o
- .debug_str     0x00000000     0xa3ee ./Middlewares/FreeRTOS/mpu_wrappers.o
+ .debug_line    0x00000000      0x5e7 ./Middlewares/FreeRTOS/mpu_wrappers.o
+ .debug_str     0x00000000     0xa3a6 ./Middlewares/FreeRTOS/mpu_wrappers.o
  .comment       0x00000000       0x44 ./Middlewares/FreeRTOS/mpu_wrappers.o
  .ARM.attributes
                 0x00000000       0x32 ./Middlewares/FreeRTOS/mpu_wrappers.o
@@ -14052,8 +14052,8 @@ Discarded input sections
  .debug_macro   0x00000000       0xc3 ./Middlewares/FreeRTOS/stream_buffer.o
  .debug_macro   0x00000000      0x120 ./Middlewares/FreeRTOS/stream_buffer.o
  .debug_macro   0x00000000       0x18 ./Middlewares/FreeRTOS/stream_buffer.o
- .debug_line    0x00000000     0x1853 ./Middlewares/FreeRTOS/stream_buffer.o
- .debug_str     0x00000000     0xd71f ./Middlewares/FreeRTOS/stream_buffer.o
+ .debug_line    0x00000000     0x182f ./Middlewares/FreeRTOS/stream_buffer.o
+ .debug_str     0x00000000     0xd6d7 ./Middlewares/FreeRTOS/stream_buffer.o
  .comment       0x00000000       0x44 ./Middlewares/FreeRTOS/stream_buffer.o
  .debug_frame   0x00000000      0x2cc ./Middlewares/FreeRTOS/stream_buffer.o
  .ARM.attributes
@@ -22561,7 +22561,7 @@ LCDGPU2D_AXI_HotFunctions
                 0x7004ca4c                touchgfx::LCDGPU2D_AXI::drawTextureMapQuad(touchgfx::DrawingSurface const&, touchgfx::Point3D const*, touchgfx::TextureSurface const&, touchgfx::Rect const&, touchgfx::Rect const&, unsigned short, unsigned char, unsigned short)
                 0x7004cfd8                touchgfx::LCDGPU2D_AXI::drawPartialBitmap(touchgfx::Bitmap const&, short, short, touchgfx::Rect const&, unsigned char, bool)
 
-.rodata         0x7004d240     0x595c
+.rodata         0x7004d240     0x58cc
                 0x7004d240                        . = ALIGN (0x4)
  *(.rodata)
  .rodata        0x7004d240       0x40 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(Container.o)
@@ -22570,743 +22570,743 @@ LCDGPU2D_AXI_HotFunctions
  .rodata        0x7004d308       0x18 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/NemaGFX/lib/core/cortex_m7/gcc\libnemagfx-float-abi-hard.a(nema_blender.o)
  *(.rodata*)
  .rodata.print_value.str1.1
-                0x7004d320     0x26ad ./Application/User/Core/cJSON.o
+                0x7004d320     0x261d ./Application/User/Core/cJSON.o
                                  0x25 (size before relaxing)
  .rodata.cJSON_ParseWithLengthOpts.str1.1
-                0x7004f9cd        0x4 ./Application/User/Core/cJSON.o
+                0x7004f93d        0x4 ./Application/User/Core/cJSON.o
  .rodata.extract_json.str1.1
-                0x7004f9cd       0x1b ./Application/User/Core/main.o
+                0x7004f93d       0x1b ./Application/User/Core/main.o
  .rodata.parse_weather_data.str1.1
-                0x7004f9cd       0x8d ./Application/User/Core/main.o
+                0x7004f93d       0x8d ./Application/User/Core/main.o
  .rodata.extract_ssid.str1.1
-                0x7004f9cd       0x26 ./Application/User/Core/main.o
+                0x7004f93d       0x26 ./Application/User/Core/main.o
  .rodata.extract_all_ssids.str1.1
-                0x7004f9cd        0x8 ./Application/User/Core/main.o
+                0x7004f93d        0x8 ./Application/User/Core/main.o
  .rodata.storeBuffer_City.str1.1
-                0x7004f9cd       0x6e ./Application/User/Core/main.o
+                0x7004f93d       0x6e ./Application/User/Core/main.o
  .rodata.HAL_UARTEx_RxEventCallback.str1.1
-                0x7004f9cd       0x55 ./Application/User/Core/main.o
+                0x7004f93d       0x55 ./Application/User/Core/main.o
  .rodata.storeSSIDPassword.str1.1
-                0x7004f9cd       0x20 ./Application/User/Core/main.o
+                0x7004f93d       0x20 ./Application/User/Core/main.o
  .rodata.StartDefaultTask.str1.1
-                0x7004f9cd       0x10 ./Application/User/Core/main.o
+                0x7004f93d       0x10 ./Application/User/Core/main.o
  .rodata.HAL_UART_TxCpltCallback.str1.1
-                0x7004f9cd       0x1b ./Application/User/Core/main.o
+                0x7004f93d       0x1b ./Application/User/Core/main.o
  .rodata.myScanFunctionInC.str1.1
-                0x7004f9cd       0x16 ./Application/User/Core/main.o
+                0x7004f93d       0x16 ./Application/User/Core/main.o
  .rodata.str1.1
-                0x7004f9cd      0x1af ./Application/User/Core/main.o
- *fill*         0x7004f9cd        0x3 
+                0x7004f93d      0x1af ./Application/User/Core/main.o
+ *fill*         0x7004f93d        0x3 
  .rodata.GuiQueue_attributes
-                0x7004f9d0       0x18 ./Application/User/Core/main.o
-                0x7004f9d0                GuiQueue_attributes
+                0x7004f940       0x18 ./Application/User/Core/main.o
+                0x7004f940                GuiQueue_attributes
  .rodata.TouchGFXTask_attributes
-                0x7004f9e8       0x24 ./Application/User/Core/main.o
-                0x7004f9e8                TouchGFXTask_attributes
+                0x7004f958       0x24 ./Application/User/Core/main.o
+                0x7004f958                TouchGFXTask_attributes
  .rodata.defaultTask_attributes
-                0x7004fa0c       0x24 ./Application/User/Core/main.o
-                0x7004fa0c                defaultTask_attributes
+                0x7004f97c       0x24 ./Application/User/Core/main.o
+                0x7004f97c                defaultTask_attributes
  .rodata._ZTVN8touchgfx25CortexMMCUInstrumentationE
-                0x7004fa30       0x28 ./Application/User/TouchGFX/target/CortexMMCUInstrumentation.o
-                0x7004fa30                vtable for touchgfx::CortexMMCUInstrumentation
+                0x7004f9a0       0x28 ./Application/User/TouchGFX/target/CortexMMCUInstrumentation.o
+                0x7004f9a0                vtable for touchgfx::CortexMMCUInstrumentation
  .rodata._ZTV20STM32TouchController
-                0x7004fa58       0x18 ./Application/User/TouchGFX/target/STM32TouchController.o
-                0x7004fa58                vtable for STM32TouchController
+                0x7004f9c8       0x18 ./Application/User/TouchGFX/target/STM32TouchController.o
+                0x7004f9c8                vtable for STM32TouchController
  .rodata._ZN8touchgfx3HAL28setFrameBufferStartAddressesEPvS1_S1_.str1.1
-                0x7004fa70       0xdd ./Application/User/TouchGFX/target/TouchGFXHAL.o
+                0x7004f9e0       0xdd ./Application/User/TouchGFX/target/TouchGFXHAL.o
  .rodata._ZN8touchgfx3HAL18setFrameBufferSizeEtt.str1.1
-                0x7004fa70       0xa6 ./Application/User/TouchGFX/target/TouchGFXHAL.o
+                0x7004f9e0       0xa6 ./Application/User/TouchGFX/target/TouchGFXHAL.o
  .rodata._ZTV11TouchGFXHAL
-                0x7004fa70       0xec ./Application/User/TouchGFX/target/TouchGFXHAL.o
-                0x7004fa70                vtable for TouchGFXHAL
+                0x7004f9e0       0xec ./Application/User/TouchGFX/target/TouchGFXHAL.o
+                0x7004f9e0                vtable for TouchGFXHAL
  .rodata._ZN20HardwareMJPEGDecoder15decodeThumbnailEmPhtt.str1.1
-                0x7004fb5c       0xfc ./Application/User/TouchGFX/target/generated/HardwareMJPEGDecoder.o
+                0x7004facc       0xd8 ./Application/User/TouchGFX/target/generated/HardwareMJPEGDecoder.o
  .rodata._ZN20HardwareMJPEGDecoder8readDataEmm.str1.1
-                0x7004fb5c       0x55 ./Application/User/TouchGFX/target/generated/HardwareMJPEGDecoder.o
+                0x7004facc       0x55 ./Application/User/TouchGFX/target/generated/HardwareMJPEGDecoder.o
  .rodata._ZN20HardwareMJPEGDecoder13gotoNextFrameEv.str1.1
-                0x7004fb5c       0x7c ./Application/User/TouchGFX/target/generated/HardwareMJPEGDecoder.o
+                0x7004facc       0x7c ./Application/User/TouchGFX/target/generated/HardwareMJPEGDecoder.o
  .rodata._ZN20HardwareMJPEGDecoder15readVideoHeaderEv.str1.1
-                0x7004fb5c       0xa3 ./Application/User/TouchGFX/target/generated/HardwareMJPEGDecoder.o
+                0x7004facc       0xa3 ./Application/User/TouchGFX/target/generated/HardwareMJPEGDecoder.o
  .rodata._ZN20HardwareMJPEGDecoder15decodeNextFrameEPhttm.str1.1
-                0x7004fb5c       0x5b ./Application/User/TouchGFX/target/generated/HardwareMJPEGDecoder.o
+                0x7004facc       0x5b ./Application/User/TouchGFX/target/generated/HardwareMJPEGDecoder.o
  .rodata._ZTV20HardwareMJPEGDecoder
-                0x7004fb5c       0x44 ./Application/User/TouchGFX/target/generated/HardwareMJPEGDecoder.o
-                0x7004fb5c                vtable for HardwareMJPEGDecoder
+                0x7004facc       0x44 ./Application/User/TouchGFX/target/generated/HardwareMJPEGDecoder.o
+                0x7004facc                vtable for HardwareMJPEGDecoder
  .rodata._ZN8touchgfx10OSWrappers10initializeEv.str1.1
-                0x7004fba0      0x14f ./Application/User/TouchGFX/target/generated/OSWrappers.o
+                0x7004fb10      0x12b ./Application/User/TouchGFX/target/generated/OSWrappers.o
  .rodata._ZN8STM32DMA23getChromARTOutputFormatEN8touchgfx6Bitmap12BitmapFormatE.isra.0.str1.1
-                0x7004fba0       0xf9 ./Application/User/TouchGFX/target/generated/STM32DMA.o
+                0x7004fb10       0xd5 ./Application/User/TouchGFX/target/generated/STM32DMA.o
  .rodata._ZN8STM32DMA22getChromARTInputFormatEN8touchgfx6Bitmap12BitmapFormatE.isra.0.str1.1
-                0x7004fba0       0x4a ./Application/User/TouchGFX/target/generated/STM32DMA.o
+                0x7004fb10       0x4a ./Application/User/TouchGFX/target/generated/STM32DMA.o
  .rodata._ZN8STM32DMA13setupDataCopyERKN8touchgfx6BlitOpE.str1.1
-                0x7004fba0       0x58 ./Application/User/TouchGFX/target/generated/STM32DMA.o
+                0x7004fb10       0x58 ./Application/User/TouchGFX/target/generated/STM32DMA.o
  .rodata._ZTV8STM32DMA
-                0x7004fba0       0x50 ./Application/User/TouchGFX/target/generated/STM32DMA.o
-                0x7004fba0                vtable for STM32DMA
+                0x7004fb10       0x50 ./Application/User/TouchGFX/target/generated/STM32DMA.o
+                0x7004fb10                vtable for STM32DMA
  .rodata._ZTVN8touchgfx9PartitionINS_4meta8TypeListI28ScreenKeyboard_CityPresenterNS2_INS1_3NilES4_EEEELt1EEE
-                0x7004fbf0       0x34 ./Application/User/TouchGFX/target/generated/TouchGFXConfiguration.o
-                0x7004fbf0                vtable for touchgfx::Partition<touchgfx::meta::TypeList<ScreenKeyboard_CityPresenter, touchgfx::meta::TypeList<touchgfx::meta::Nil, touchgfx::meta::Nil> >, (unsigned short)1>
+                0x7004fb60       0x34 ./Application/User/TouchGFX/target/generated/TouchGFXConfiguration.o
+                0x7004fb60                vtable for touchgfx::Partition<touchgfx::meta::TypeList<ScreenKeyboard_CityPresenter, touchgfx::meta::TypeList<touchgfx::meta::Nil, touchgfx::meta::Nil> >, (unsigned short)1>
  .rodata._ZTVN8touchgfx9PartitionINS_4meta8TypeListI11Screen1ViewNS2_INS1_3NilES4_EEEELt1EEE
-                0x7004fc24       0x34 ./Application/User/TouchGFX/target/generated/TouchGFXConfiguration.o
-                0x7004fc24                vtable for touchgfx::Partition<touchgfx::meta::TypeList<Screen1View, touchgfx::meta::TypeList<touchgfx::meta::Nil, touchgfx::meta::Nil> >, (unsigned short)1>
+                0x7004fb94       0x34 ./Application/User/TouchGFX/target/generated/TouchGFXConfiguration.o
+                0x7004fb94                vtable for touchgfx::Partition<touchgfx::meta::TypeList<Screen1View, touchgfx::meta::TypeList<touchgfx::meta::Nil, touchgfx::meta::Nil> >, (unsigned short)1>
  .rodata._ZTVN8touchgfx9PartitionINS_4meta8TypeListINS_15CoverTransitionILNS_9DirectionE2EEENS2_INS1_3NilES6_EEEELt1EEE
-                0x7004fc58       0x34 ./Application/User/TouchGFX/target/generated/TouchGFXConfiguration.o
-                0x7004fc58                vtable for touchgfx::Partition<touchgfx::meta::TypeList<touchgfx::CoverTransition<(touchgfx::Direction)2>, touchgfx::meta::TypeList<touchgfx::meta::Nil, touchgfx::meta::Nil> >, (unsigned short)1>
+                0x7004fbc8       0x34 ./Application/User/TouchGFX/target/generated/TouchGFXConfiguration.o
+                0x7004fbc8                vtable for touchgfx::Partition<touchgfx::meta::TypeList<touchgfx::CoverTransition<(touchgfx::Direction)2>, touchgfx::meta::TypeList<touchgfx::meta::Nil, touchgfx::meta::Nil> >, (unsigned short)1>
  .rodata._ZTV12FrontendHeap
-                0x7004fc8c       0x14 ./Application/User/TouchGFX/target/generated/TouchGFXConfiguration.o
-                0x7004fc8c                vtable for FrontendHeap
+                0x7004fbfc       0x14 ./Application/User/TouchGFX/target/generated/TouchGFXConfiguration.o
+                0x7004fbfc                vtable for FrontendHeap
  .rodata._ZN32DirectFrameBufferVideoControllerILm1ELN8touchgfx6Bitmap12BitmapFormatE0EE11updateFrameEmRNS0_11VideoWidgetE.str1.1
-                0x7004fca0      0x193 ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
+                0x7004fc10      0x193 ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
  .rodata._ZN32DirectFrameBufferVideoControllerILm1ELN8touchgfx6Bitmap12BitmapFormatE0EE12getIsPlayingEm.str1.1
-                0x7004fca0      0x11a ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
+                0x7004fc10      0x11a ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
  .rodata._ZN32DirectFrameBufferVideoControllerILm1ELN8touchgfx6Bitmap12BitmapFormatE0EE19getVideoInformationEmPNS0_16VideoInformationE.str1.1
-                0x7004fca0      0x13e ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
+                0x7004fc10      0x13e ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
  .rodata._ZN32DirectFrameBufferVideoControllerILm1ELN8touchgfx6Bitmap12BitmapFormatE0EE21getCurrentFrameNumberEm.str1.1
-                0x7004fca0      0x145 ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
+                0x7004fc10      0x145 ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
  .rodata._ZN32DirectFrameBufferVideoControllerILm1ELN8touchgfx6Bitmap12BitmapFormatE0EE10setCommandEmNS0_15VideoController7CommandEm.str1.1
-                0x7004fca0      0x164 ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
+                0x7004fc10      0x164 ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
  .rodata._ZN32DirectFrameBufferVideoControllerILm1ELN8touchgfx6Bitmap12BitmapFormatE0EE12setVideoDataEmRNS0_15VideoDataReaderE.str1.1
-                0x7004fca0      0x136 ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
+                0x7004fc10      0x136 ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
  .rodata._ZN32DirectFrameBufferVideoControllerILm1ELN8touchgfx6Bitmap12BitmapFormatE0EE12setVideoDataEmPKhm.str1.1
-                0x7004fca0      0x16b ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
+                0x7004fc10      0x16b ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
  .rodata._ZN32DirectFrameBufferVideoControllerILm1ELN8touchgfx6Bitmap12BitmapFormatE0EE12setFrameRateEmmm.str1.1
-                0x7004fca0      0x14c ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
+                0x7004fc10      0x14c ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
  .rodata._ZN32DirectFrameBufferVideoControllerILm1ELN8touchgfx6Bitmap12BitmapFormatE0EE4drawEmRKNS0_4RectERKNS0_11VideoWidgetE.str1.1
-                0x7004fca0      0x147 ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
+                0x7004fc10      0x147 ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
  .rodata._ZN32DirectFrameBufferVideoControllerILm1ELN8touchgfx6Bitmap12BitmapFormatE0EE19registerVideoWidgetERNS0_11VideoWidgetE.str1.1
-                0x7004fca0      0x147 ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
+                0x7004fc10      0x147 ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
  .rodata._ZTV32DirectFrameBufferVideoControllerILm1ELN8touchgfx6Bitmap12BitmapFormatE0EE
-                0x7004fca0       0x40 ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
-                0x7004fca0                vtable for DirectFrameBufferVideoController<1ul, (touchgfx::Bitmap::BitmapFormat)0>
+                0x7004fc10       0x40 ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
+                0x7004fc10                vtable for DirectFrameBufferVideoController<1ul, (touchgfx::Bitmap::BitmapFormat)0>
  .rodata.nema_buffer_create.str1.1
-                0x7004fce0       0xd8 ./Application/User/TouchGFX/target/generated/nema_hal.o
+                0x7004fc50       0xb4 ./Application/User/TouchGFX/target/generated/nema_hal.o
  .rodata.nema_sys_init.str1.1
-                0x7004fce0       0x42 ./Application/User/TouchGFX/target/generated/nema_hal.o
+                0x7004fc50       0x42 ./Application/User/TouchGFX/target/generated/nema_hal.o
  .rodata.nema_buffer_create_pool.str1.1
-                0x7004fce0       0x4c ./Application/User/TouchGFX/target/generated/nema_hal.o
+                0x7004fc50       0x4c ./Application/User/TouchGFX/target/generated/nema_hal.o
  .rodata.__func__.0
-                0x7004fce0       0x18 ./Application/User/TouchGFX/target/generated/nema_hal.o
+                0x7004fc50       0x18 ./Application/User/TouchGFX/target/generated/nema_hal.o
  .rodata.__func__.1
-                0x7004fcf8       0x13 ./Application/User/TouchGFX/target/generated/nema_hal.o
+                0x7004fc68       0x13 ./Application/User/TouchGFX/target/generated/nema_hal.o
  .rodata.__func__.2
-                0x7004fd0b        0xe ./Application/User/TouchGFX/target/generated/nema_hal.o
- *fill*         0x7004fd19        0x3 
+                0x7004fc7b        0xe ./Application/User/TouchGFX/target/generated/nema_hal.o
+ *fill*         0x7004fc89        0x3 
  .rodata._ZTV23ApplicationFontProvider
-                0x7004fd1c       0x14 ./Application/User/generated/ApplicationFontProvider.o
-                0x7004fd1c                vtable for ApplicationFontProvider
+                0x7004fc8c       0x14 ./Application/User/generated/ApplicationFontProvider.o
+                0x7004fc8c                vtable for ApplicationFontProvider
  .rodata._ZL15bitmap_database
-                0x7004fd30      0x2a8 ./Application/User/generated/BitmapDatabase.o
+                0x7004fca0      0x2a8 ./Application/User/generated/BitmapDatabase.o
  .rodata._ZTVN8touchgfx9TypedTextE
-                0x7004ffd8       0x10 ./Application/User/generated/FontCache.o
-                0x7004ffd8                vtable for touchgfx::TypedText
+                0x7004ff48       0x10 ./Application/User/generated/FontCache.o
+                0x7004ff48                vtable for touchgfx::TypedText
  .rodata._ZN23FrontendApplicationBase52gotoScreenKeyboard_CityScreenCoverTransitionEastImplEv.str1.1
-                0x7004ffe8      0x32a ./Application/User/generated/FrontendApplicationBase.o
+                0x7004ff58      0x32a ./Application/User/generated/FrontendApplicationBase.o
  .rodata._ZN23FrontendApplicationBase50gotoScreenConnectSSIDScreenCoverTransitionWestImplEv.str1.1
-                0x7004ffe8       0xf9 ./Application/User/generated/FrontendApplicationBase.o
+                0x7004ff58       0xf9 ./Application/User/generated/FrontendApplicationBase.o
  .rodata._ZN23FrontendApplicationBase45gotoScreenKeyboard_CityScreenNoTransitionImplEv.str1.1
-                0x7004ffe8       0xea ./Application/User/generated/FrontendApplicationBase.o
+                0x7004ff58       0xea ./Application/User/generated/FrontendApplicationBase.o
  .rodata._ZN23FrontendApplicationBase40gotoScreenKeyboardScreenNoTransitionImplEv.str1.1
-                0x7004ffe8       0xe0 ./Application/User/generated/FrontendApplicationBase.o
+                0x7004ff58       0xe0 ./Application/User/generated/FrontendApplicationBase.o
  .rodata._ZN23FrontendApplicationBase43gotoScreenConnectSSIDScreenNoTransitionImplEv.str1.1
-                0x7004ffe8       0xe6 ./Application/User/generated/FrontendApplicationBase.o
+                0x7004ff58       0xe6 ./Application/User/generated/FrontendApplicationBase.o
  .rodata._ZN23FrontendApplicationBase33gotoScreen1ScreenNoTransitionImplEv.str1.1
-                0x7004ffe8       0xd2 ./Application/User/generated/FrontendApplicationBase.o
+                0x7004ff58       0xd2 ./Application/User/generated/FrontendApplicationBase.o
  .rodata._ZTVN8touchgfx8CallbackI23FrontendApplicationBasevvvEE
-                0x7004ffe8       0x18 ./Application/User/generated/FrontendApplicationBase.o
-                0x7004ffe8                vtable for touchgfx::Callback<FrontendApplicationBase, void, void, void>
+                0x7004ff58       0x18 ./Application/User/generated/FrontendApplicationBase.o
+                0x7004ff58                vtable for touchgfx::Callback<FrontendApplicationBase, void, void, void>
  .rodata._ZTV23FrontendApplicationBase
-                0x70050000       0x54 ./Application/User/generated/FrontendApplicationBase.o
-                0x70050000                vtable for FrontendApplicationBase
+                0x7004ff70       0x54 ./Application/User/generated/FrontendApplicationBase.o
+                0x7004ff70                vtable for FrontendApplicationBase
  .rodata._ZTVN8touchgfx12NoTransitionE
-                0x70050054       0x24 ./Application/User/generated/FrontendApplicationBase.o
-                0x70050054                vtable for touchgfx::NoTransition
+                0x7004ffc4       0x24 ./Application/User/generated/FrontendApplicationBase.o
+                0x7004ffc4                vtable for touchgfx::NoTransition
  .rodata._ZTVN8touchgfx15CoverTransitionILNS_9DirectionE3EEE
-                0x70050078       0x24 ./Application/User/generated/FrontendApplicationBase.o
-                0x70050078                vtable for touchgfx::CoverTransition<(touchgfx::Direction)3>
+                0x7004ffe8       0x24 ./Application/User/generated/FrontendApplicationBase.o
+                0x7004ffe8                vtable for touchgfx::CoverTransition<(touchgfx::Direction)3>
  .rodata._ZTVN8touchgfx15CoverTransitionILNS_9DirectionE2EEE
-                0x7005009c       0x24 ./Application/User/generated/FrontendApplicationBase.o
-                0x7005009c                vtable for touchgfx::CoverTransition<(touchgfx::Direction)2>
+                0x7005000c       0x24 ./Application/User/generated/FrontendApplicationBase.o
+                0x7005000c                vtable for touchgfx::CoverTransition<(touchgfx::Direction)2>
  .rodata._ZTVN8touchgfx13GeneratedFontE
-                0x700500c0       0x68 ./Application/User/generated/GeneratedFont.o
-                0x700500c0                vtable for touchgfx::GeneratedFont
+                0x70050030       0x68 ./Application/User/generated/GeneratedFont.o
+                0x70050030                vtable for touchgfx::GeneratedFont
  .rodata._ZTVN8touchgfx19GeneratedVectorFontE
-                0x70050128       0x64 ./Application/User/generated/GeneratedFont.o
-                0x70050128                vtable for touchgfx::GeneratedVectorFont
+                0x70050098       0x64 ./Application/User/generated/GeneratedFont.o
+                0x70050098                vtable for touchgfx::GeneratedVectorFont
  .rodata._ZN8touchgfx8TextArea12setBaselineYEs.str1.1
-                0x7005018c      0x114 ./Application/User/generated/Screen1ViewBase.o
+                0x700500fc      0x114 ./Application/User/generated/Screen1ViewBase.o
  .rodata._ZTVN8touchgfx6WidgetE
-                0x7005018c       0x68 ./Application/User/generated/Screen1ViewBase.o
-                0x7005018c                vtable for touchgfx::Widget
+                0x700500fc       0x68 ./Application/User/generated/Screen1ViewBase.o
+                0x700500fc                vtable for touchgfx::Widget
  .rodata._ZTVN8touchgfx23TextAreaWithOneWildcardE
-                0x700501f4       0x90 ./Application/User/generated/Screen1ViewBase.o
-                0x700501f4                vtable for touchgfx::TextAreaWithOneWildcard
+                0x70050164       0x90 ./Application/User/generated/Screen1ViewBase.o
+                0x70050164                vtable for touchgfx::TextAreaWithOneWildcard
  .rodata._ZTVN8touchgfx13ClickListenerINS_23TextAreaWithOneWildcardEEE
-                0x70050284       0x90 ./Application/User/generated/Screen1ViewBase.o
-                0x70050284                vtable for touchgfx::ClickListener<touchgfx::TextAreaWithOneWildcard>
+                0x700501f4       0x90 ./Application/User/generated/Screen1ViewBase.o
+                0x700501f4                vtable for touchgfx::ClickListener<touchgfx::TextAreaWithOneWildcard>
  .rodata._ZTVN8touchgfx24BoxWithBorderButtonStyleINS_18ClickButtonTriggerEEE
-                0x70050314       0x9c ./Application/User/generated/Screen1ViewBase.o
-                0x70050314                vtable for touchgfx::BoxWithBorderButtonStyle<touchgfx::ClickButtonTrigger>
+                0x70050284       0x9c ./Application/User/generated/Screen1ViewBase.o
+                0x70050284                vtable for touchgfx::BoxWithBorderButtonStyle<touchgfx::ClickButtonTrigger>
  .rodata._ZTVN8touchgfx15IconButtonStyleINS_24BoxWithBorderButtonStyleINS_18ClickButtonTriggerEEEEE
-                0x700503b0       0xa0 ./Application/User/generated/Screen1ViewBase.o
-                0x700503b0                vtable for touchgfx::IconButtonStyle<touchgfx::BoxWithBorderButtonStyle<touchgfx::ClickButtonTrigger> >
+                0x70050320       0xa0 ./Application/User/generated/Screen1ViewBase.o
+                0x70050320                vtable for touchgfx::IconButtonStyle<touchgfx::BoxWithBorderButtonStyle<touchgfx::ClickButtonTrigger> >
  .rodata._ZTVN8touchgfx8CallbackI15Screen1ViewBaseRKNS_23AbstractButtonContainerEvvEE
-                0x70050450       0x18 ./Application/User/generated/Screen1ViewBase.o
-                0x70050450                vtable for touchgfx::Callback<Screen1ViewBase, touchgfx::AbstractButtonContainer const&, void, void>
+                0x700503c0       0x18 ./Application/User/generated/Screen1ViewBase.o
+                0x700503c0                vtable for touchgfx::Callback<Screen1ViewBase, touchgfx::AbstractButtonContainer const&, void, void>
  .rodata._ZTV15Screen1ViewBase
-                0x70050468       0x3c ./Application/User/generated/Screen1ViewBase.o
-                0x70050468                vtable for Screen1ViewBase
+                0x700503d8       0x3c ./Application/User/generated/Screen1ViewBase.o
+                0x700503d8                vtable for Screen1ViewBase
  .rodata._ZN8touchgfx8TextArea12setBaselineYEs.str1.1
-                0x700504a4      0x114 ./Application/User/generated/ScreenConnectSSIDViewBase.o
+                0x70050414      0x114 ./Application/User/generated/ScreenConnectSSIDViewBase.o
  .rodata._ZN25ScreenConnectSSIDViewBaseC2Ev.str1.1
-                0x700504a4       0x4e ./Application/User/generated/ScreenConnectSSIDViewBase.o
+                0x70050414       0x4e ./Application/User/generated/ScreenConnectSSIDViewBase.o
  .rodata._ZTVN8touchgfx8CallbackI25ScreenConnectSSIDViewBaseRKNS_14AbstractButtonEvvEE
-                0x700504a4       0x18 ./Application/User/generated/ScreenConnectSSIDViewBase.o
-                0x700504a4                vtable for touchgfx::Callback<ScreenConnectSSIDViewBase, touchgfx::AbstractButton const&, void, void>
+                0x70050414       0x18 ./Application/User/generated/ScreenConnectSSIDViewBase.o
+                0x70050414                vtable for touchgfx::Callback<ScreenConnectSSIDViewBase, touchgfx::AbstractButton const&, void, void>
  .rodata._ZTVN8touchgfx8CallbackI25ScreenConnectSSIDViewBaseRKNS_23AbstractButtonContainerEvvEE
-                0x700504bc       0x18 ./Application/User/generated/ScreenConnectSSIDViewBase.o
-                0x700504bc                vtable for touchgfx::Callback<ScreenConnectSSIDViewBase, touchgfx::AbstractButtonContainer const&, void, void>
+                0x7005042c       0x18 ./Application/User/generated/ScreenConnectSSIDViewBase.o
+                0x7005042c                vtable for touchgfx::Callback<ScreenConnectSSIDViewBase, touchgfx::AbstractButtonContainer const&, void, void>
  .rodata._ZTV25ScreenConnectSSIDViewBase
-                0x700504d4       0x48 ./Application/User/generated/ScreenConnectSSIDViewBase.o
-                0x700504d4                vtable for ScreenConnectSSIDViewBase
+                0x70050444       0x48 ./Application/User/generated/ScreenConnectSSIDViewBase.o
+                0x70050444                vtable for ScreenConnectSSIDViewBase
  .rodata._ZTVN8touchgfx8CallbackI22ScreenKeyboardViewBaseRKNS_14AbstractButtonEvvEE
-                0x7005051c       0x18 ./Application/User/generated/ScreenKeyboardViewBase.o
-                0x7005051c                vtable for touchgfx::Callback<ScreenKeyboardViewBase, touchgfx::AbstractButton const&, void, void>
+                0x7005048c       0x18 ./Application/User/generated/ScreenKeyboardViewBase.o
+                0x7005048c                vtable for touchgfx::Callback<ScreenKeyboardViewBase, touchgfx::AbstractButton const&, void, void>
  .rodata._ZTV22ScreenKeyboardViewBase
-                0x70050534       0x38 ./Application/User/generated/ScreenKeyboardViewBase.o
-                0x70050534                vtable for ScreenKeyboardViewBase
+                0x700504a4       0x38 ./Application/User/generated/ScreenKeyboardViewBase.o
+                0x700504a4                vtable for ScreenKeyboardViewBase
  .rodata._ZTVN8touchgfx8CallbackI27ScreenKeyboard_CityViewBaseRKNS_14AbstractButtonEvvEE
-                0x7005056c       0x18 ./Application/User/generated/ScreenKeyboard_CityViewBase.o
-                0x7005056c                vtable for touchgfx::Callback<ScreenKeyboard_CityViewBase, touchgfx::AbstractButton const&, void, void>
+                0x700504dc       0x18 ./Application/User/generated/ScreenKeyboard_CityViewBase.o
+                0x700504dc                vtable for touchgfx::Callback<ScreenKeyboard_CityViewBase, touchgfx::AbstractButton const&, void, void>
  .rodata._ZTV27ScreenKeyboard_CityViewBase
-                0x70050584       0x38 ./Application/User/generated/ScreenKeyboard_CityViewBase.o
-                0x70050584                vtable for ScreenKeyboard_CityViewBase
+                0x700504f4       0x38 ./Application/User/generated/ScreenKeyboard_CityViewBase.o
+                0x700504f4                vtable for ScreenKeyboard_CityViewBase
  .rodata.arial_contextualFormsTable
-                0x700505bc       0x20 ./Application/User/generated/Table_arial_10_4bpp.o
-                0x700505bc                arial_contextualFormsTable
+                0x7005052c       0x20 ./Application/User/generated/Table_arial_10_4bpp.o
+                0x7005052c                arial_contextualFormsTable
  .rodata._ZL19contextualForms06XX
-                0x700505dc      0x190 ./Application/User/generated/Table_arial_10_4bpp.o
+                0x7005054c      0x190 ./Application/User/generated/Table_arial_10_4bpp.o
  .rodata._ZL24contextualForms0641_064a
-                0x7005076c       0x50 ./Application/User/generated/Table_arial_10_4bpp.o
+                0x700506dc       0x50 ./Application/User/generated/Table_arial_10_4bpp.o
  .rodata._ZL24contextualForms0621_063a
-                0x700507bc       0xd0 ./Application/User/generated/Table_arial_10_4bpp.o
+                0x7005072c       0xd0 ./Application/User/generated/Table_arial_10_4bpp.o
  .rodata._ZL20contextualForms2Long
-                0x7005088c      0x10e ./Application/User/generated/Table_arial_10_4bpp.o
+                0x700507fc      0x10e ./Application/User/generated/Table_arial_10_4bpp.o
  .rodata._ZL20contextualForms3Long
-                0x7005099a       0x5a ./Application/User/generated/Table_arial_10_4bpp.o
+                0x7005090a       0x5a ./Application/User/generated/Table_arial_10_4bpp.o
  .rodata._ZL20contextualForms4Long
-                0x700509f4       0x1e ./Application/User/generated/Table_arial_10_4bpp.o
+                0x70050964       0x1e ./Application/User/generated/Table_arial_10_4bpp.o
  .rodata._ZN8touchgfx12TextProvider15getNextLigatureEh.str1.1
-                0x70050a12      0x1f0 ./Application/User/generated/Texts.o
- *fill*         0x70050a12        0x2 
+                0x70050982      0x1f0 ./Application/User/generated/Texts.o
+ *fill*         0x70050982        0x2 
  .rodata._ZL21staticLanguageIndices
-                0x70050a14        0x8 ./Application/User/generated/Texts.o
+                0x70050984        0x8 ./Application/User/generated/Texts.o
  .rodata.vector_arial_contextualFormsTable
-                0x70050a1c       0x20 ./Application/User/generated/Vector_Table_arial.o
-                0x70050a1c                vector_arial_contextualFormsTable
+                0x7005098c       0x20 ./Application/User/generated/Vector_Table_arial.o
+                0x7005098c                vector_arial_contextualFormsTable
  .rodata._ZL19contextualForms06XX
-                0x70050a3c      0x190 ./Application/User/generated/Vector_Table_arial.o
+                0x700509ac      0x190 ./Application/User/generated/Vector_Table_arial.o
  .rodata._ZL24contextualForms0641_064a
-                0x70050bcc       0x50 ./Application/User/generated/Vector_Table_arial.o
+                0x70050b3c       0x50 ./Application/User/generated/Vector_Table_arial.o
  .rodata._ZL24contextualForms0621_063a
-                0x70050c1c       0xd0 ./Application/User/generated/Vector_Table_arial.o
+                0x70050b8c       0xd0 ./Application/User/generated/Vector_Table_arial.o
  .rodata._ZL20contextualForms2Long
-                0x70050cec      0x10e ./Application/User/generated/Vector_Table_arial.o
+                0x70050c5c      0x10e ./Application/User/generated/Vector_Table_arial.o
  .rodata._ZL20contextualForms3Long
-                0x70050dfa       0x5a ./Application/User/generated/Vector_Table_arial.o
+                0x70050d6a       0x5a ./Application/User/generated/Vector_Table_arial.o
  .rodata._ZL20contextualForms4Long
-                0x70050e54       0x1e ./Application/User/generated/Vector_Table_arial.o
+                0x70050dc4       0x1e ./Application/User/generated/Vector_Table_arial.o
  .rodata.vector_fontData_arial
-                0x70050e72       0x10 ./Application/User/generated/Vector_Table_arial.o
-                0x70050e72                vector_fontData_arial
- *fill*         0x70050e82        0x2 
+                0x70050de2       0x10 ./Application/User/generated/Vector_Table_arial.o
+                0x70050de2                vector_fontData_arial
+ *fill*         0x70050df2        0x2 
  .rodata._ZTVN8touchgfx8CallbackI14CustomKeyboardvvvEE
-                0x70050e84       0x18 ./Application/User/gui/CustomKeyboard.o
-                0x70050e84                vtable for touchgfx::Callback<CustomKeyboard, void, void, void>
+                0x70050df4       0x18 ./Application/User/gui/CustomKeyboard.o
+                0x70050df4                vtable for touchgfx::Callback<CustomKeyboard, void, void, void>
  .rodata._ZTVN8touchgfx8CallbackI14CustomKeyboardtvvEE
-                0x70050e9c       0x18 ./Application/User/gui/CustomKeyboard.o
-                0x70050e9c                vtable for touchgfx::Callback<CustomKeyboard, unsigned short, void, void>
+                0x70050e0c       0x18 ./Application/User/gui/CustomKeyboard.o
+                0x70050e0c                vtable for touchgfx::Callback<CustomKeyboard, unsigned short, void, void>
  .rodata._ZTV14CustomKeyboard
-                0x70050eb4       0x90 ./Application/User/gui/CustomKeyboard.o
-                0x70050eb4                vtable for CustomKeyboard
+                0x70050e24       0x90 ./Application/User/gui/CustomKeyboard.o
+                0x70050e24                vtable for CustomKeyboard
  .rodata._ZL22keyMappingListNumUpper
-                0x70050f44        0x8 ./Application/User/gui/CustomKeyboard.o
+                0x70050eb4        0x8 ./Application/User/gui/CustomKeyboard.o
  .rodata._ZL19keyMappingsNumUpper
-                0x70050f4c       0x78 ./Application/User/gui/CustomKeyboard.o
+                0x70050ebc       0x78 ./Application/User/gui/CustomKeyboard.o
  .rodata._ZL22keyMappingListNumLower
-                0x70050fc4        0x8 ./Application/User/gui/CustomKeyboard.o
+                0x70050f34        0x8 ./Application/User/gui/CustomKeyboard.o
  .rodata._ZL19keyMappingsNumLower
-                0x70050fcc       0x78 ./Application/User/gui/CustomKeyboard.o
+                0x70050f3c       0x78 ./Application/User/gui/CustomKeyboard.o
  .rodata._ZL24keyMappingListAlphaUpper
-                0x70051044        0x8 ./Application/User/gui/CustomKeyboard.o
+                0x70050fb4        0x8 ./Application/User/gui/CustomKeyboard.o
  .rodata._ZL21keyMappingsAlphaUpper
-                0x7005104c       0x78 ./Application/User/gui/CustomKeyboard.o
+                0x70050fbc       0x78 ./Application/User/gui/CustomKeyboard.o
  .rodata._ZL24keyMappingListAlphaLower
-                0x700510c4        0x8 ./Application/User/gui/CustomKeyboard.o
+                0x70051034        0x8 ./Application/User/gui/CustomKeyboard.o
  .rodata._ZL21keyMappingsAlphaLower
-                0x700510cc       0x78 ./Application/User/gui/CustomKeyboard.o
+                0x7005103c       0x78 ./Application/User/gui/CustomKeyboard.o
  .rodata._ZTV19FrontendApplication
-                0x70051144       0x54 ./Application/User/gui/FrontendApplication.o
-                0x70051144                vtable for FrontendApplication
+                0x700510b4       0x54 ./Application/User/gui/FrontendApplication.o
+                0x700510b4                vtable for FrontendApplication
  .rodata._ZTV16Screen1Presenter
-                0x70051198       0x90 ./Application/User/gui/Screen1Presenter.o
-                0x70051198                vtable for Screen1Presenter
+                0x70051108       0x90 ./Application/User/gui/Screen1Presenter.o
+                0x70051108                vtable for Screen1Presenter
  .rodata._ZN11Screen1View10updateHumiEii.str1.1
-                0x70051228        0x6 ./Application/User/gui/Screen1View.o
+                0x70051198        0x6 ./Application/User/gui/Screen1View.o
  .rodata._ZN11Screen1View10updatePresEii.str1.1
-                0x70051228        0x6 ./Application/User/gui/Screen1View.o
+                0x70051198        0x6 ./Application/User/gui/Screen1View.o
  .rodata._ZN11Screen1View10updateYearEi.str1.1
-                0x70051228        0x5 ./Application/User/gui/Screen1View.o
+                0x70051198        0x5 ./Application/User/gui/Screen1View.o
  .rodata._ZN11Screen1View11updateMonthEi.str1.1
-                0x70051228        0x5 ./Application/User/gui/Screen1View.o
+                0x70051198        0x5 ./Application/User/gui/Screen1View.o
  .rodata._ZN11Screen1View10updateTempEif.str1.1
-                0x70051228        0x8 ./Application/User/gui/Screen1View.o
+                0x70051198        0x8 ./Application/User/gui/Screen1View.o
  .rodata._ZN11Screen1View10updateIconEiPc.str1.1
-                0x70051228       0x48 ./Application/User/gui/Screen1View.o
+                0x70051198       0x48 ./Application/User/gui/Screen1View.o
  .rodata._ZTV11Screen1View
-                0x70051228       0x3c ./Application/User/gui/Screen1View.o
-                0x70051228                vtable for Screen1View
+                0x70051198       0x3c ./Application/User/gui/Screen1View.o
+                0x70051198                vtable for Screen1View
  .rodata._ZTV26ScreenConnectSSIDPresenter
-                0x70051264       0x5c ./Application/User/gui/ScreenConnectSSIDPresenter.o
-                0x70051264                vtable for ScreenConnectSSIDPresenter
+                0x700511d4       0x5c ./Application/User/gui/ScreenConnectSSIDPresenter.o
+                0x700511d4                vtable for ScreenConnectSSIDPresenter
  .rodata._ZTV21ScreenConnectSSIDView
-                0x700512c0       0x48 ./Application/User/gui/ScreenConnectSSIDView.o
-                0x700512c0                vtable for ScreenConnectSSIDView
+                0x70051230       0x48 ./Application/User/gui/ScreenConnectSSIDView.o
+                0x70051230                vtable for ScreenConnectSSIDView
  .rodata._ZTV23ScreenKeyboardPresenter
-                0x70051308       0x5c ./Application/User/gui/ScreenKeyboardPresenter.o
-                0x70051308                vtable for ScreenKeyboardPresenter
+                0x70051278       0x5c ./Application/User/gui/ScreenKeyboardPresenter.o
+                0x70051278                vtable for ScreenKeyboardPresenter
  .rodata._ZTV18ScreenKeyboardView
-                0x70051364       0x38 ./Application/User/gui/ScreenKeyboardView.o
-                0x70051364                vtable for ScreenKeyboardView
+                0x700512d4       0x38 ./Application/User/gui/ScreenKeyboardView.o
+                0x700512d4                vtable for ScreenKeyboardView
  .rodata._ZTV28ScreenKeyboard_CityPresenter
-                0x7005139c       0x5c ./Application/User/gui/ScreenKeyboard_CityPresenter.o
-                0x7005139c                vtable for ScreenKeyboard_CityPresenter
+                0x7005130c       0x5c ./Application/User/gui/ScreenKeyboard_CityPresenter.o
+                0x7005130c                vtable for ScreenKeyboard_CityPresenter
  .rodata._ZTV23ScreenKeyboard_CityView
-                0x700513f8       0x38 ./Application/User/gui/ScreenKeyboard_CityView.o
-                0x700513f8                vtable for ScreenKeyboard_CityView
+                0x70051368       0x38 ./Application/User/gui/ScreenKeyboard_CityView.o
+                0x70051368                vtable for ScreenKeyboard_CityView
  .rodata.JPEG_CHROM_QuantTable.0
-                0x70051430       0x40 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_jpeg.o
+                0x700513a0       0x40 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_jpeg.o
  .rodata.JPEG_LUM_QuantTable.1
-                0x70051470       0x40 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_jpeg.o
+                0x700513e0       0x40 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_jpeg.o
  .rodata.JPEG_ZIGZAG_ORDER
-                0x700514b0       0x40 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_jpeg.o
+                0x70051420       0x40 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_jpeg.o
  .rodata.JPEG_ACCHROM_HuffTable
-                0x700514f0       0xb2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_jpeg.o
+                0x70051460       0xb2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_jpeg.o
  .rodata.JPEG_ACLUM_HuffTable
-                0x700515a2       0xb2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_jpeg.o
+                0x70051512       0xb2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_jpeg.o
  .rodata.JPEG_DCCHROM_HuffTable
-                0x70051654       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_jpeg.o
+                0x700515c4       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_jpeg.o
  .rodata.JPEG_DCLUM_HuffTable
-                0x70051670       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_jpeg.o
+                0x700515e0       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_jpeg.o
  .rodata.CSWTCH.1
-                0x7005168c        0x8 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_ltdc.o
+                0x700515fc        0x8 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_ltdc.o
  .rodata.HAL_RCC_GetHCLKFreq.str1.1
-                0x70051694        0x9 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+                0x70051604        0x9 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
  .rodata.UARTPrescTable
-                0x70051694       0x18 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_uart.o
-                0x70051694                UARTPrescTable
+                0x70051604       0x18 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_uart.o
+                0x70051604                UARTPrescTable
  .rodata.denominator.0
-                0x700516ac        0x8 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_uart_ex.o
+                0x7005161c        0x8 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_uart_ex.o
  .rodata.numerator.1
-                0x700516b4        0x8 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_uart_ex.o
+                0x70051624        0x8 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_uart_ex.o
  .rodata.vTaskStartScheduler.str1.1
-                0x700516bc        0x5 ./Middlewares/FreeRTOS/tasks.o
+                0x7005162c        0x5 ./Middlewares/FreeRTOS/tasks.o
  .rodata.uxTopUsedPriority
-                0x700516bc        0x4 ./Middlewares/FreeRTOS/tasks.o
-                0x700516bc                uxTopUsedPriority
+                0x7005162c        0x4 ./Middlewares/FreeRTOS/tasks.o
+                0x7005162c                uxTopUsedPriority
  .rodata.prvCheckForValidListAndQueue.str1.1
-                0x700516c0        0x5 ./Middlewares/FreeRTOS/timers.o
+                0x70051630        0x5 ./Middlewares/FreeRTOS/timers.o
  .rodata.xTimerCreateTimerTask.str1.1
-                0x700516c0        0x8 ./Middlewares/FreeRTOS/timers.o
+                0x70051630        0x8 ./Middlewares/FreeRTOS/timers.o
  .rodata._ZTVN8touchgfx17AbstractPartitionE
-                0x700516c0       0x34 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(AbstractPartition.o)
-                0x700516c0                vtable for touchgfx::AbstractPartition
+                0x70051630       0x34 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(AbstractPartition.o)
+                0x70051630                vtable for touchgfx::AbstractPartition
  .rodata._ZTVN8touchgfx9ContainerE
-                0x700516f4       0x90 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(Container.o)
-                0x700516f4                vtable for touchgfx::Container
+                0x70051664       0x90 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(Container.o)
+                0x70051664                vtable for touchgfx::Container
  .rodata.CSWTCH.180
-                0x70051784        0xc ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(HAL.o)
+                0x700516f4        0xc ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(HAL.o)
  .rodata._ZTVN8touchgfx17LockFreeDMA_QueueE
-                0x70051790       0x24 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(DMA.o)
-                0x70051790                vtable for touchgfx::LockFreeDMA_Queue
+                0x70051700       0x24 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(DMA.o)
+                0x70051700                vtable for touchgfx::LockFreeDMA_Queue
  .rodata._ZTVN8touchgfx13ScalableImageE
-                0x700517b4       0x74 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(ScalableImage.o)
-                0x700517b4                vtable for touchgfx::ScalableImage
+                0x70051724       0x74 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(ScalableImage.o)
+                0x70051724                vtable for touchgfx::ScalableImage
  .rodata._ZTVN8touchgfx8TextAreaE
-                0x70051828       0x90 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(TextArea.o)
-                0x70051828                vtable for touchgfx::TextArea
+                0x70051798       0x90 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(TextArea.o)
+                0x70051798                vtable for touchgfx::TextArea
  .rodata._ZTVN8touchgfx3BoxE
-                0x700518b8       0x68 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(Box.o)
-                0x700518b8                vtable for touchgfx::Box
+                0x70051828       0x68 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(Box.o)
+                0x70051828                vtable for touchgfx::Box
  .rodata._ZTVN8touchgfx13BoxWithBorderE
-                0x70051920       0x68 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(BoxWithBorder.o)
-                0x70051920                vtable for touchgfx::BoxWithBorder
+                0x70051890       0x68 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(BoxWithBorder.o)
+                0x70051890                vtable for touchgfx::BoxWithBorder
  .rodata._ZTVN8touchgfx5ImageE
-                0x70051988       0x6c ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(Image.o)
-                0x70051988                vtable for touchgfx::Image
+                0x700518f8       0x6c ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(Image.o)
+                0x700518f8                vtable for touchgfx::Image
  .rodata._ZTVN8touchgfx15ButtonWithLabelE
-                0x700519f4       0x74 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(ButtonWithLabel.o)
-                0x700519f4                vtable for touchgfx::ButtonWithLabel
+                0x70051964       0x74 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(ButtonWithLabel.o)
+                0x70051964                vtable for touchgfx::ButtonWithLabel
  .rodata._ZTVN8touchgfx10ClickEventE
-                0x70051a68       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(Keyboard.o)
-                0x70051a68                vtable for touchgfx::ClickEvent
+                0x700519d8       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(Keyboard.o)
+                0x700519d8                vtable for touchgfx::ClickEvent
  .rodata._ZTVN8touchgfx8KeyboardE
-                0x70051a7c       0x90 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(Keyboard.o)
-                0x70051a7c                vtable for touchgfx::Keyboard
+                0x700519ec       0x90 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(Keyboard.o)
+                0x700519ec                vtable for touchgfx::Keyboard
  .rodata._ZTVN8touchgfx11ApplicationE
-                0x70051b0c       0x54 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(Application.o)
-                0x70051b0c                vtable for touchgfx::Application
+                0x70051a7c       0x54 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(Application.o)
+                0x70051a7c                vtable for touchgfx::Application
  .rodata._ZTVN8touchgfx8DrawableE
-                0x70051b60       0x68 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(Drawable.o)
-                0x70051b60                vtable for touchgfx::Drawable
+                0x70051ad0       0x68 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(Drawable.o)
+                0x70051ad0                vtable for touchgfx::Drawable
  .rodata._ZTVN8touchgfx22VectorFontRendererImplE
-                0x70051bc8       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(VectorFontRendererImpl.o)
-                0x70051bc8                vtable for touchgfx::VectorFontRendererImpl
+                0x70051b38       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(VectorFontRendererImpl.o)
+                0x70051b38                vtable for touchgfx::VectorFontRendererImpl
  .rodata._ZTVN8touchgfx9ConstFontE
-                0x70051bdc       0x68 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(ConstFont.o)
-                0x70051bdc                vtable for touchgfx::ConstFont
+                0x70051b4c       0x68 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(ConstFont.o)
+                0x70051b4c                vtable for touchgfx::ConstFont
  .rodata._ZTVN8touchgfx9DragEventE
-                0x70051c44       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(Screen.o)
-                0x70051c44                vtable for touchgfx::DragEvent
+                0x70051bb4       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(Screen.o)
+                0x70051bb4                vtable for touchgfx::DragEvent
  .rodata._ZTVN8touchgfx12GestureEventE
-                0x70051c58       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(Screen.o)
-                0x70051c58                vtable for touchgfx::GestureEvent
+                0x70051bc8       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(Screen.o)
+                0x70051bc8                vtable for touchgfx::GestureEvent
  .rodata._ZTVN8touchgfx6ScreenE
-                0x70051c6c       0x34 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(Screen.o)
-                0x70051c6c                vtable for touchgfx::Screen
+                0x70051bdc       0x34 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(Screen.o)
+                0x70051bdc                vtable for touchgfx::Screen
  .rodata._ZTVN8touchgfx8LCD16bpp35TextureMapper_A4_NearestNeighbor_GAE
-                0x70051ca0       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051ca0                vtable for touchgfx::LCD16bpp::TextureMapper_A4_NearestNeighbor_GA
+                0x70051c10       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051c10                vtable for touchgfx::LCD16bpp::TextureMapper_A4_NearestNeighbor_GA
  .rodata._ZTVN8touchgfx8LCD16bpp37TextureMapper_A4_NearestNeighbor_NoGAE
-                0x70051cb4       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051cb4                vtable for touchgfx::LCD16bpp::TextureMapper_A4_NearestNeighbor_NoGA
+                0x70051c24       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051c24                vtable for touchgfx::LCD16bpp::TextureMapper_A4_NearestNeighbor_NoGA
  .rodata._ZTVN8touchgfx8LCD16bpp41TextureMapper_A4_BilinearInterpolation_GAE
-                0x70051cc8       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051cc8                vtable for touchgfx::LCD16bpp::TextureMapper_A4_BilinearInterpolation_GA
+                0x70051c38       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051c38                vtable for touchgfx::LCD16bpp::TextureMapper_A4_BilinearInterpolation_GA
  .rodata._ZTVN8touchgfx8LCD16bpp43TextureMapper_A4_BilinearInterpolation_NoGAE
-                0x70051cdc       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051cdc                vtable for touchgfx::LCD16bpp::TextureMapper_A4_BilinearInterpolation_NoGA
+                0x70051c4c       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051c4c                vtable for touchgfx::LCD16bpp::TextureMapper_A4_BilinearInterpolation_NoGA
  .rodata._ZTVN8touchgfx8LCD16bpp46TextureMapper_RGB565_Opaque_NearestNeighbor_GAE
-                0x70051cf0       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051cf0                vtable for touchgfx::LCD16bpp::TextureMapper_RGB565_Opaque_NearestNeighbor_GA
+                0x70051c60       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051c60                vtable for touchgfx::LCD16bpp::TextureMapper_RGB565_Opaque_NearestNeighbor_GA
  .rodata._ZTVN8touchgfx8LCD16bpp48TextureMapper_RGB565_Opaque_NearestNeighbor_NoGAE
-                0x70051d04       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051d04                vtable for touchgfx::LCD16bpp::TextureMapper_RGB565_Opaque_NearestNeighbor_NoGA
+                0x70051c74       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051c74                vtable for touchgfx::LCD16bpp::TextureMapper_RGB565_Opaque_NearestNeighbor_NoGA
  .rodata._ZTVN8touchgfx8LCD16bpp49TextureMapper_L8_RGB565_Opaque_NearestNeighbor_GAE
-                0x70051d18       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051d18                vtable for touchgfx::LCD16bpp::TextureMapper_L8_RGB565_Opaque_NearestNeighbor_GA
+                0x70051c88       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051c88                vtable for touchgfx::LCD16bpp::TextureMapper_L8_RGB565_Opaque_NearestNeighbor_GA
  .rodata._ZTVN8touchgfx8LCD16bpp49TextureMapper_L8_RGB888_Opaque_NearestNeighbor_GAE
-                0x70051d2c       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051d2c                vtable for touchgfx::LCD16bpp::TextureMapper_L8_RGB888_Opaque_NearestNeighbor_GA
+                0x70051c9c       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051c9c                vtable for touchgfx::LCD16bpp::TextureMapper_L8_RGB888_Opaque_NearestNeighbor_GA
  .rodata._ZTVN8touchgfx8LCD16bpp49TextureMapper_RGB565_NonOpaque_NearestNeighbor_GAE
-                0x70051d40       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051d40                vtable for touchgfx::LCD16bpp::TextureMapper_RGB565_NonOpaque_NearestNeighbor_GA
+                0x70051cb0       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051cb0                vtable for touchgfx::LCD16bpp::TextureMapper_RGB565_NonOpaque_NearestNeighbor_GA
  .rodata._ZTVN8touchgfx8LCD16bpp51TextureMapper_ARGB8888_NonOpaque_NearestNeighbor_GAE
-                0x70051d54       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051d54                vtable for touchgfx::LCD16bpp::TextureMapper_ARGB8888_NonOpaque_NearestNeighbor_GA
+                0x70051cc4       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051cc4                vtable for touchgfx::LCD16bpp::TextureMapper_ARGB8888_NonOpaque_NearestNeighbor_GA
  .rodata._ZTVN8touchgfx8LCD16bpp51TextureMapper_L8_RGB565_Opaque_NearestNeighbor_NoGAE
-                0x70051d68       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051d68                vtable for touchgfx::LCD16bpp::TextureMapper_L8_RGB565_Opaque_NearestNeighbor_NoGA
+                0x70051cd8       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051cd8                vtable for touchgfx::LCD16bpp::TextureMapper_L8_RGB565_Opaque_NearestNeighbor_NoGA
  .rodata._ZTVN8touchgfx8LCD16bpp51TextureMapper_L8_RGB888_Opaque_NearestNeighbor_NoGAE
-                0x70051d7c       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051d7c                vtable for touchgfx::LCD16bpp::TextureMapper_L8_RGB888_Opaque_NearestNeighbor_NoGA
+                0x70051cec       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051cec                vtable for touchgfx::LCD16bpp::TextureMapper_L8_RGB888_Opaque_NearestNeighbor_NoGA
  .rodata._ZTVN8touchgfx8LCD16bpp51TextureMapper_RGB565_NonOpaque_NearestNeighbor_NoGAE
-                0x70051d90       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051d90                vtable for touchgfx::LCD16bpp::TextureMapper_RGB565_NonOpaque_NearestNeighbor_NoGA
+                0x70051d00       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051d00                vtable for touchgfx::LCD16bpp::TextureMapper_RGB565_NonOpaque_NearestNeighbor_NoGA
  .rodata._ZTVN8touchgfx8LCD16bpp52TextureMapper_RGB565_Opaque_BilinearInterpolation_GAE
-                0x70051da4       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051da4                vtable for touchgfx::LCD16bpp::TextureMapper_RGB565_Opaque_BilinearInterpolation_GA
+                0x70051d14       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051d14                vtable for touchgfx::LCD16bpp::TextureMapper_RGB565_Opaque_BilinearInterpolation_GA
  .rodata._ZTVN8touchgfx8LCD16bpp53TextureMapper_ARGB8888_NonOpaque_NearestNeighbor_NoGAE
-                0x70051db8       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051db8                vtable for touchgfx::LCD16bpp::TextureMapper_ARGB8888_NonOpaque_NearestNeighbor_NoGA
+                0x70051d28       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051d28                vtable for touchgfx::LCD16bpp::TextureMapper_ARGB8888_NonOpaque_NearestNeighbor_NoGA
  .rodata._ZTVN8touchgfx8LCD16bpp54TextureMapper_L8_ARGB8888_NonOpaque_NearestNeighbor_GAE
-                0x70051dcc       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051dcc                vtable for touchgfx::LCD16bpp::TextureMapper_L8_ARGB8888_NonOpaque_NearestNeighbor_GA
+                0x70051d3c       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051d3c                vtable for touchgfx::LCD16bpp::TextureMapper_L8_ARGB8888_NonOpaque_NearestNeighbor_GA
  .rodata._ZTVN8touchgfx8LCD16bpp54TextureMapper_RGB565_Opaque_BilinearInterpolation_NoGAE
-                0x70051de0       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051de0                vtable for touchgfx::LCD16bpp::TextureMapper_RGB565_Opaque_BilinearInterpolation_NoGA
+                0x70051d50       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051d50                vtable for touchgfx::LCD16bpp::TextureMapper_RGB565_Opaque_BilinearInterpolation_NoGA
  .rodata._ZTVN8touchgfx8LCD16bpp55TextureMapper_L8_RGB565_Opaque_BilinearInterpolation_GAE
-                0x70051df4       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051df4                vtable for touchgfx::LCD16bpp::TextureMapper_L8_RGB565_Opaque_BilinearInterpolation_GA
+                0x70051d64       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051d64                vtable for touchgfx::LCD16bpp::TextureMapper_L8_RGB565_Opaque_BilinearInterpolation_GA
  .rodata._ZTVN8touchgfx8LCD16bpp55TextureMapper_L8_RGB888_Opaque_BilinearInterpolation_GAE
-                0x70051e08       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051e08                vtable for touchgfx::LCD16bpp::TextureMapper_L8_RGB888_Opaque_BilinearInterpolation_GA
+                0x70051d78       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051d78                vtable for touchgfx::LCD16bpp::TextureMapper_L8_RGB888_Opaque_BilinearInterpolation_GA
  .rodata._ZTVN8touchgfx8LCD16bpp55TextureMapper_RGB565_NonOpaque_BilinearInterpolation_GAE
-                0x70051e1c       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051e1c                vtable for touchgfx::LCD16bpp::TextureMapper_RGB565_NonOpaque_BilinearInterpolation_GA
+                0x70051d8c       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051d8c                vtable for touchgfx::LCD16bpp::TextureMapper_RGB565_NonOpaque_BilinearInterpolation_GA
  .rodata._ZTVN8touchgfx8LCD16bpp56TextureMapper_L8_ARGB8888_NonOpaque_NearestNeighbor_NoGAE
-                0x70051e30       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051e30                vtable for touchgfx::LCD16bpp::TextureMapper_L8_ARGB8888_NonOpaque_NearestNeighbor_NoGA
+                0x70051da0       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051da0                vtable for touchgfx::LCD16bpp::TextureMapper_L8_ARGB8888_NonOpaque_NearestNeighbor_NoGA
  .rodata._ZTVN8touchgfx8LCD16bpp57TextureMapper_ARGB8888_NonOpaque_BilinearInterpolation_GAE
-                0x70051e44       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051e44                vtable for touchgfx::LCD16bpp::TextureMapper_ARGB8888_NonOpaque_BilinearInterpolation_GA
+                0x70051db4       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051db4                vtable for touchgfx::LCD16bpp::TextureMapper_ARGB8888_NonOpaque_BilinearInterpolation_GA
  .rodata._ZTVN8touchgfx8LCD16bpp57TextureMapper_L8_RGB565_Opaque_BilinearInterpolation_NoGAE
-                0x70051e58       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051e58                vtable for touchgfx::LCD16bpp::TextureMapper_L8_RGB565_Opaque_BilinearInterpolation_NoGA
+                0x70051dc8       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051dc8                vtable for touchgfx::LCD16bpp::TextureMapper_L8_RGB565_Opaque_BilinearInterpolation_NoGA
  .rodata._ZTVN8touchgfx8LCD16bpp57TextureMapper_L8_RGB888_Opaque_BilinearInterpolation_NoGAE
-                0x70051e6c       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051e6c                vtable for touchgfx::LCD16bpp::TextureMapper_L8_RGB888_Opaque_BilinearInterpolation_NoGA
+                0x70051ddc       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051ddc                vtable for touchgfx::LCD16bpp::TextureMapper_L8_RGB888_Opaque_BilinearInterpolation_NoGA
  .rodata._ZTVN8touchgfx8LCD16bpp57TextureMapper_RGB565_NonOpaque_BilinearInterpolation_NoGAE
-                0x70051e80       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051e80                vtable for touchgfx::LCD16bpp::TextureMapper_RGB565_NonOpaque_BilinearInterpolation_NoGA
+                0x70051df0       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051df0                vtable for touchgfx::LCD16bpp::TextureMapper_RGB565_NonOpaque_BilinearInterpolation_NoGA
  .rodata._ZTVN8touchgfx8LCD16bpp59TextureMapper_ARGB8888_NonOpaque_BilinearInterpolation_NoGAE
-                0x70051e94       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051e94                vtable for touchgfx::LCD16bpp::TextureMapper_ARGB8888_NonOpaque_BilinearInterpolation_NoGA
+                0x70051e04       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051e04                vtable for touchgfx::LCD16bpp::TextureMapper_ARGB8888_NonOpaque_BilinearInterpolation_NoGA
  .rodata._ZTVN8touchgfx8LCD16bpp60TextureMapper_L8_ARGB8888_NonOpaque_BilinearInterpolation_GAE
-                0x70051ea8       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051ea8                vtable for touchgfx::LCD16bpp::TextureMapper_L8_ARGB8888_NonOpaque_BilinearInterpolation_GA
+                0x70051e18       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051e18                vtable for touchgfx::LCD16bpp::TextureMapper_L8_ARGB8888_NonOpaque_BilinearInterpolation_GA
  .rodata._ZTVN8touchgfx8LCD16bpp62TextureMapper_L8_ARGB8888_NonOpaque_BilinearInterpolation_NoGAE
-                0x70051ebc       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051ebc                vtable for touchgfx::LCD16bpp::TextureMapper_L8_ARGB8888_NonOpaque_BilinearInterpolation_NoGA
+                0x70051e2c       0x14 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051e2c                vtable for touchgfx::LCD16bpp::TextureMapper_L8_ARGB8888_NonOpaque_BilinearInterpolation_NoGA
  .rodata._ZTVN8touchgfx8LCD16bppE
-                0x70051ed0       0x58 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
-                0x70051ed0                vtable for touchgfx::LCD16bpp
+                0x70051e40       0x58 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD16bpp.o)
+                0x70051e40                vtable for touchgfx::LCD16bpp
  .rodata.CSWTCH.136
-                0x70051f28       0x4b ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/NemaGFX/lib/core/cortex_m7/gcc\libnemagfx-float-abi-hard.a(nema_graphics.o)
- *fill*         0x70051f73        0x1 
+                0x70051e98       0x4b ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/NemaGFX/lib/core/cortex_m7/gcc\libnemagfx-float-abi-hard.a(nema_graphics.o)
+ *fill*         0x70051ee3        0x1 
  .rodata.CSWTCH.147
-                0x70051f74       0x56 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/NemaGFX/lib/core/cortex_m7/gcc\libnemagfx-float-abi-hard.a(nema_graphics.o)
- *fill*         0x70051fca        0x2 
- .rodata.coss   0x70051fcc       0x18 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/NemaGFX/lib/core/cortex_m7/gcc\libnemagfx-float-abi-hard.a(nema_programHW.o)
- .rodata.sins   0x70051fe4       0x18 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/NemaGFX/lib/core/cortex_m7/gcc\libnemagfx-float-abi-hard.a(nema_programHW.o)
+                0x70051ee4       0x56 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/NemaGFX/lib/core/cortex_m7/gcc\libnemagfx-float-abi-hard.a(nema_graphics.o)
+ *fill*         0x70051f3a        0x2 
+ .rodata.coss   0x70051f3c       0x18 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/NemaGFX/lib/core/cortex_m7/gcc\libnemagfx-float-abi-hard.a(nema_programHW.o)
+ .rodata.sins   0x70051f54       0x18 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/NemaGFX/lib/core/cortex_m7/gcc\libnemagfx-float-abi-hard.a(nema_programHW.o)
  .rodata.bf.9277
-                0x70051ffc       0x40 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/NemaGFX/lib/core/cortex_m7/gcc\libnemagfx-float-abi-hard.a(nema_vg.o)
+                0x70051f6c       0x40 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/NemaGFX/lib/core/cortex_m7/gcc\libnemagfx-float-abi-hard.a(nema_vg.o)
  .rodata.bf_blit.9278
-                0x7005203c       0x40 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/NemaGFX/lib/core/cortex_m7/gcc\libnemagfx-float-abi-hard.a(nema_vg.o)
+                0x70051fac       0x40 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/NemaGFX/lib/core/cortex_m7/gcc\libnemagfx-float-abi-hard.a(nema_vg.o)
  .rodata.cmd_fillsrcover.9337
-                0x7005207c        0x8 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/NemaGFX/lib/core/cortex_m7/gcc\libnemagfx-float-abi-hard.a(nema_vg.o)
+                0x70051fec        0x8 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/NemaGFX/lib/core/cortex_m7/gcc\libnemagfx-float-abi-hard.a(nema_vg.o)
  .rodata.cmd_pix3.9291
-                0x70052084        0x8 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/NemaGFX/lib/core/cortex_m7/gcc\libnemagfx-float-abi-hard.a(nema_vg.o)
+                0x70051ff4        0x8 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/NemaGFX/lib/core/cortex_m7/gcc\libnemagfx-float-abi-hard.a(nema_vg.o)
  .rodata.PRE_TEX
-                0x7005208c       0x10 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/NemaGFX/lib/core/cortex_m7/gcc\libnemagfx-float-abi-hard.a(nema_blender.o)
+                0x70051ffc       0x10 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/NemaGFX/lib/core/cortex_m7/gcc\libnemagfx-float-abi-hard.a(nema_blender.o)
  .rodata.bl_a1.7348
-                0x7005209c       0x30 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/NemaGFX/lib/core/cortex_m7/gcc\libnemagfx-float-abi-hard.a(nema_blender.o)
+                0x7005200c       0x30 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/NemaGFX/lib/core/cortex_m7/gcc\libnemagfx-float-abi-hard.a(nema_blender.o)
  .rodata.bl_r1.7347
-                0x700520cc       0x30 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/NemaGFX/lib/core/cortex_m7/gcc\libnemagfx-float-abi-hard.a(nema_blender.o)
+                0x7005203c       0x30 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/NemaGFX/lib/core/cortex_m7/gcc\libnemagfx-float-abi-hard.a(nema_blender.o)
  .rodata._ZTVN8touchgfx8HALGPU2DE
-                0x700520fc       0xec ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(HALGPU2D.o)
-                0x700520fc                vtable for touchgfx::HALGPU2D
+                0x7005206c       0xec ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(HALGPU2D.o)
+                0x7005206c                vtable for touchgfx::HALGPU2D
  .rodata._ZTVN8touchgfx12LCDGPU2D_AXI52TextureMapper_32BPP_RGB888_Opaque_NearestNeighbor_GAE
-                0x700521e8       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
-                0x700521e8                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_32BPP_RGB888_Opaque_NearestNeighbor_GA
+                0x70052158       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
+                0x70052158                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_32BPP_RGB888_Opaque_NearestNeighbor_GA
  .rodata._ZTVN8touchgfx12LCDGPU2D_AXI54TextureMapper_32BPP_RGB888_Opaque_NearestNeighbor_NoGAE
-                0x700521fc       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
-                0x700521fc                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_32BPP_RGB888_Opaque_NearestNeighbor_NoGA
+                0x7005216c       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
+                0x7005216c                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_32BPP_RGB888_Opaque_NearestNeighbor_NoGA
  .rodata._ZTVN8touchgfx12LCDGPU2D_AXI55TextureMapper_16BPP_L8_RGB888_Opaque_NearestNeighbor_GAE
-                0x70052210       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
-                0x70052210                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_16BPP_L8_RGB888_Opaque_NearestNeighbor_GA
+                0x70052180       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
+                0x70052180                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_16BPP_L8_RGB888_Opaque_NearestNeighbor_GA
  .rodata._ZTVN8touchgfx12LCDGPU2D_AXI55TextureMapper_32BPP_L8_RGB888_Opaque_NearestNeighbor_GAE
-                0x70052224       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
-                0x70052224                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_32BPP_L8_RGB888_Opaque_NearestNeighbor_GA
+                0x70052194       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
+                0x70052194                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_32BPP_L8_RGB888_Opaque_NearestNeighbor_GA
  .rodata._ZTVN8touchgfx12LCDGPU2D_AXI57TextureMapper_16BPP_L8_RGB888_Opaque_NearestNeighbor_NoGAE
-                0x70052238       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
-                0x70052238                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_16BPP_L8_RGB888_Opaque_NearestNeighbor_NoGA
+                0x700521a8       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
+                0x700521a8                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_16BPP_L8_RGB888_Opaque_NearestNeighbor_NoGA
  .rodata._ZTVN8touchgfx12LCDGPU2D_AXI57TextureMapper_32BPP_L8_RGB888_Opaque_NearestNeighbor_NoGAE
-                0x7005224c       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
-                0x7005224c                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_32BPP_L8_RGB888_Opaque_NearestNeighbor_NoGA
+                0x700521bc       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
+                0x700521bc                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_32BPP_L8_RGB888_Opaque_NearestNeighbor_NoGA
  .rodata._ZTVN8touchgfx12LCDGPU2D_AXI58TextureMapper_32BPP_RGB888_Opaque_BilinearInterpolation_GAE
-                0x70052260       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
-                0x70052260                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_32BPP_RGB888_Opaque_BilinearInterpolation_GA
+                0x700521d0       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
+                0x700521d0                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_32BPP_RGB888_Opaque_BilinearInterpolation_GA
  .rodata._ZTVN8touchgfx12LCDGPU2D_AXI60TextureMapper_16BPP_L8_ARGB8888_NonOpaque_NearestNeighbor_GAE
-                0x70052274       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
-                0x70052274                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_16BPP_L8_ARGB8888_NonOpaque_NearestNeighbor_GA
+                0x700521e4       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
+                0x700521e4                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_16BPP_L8_ARGB8888_NonOpaque_NearestNeighbor_GA
  .rodata._ZTVN8touchgfx12LCDGPU2D_AXI60TextureMapper_32BPP_L8_ARGB8888_NonOpaque_NearestNeighbor_GAE
-                0x70052288       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
-                0x70052288                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_32BPP_L8_ARGB8888_NonOpaque_NearestNeighbor_GA
+                0x700521f8       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
+                0x700521f8                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_32BPP_L8_ARGB8888_NonOpaque_NearestNeighbor_GA
  .rodata._ZTVN8touchgfx12LCDGPU2D_AXI60TextureMapper_32BPP_RGB888_Opaque_BilinearInterpolation_NoGAE
-                0x7005229c       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
-                0x7005229c                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_32BPP_RGB888_Opaque_BilinearInterpolation_NoGA
+                0x7005220c       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
+                0x7005220c                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_32BPP_RGB888_Opaque_BilinearInterpolation_NoGA
  .rodata._ZTVN8touchgfx12LCDGPU2D_AXI61TextureMapper_16BPP_L8_RGB888_Opaque_BilinearInterpolation_GAE
-                0x700522b0       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
-                0x700522b0                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_16BPP_L8_RGB888_Opaque_BilinearInterpolation_GA
+                0x70052220       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
+                0x70052220                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_16BPP_L8_RGB888_Opaque_BilinearInterpolation_GA
  .rodata._ZTVN8touchgfx12LCDGPU2D_AXI61TextureMapper_32BPP_L8_RGB888_Opaque_BilinearInterpolation_GAE
-                0x700522c4       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
-                0x700522c4                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_32BPP_L8_RGB888_Opaque_BilinearInterpolation_GA
+                0x70052234       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
+                0x70052234                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_32BPP_L8_RGB888_Opaque_BilinearInterpolation_GA
  .rodata._ZTVN8touchgfx12LCDGPU2D_AXI62TextureMapper_16BPP_L8_ARGB8888_NonOpaque_NearestNeighbor_NoGAE
-                0x700522d8       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
-                0x700522d8                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_16BPP_L8_ARGB8888_NonOpaque_NearestNeighbor_NoGA
+                0x70052248       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
+                0x70052248                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_16BPP_L8_ARGB8888_NonOpaque_NearestNeighbor_NoGA
  .rodata._ZTVN8touchgfx12LCDGPU2D_AXI63TextureMapper_16BPP_L8_RGB888_Opaque_BilinearInterpolation_NoGAE
-                0x700522ec       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
-                0x700522ec                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_16BPP_L8_RGB888_Opaque_BilinearInterpolation_NoGA
+                0x7005225c       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
+                0x7005225c                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_16BPP_L8_RGB888_Opaque_BilinearInterpolation_NoGA
  .rodata._ZTVN8touchgfx12LCDGPU2D_AXI63TextureMapper_32BPP_L8_RGB888_Opaque_BilinearInterpolation_NoGAE
-                0x70052300       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
-                0x70052300                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_32BPP_L8_RGB888_Opaque_BilinearInterpolation_NoGA
+                0x70052270       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
+                0x70052270                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_32BPP_L8_RGB888_Opaque_BilinearInterpolation_NoGA
  .rodata._ZTVN8touchgfx12LCDGPU2D_AXI66TextureMapper_16BPP_L8_ARGB8888_NonOpaque_BilinearInterpolation_GAE
-                0x70052314       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
-                0x70052314                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_16BPP_L8_ARGB8888_NonOpaque_BilinearInterpolation_GA
+                0x70052284       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
+                0x70052284                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_16BPP_L8_ARGB8888_NonOpaque_BilinearInterpolation_GA
  .rodata._ZTVN8touchgfx12LCDGPU2D_AXI66TextureMapper_32BPP_L8_ARGB8888_NonOpaque_BilinearInterpolation_GAE
-                0x70052328       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
-                0x70052328                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_32BPP_L8_ARGB8888_NonOpaque_BilinearInterpolation_GA
+                0x70052298       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
+                0x70052298                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_32BPP_L8_ARGB8888_NonOpaque_BilinearInterpolation_GA
  .rodata._ZTVN8touchgfx12LCDGPU2D_AXI68TextureMapper_16BPP_L8_ARGB8888_NonOpaque_BilinearInterpolation_NoGAE
-                0x7005233c       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
-                0x7005233c                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_16BPP_L8_ARGB8888_NonOpaque_BilinearInterpolation_NoGA
+                0x700522ac       0x14 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
+                0x700522ac                vtable for touchgfx::LCDGPU2D_AXI::TextureMapper_16BPP_L8_ARGB8888_NonOpaque_BilinearInterpolation_NoGA
  .rodata._ZTVN8touchgfx12LCDGPU2D_AXIE
-                0x70052350       0x60 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
-                0x70052350                vtable for touchgfx::LCDGPU2D_AXI
+                0x700522c0       0x60 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
+                0x700522c0                vtable for touchgfx::LCDGPU2D_AXI
  .rodata._ZTVN8touchgfx19GPU2DVectorRendererE
-                0x700523b0       0x44 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(GPU2DVectorRenderer.o)
-                0x700523b0                vtable for touchgfx::GPU2DVectorRenderer
+                0x70052320       0x44 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(GPU2DVectorRenderer.o)
+                0x70052320                vtable for touchgfx::GPU2DVectorRenderer
  .rodata.acosf.str1.1
-                0x700523f4        0x1 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libm.a(libm_a-wf_acos.o)
+                0x70052364        0x1 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libm.a(libm_a-wf_acos.o)
  .rodata.atanlo
-                0x700523f4       0x10 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libm.a(libm_a-sf_atan.o)
+                0x70052364       0x10 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libm.a(libm_a-sf_atan.o)
  .rodata.atanhi
-                0x70052404       0x10 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libm.a(libm_a-sf_atan.o)
+                0x70052374       0x10 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libm.a(libm_a-sf_atan.o)
  .rodata.__inv_pio4
-                0x70052414       0x60 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libm.a(libm_a-sincosf_data.o)
-                0x70052414                __inv_pio4
- *fill*         0x70052474        0x4 
+                0x70052384       0x60 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libm.a(libm_a-sincosf_data.o)
+                0x70052384                __inv_pio4
+ *fill*         0x700523e4        0x4 
  .rodata.__sincosf_table
-                0x70052478       0xe0 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libm.a(libm_a-sincosf_data.o)
-                0x70052478                __sincosf_table
+                0x700523e8       0xe0 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libm.a(libm_a-sincosf_data.o)
+                0x700523e8                __sincosf_table
  .rodata.CSWTCH.9
-                0x70052558        0xc C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libm.a(libm_a-ef_atan2.o)
+                0x700524c8        0xc C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libm.a(libm_a-ef_atan2.o)
  .rodata.CSWTCH.8
-                0x70052564        0xc C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libm.a(libm_a-ef_atan2.o)
- .rodata.Zero   0x70052570        0x8 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libm.a(libm_a-ef_fmod.o)
+                0x700524d4        0xc C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libm.a(libm_a-ef_atan2.o)
+ .rodata.Zero   0x700524e0        0x8 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libm.a(libm_a-ef_fmod.o)
  .rodata.npio2_hw
-                0x70052578       0x80 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libm.a(libm_a-ef_rem_pio2.o)
+                0x700524e8       0x80 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libm.a(libm_a-ef_rem_pio2.o)
  .rodata.two_over_pi
-                0x700525f8      0x318 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libm.a(libm_a-ef_rem_pio2.o)
- .rodata.PIo2   0x70052910       0x2c C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libm.a(libm_a-kf_rem_pio2.o)
+                0x70052568      0x318 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libm.a(libm_a-ef_rem_pio2.o)
+ .rodata.PIo2   0x70052880       0x2c C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libm.a(libm_a-kf_rem_pio2.o)
  .rodata.init_jk
-                0x7005293c        0xc C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libm.a(libm_a-kf_rem_pio2.o)
+                0x700528ac        0xc C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libm.a(libm_a-kf_rem_pio2.o)
  .rodata.__assert_func.str1.1
-                0x70052948       0x3d C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-assert.o)
+                0x700528b8       0x3d C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-assert.o)
  .rodata._strtod_l.str1.1
-                0x70052948        0xf C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-strtod.o)
+                0x700528b8        0xf C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-strtod.o)
  .rodata.fpinan.0
-                0x70052948       0x14 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-strtod.o)
- .rodata.fpi.1  0x7005295c       0x14 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-strtod.o)
+                0x700528b8       0x14 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-strtod.o)
+ .rodata.fpi.1  0x700528cc       0x14 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-strtod.o)
  .rodata.tinytens
-                0x70052970       0x28 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-strtod.o)
+                0x700528e0       0x28 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-strtod.o)
  .rodata._ctype_
-                0x70052998      0x101 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-ctype_.o)
-                0x70052998                _ctype_
+                0x70052908      0x101 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-ctype_.o)
+                0x70052908                _ctype_
  .rodata.gmtime.str1.1
-                0x70052a99       0x6f C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-gmtime.o)
+                0x70052a09       0x6f C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-gmtime.o)
  .rodata._setlocale_r.str1.1
-                0x70052a99        0x9 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-locale.o)
+                0x70052a09        0x9 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-locale.o)
  .rodata.str1.1
-                0x70052a99        0x2 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-locale.o)
+                0x70052a09        0x2 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-locale.o)
  .rodata.__gethex.str1.1
-                0x70052a99       0x73 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-gdtoa-gethex.o)
+                0x70052a09       0x73 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-gdtoa-gethex.o)
  .rodata._Balloc.str1.1
-                0x70052a99       0x70 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-mprec.o)
+                0x70052a09       0x70 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-mprec.o)
  .rodata.__multadd.str1.1
-                0x70052a99       0x11 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-mprec.o)
- *fill*         0x70052a99        0x3 
- .rodata.p05.0  0x70052a9c        0xc C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-mprec.o)
+                0x70052a09       0x11 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-mprec.o)
+ *fill*         0x70052a09        0x3 
+ .rodata.p05.0  0x70052a0c        0xc C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-mprec.o)
  .rodata.__mprec_bigtens
-                0x70052aa8       0x28 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-mprec.o)
-                0x70052aa8                __mprec_bigtens
+                0x70052a18       0x28 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-mprec.o)
+                0x70052a18                __mprec_bigtens
  .rodata.__mprec_tens
-                0x70052ad0       0xc8 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-mprec.o)
-                0x70052ad0                __mprec_tens
+                0x70052a40       0xc8 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-mprec.o)
+                0x70052a40                __mprec_tens
  .rodata.__on_exit_args
-                0x70052b98        0x4 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-on_exit_args.o)
-                0x70052b98                __on_exit_args
+                0x70052b08        0x4 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-on_exit_args.o)
+                0x70052b08                __on_exit_args
  .rodata._svfprintf_r.str1.1
-                0x70052b9c       0x11 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
+                0x70052b0c       0x11 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
  .rodata._vfprintf_r.str1.1
-                0x70052b9c       0x11 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-nano-vfprintf.o)
+                0x70052b0c       0x11 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-nano-vfprintf.o)
  .rodata._printf_i.str1.1
-                0x70052b9c       0x22 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
-                0x70052bc0                        . = ALIGN (0x4)
+                0x70052b0c       0x22 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+                0x70052b30                        . = ALIGN (0x4)
 
 FontSearchFlashSection
-                0x70052b9c      0x73a
+                0x70052b0c      0x73a
  FontSearchFlashSection
-                0x70052b9c       0x10 ./Application/User/generated/Kerning_arial_10_4bpp.o
-                0x70052b9c                kerning_arial_10_4bpp
+                0x70052b0c       0x10 ./Application/User/generated/Kerning_arial_10_4bpp.o
+                0x70052b0c                kerning_arial_10_4bpp
  FontSearchFlashSection
-                0x70052bac      0x124 ./Application/User/generated/Kerning_arial_20_4bpp.o
-                0x70052bac                kerning_arial_20_4bpp
+                0x70052b1c      0x124 ./Application/User/generated/Kerning_arial_20_4bpp.o
+                0x70052b1c                kerning_arial_20_4bpp
  FontSearchFlashSection
-                0x70052cd0      0x124 ./Application/User/generated/Kerning_arial_28_4bpp.o
-                0x70052cd0                kerning_arial_28_4bpp
+                0x70052c40      0x124 ./Application/User/generated/Kerning_arial_28_4bpp.o
+                0x70052c40                kerning_arial_28_4bpp
  FontSearchFlashSection
-                0x70052df4      0x17c ./Application/User/generated/Kerning_arial_40_4bpp.o
-                0x70052df4                kerning_arial_40_4bpp
+                0x70052d64      0x17c ./Application/User/generated/Kerning_arial_40_4bpp.o
+                0x70052d64                kerning_arial_40_4bpp
  FontSearchFlashSection
-                0x70052f70      0x2e4 ./Application/User/generated/Kerning_verdana_27_4bpp.o
-                0x70052f70                kerning_verdana_27_4bpp
+                0x70052ee0      0x2e4 ./Application/User/generated/Kerning_verdana_27_4bpp.o
+                0x70052ee0                kerning_verdana_27_4bpp
  FontSearchFlashSection
-                0x70053254       0x14 ./Application/User/generated/Table_arial_10_4bpp.o
-                0x70053254                unicodes_arial_10_4bpp
+                0x700531c4       0x14 ./Application/User/generated/Table_arial_10_4bpp.o
+                0x700531c4                unicodes_arial_10_4bpp
  FontSearchFlashSection
-                0x70053268       0x14 ./Application/User/generated/Table_arial_20_4bpp.o
-                0x70053268                unicodes_arial_20_4bpp
+                0x700531d8       0x14 ./Application/User/generated/Table_arial_20_4bpp.o
+                0x700531d8                unicodes_arial_20_4bpp
  FontSearchFlashSection
-                0x7005327c       0x14 ./Application/User/generated/Table_arial_28_4bpp.o
-                0x7005327c                unicodes_arial_28_4bpp
+                0x700531ec       0x14 ./Application/User/generated/Table_arial_28_4bpp.o
+                0x700531ec                unicodes_arial_28_4bpp
  FontSearchFlashSection
-                0x70053290       0x14 ./Application/User/generated/Table_arial_40_4bpp.o
-                0x70053290                unicodes_arial_40_4bpp
+                0x70053200       0x14 ./Application/User/generated/Table_arial_40_4bpp.o
+                0x70053200                unicodes_arial_40_4bpp
  FontSearchFlashSection
-                0x700532a4       0x14 ./Application/User/generated/Table_verdana_27_4bpp.o
-                0x700532a4                unicodes_verdana_27_4bpp
+                0x70053214       0x14 ./Application/User/generated/Table_verdana_27_4bpp.o
+                0x70053214                unicodes_verdana_27_4bpp
  FontSearchFlashSection
-                0x700532b8       0x18 ./Application/User/generated/Vector_Kerning_arial.o
-                0x700532b8                vector_kerning_arial
+                0x70053228       0x18 ./Application/User/generated/Vector_Kerning_arial.o
+                0x70053228                vector_kerning_arial
  FontSearchFlashSection
-                0x700532d0        0x6 ./Application/User/generated/Vector_Table_arial.o
-                0x700532d0                vector_unicodes_arial
-                0x700532d4                vector_arial_gsubTable
+                0x70053240        0x6 ./Application/User/generated/Vector_Table_arial.o
+                0x70053240                vector_unicodes_arial
+                0x70053244                vector_arial_gsubTable
 
-.ARM.extab      0x700532d6        0x2
-                0x700532d8                        . = ALIGN (0x4)
- *fill*         0x700532d6        0x2 
+.ARM.extab      0x70053246        0x2
+                0x70053248                        . = ALIGN (0x4)
+ *fill*         0x70053246        0x2 
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x700532d8                        . = ALIGN (0x4)
+                0x70053248                        . = ALIGN (0x4)
 
-.ARM            0x700532d8        0x8
-                0x700532d8                        . = ALIGN (0x4)
-                0x700532d8                        __exidx_start = .
+.ARM            0x70053248        0x8
+                0x70053248                        . = ALIGN (0x4)
+                0x70053248                        __exidx_start = .
  *(.ARM.exidx*)
- .ARM.exidx     0x700532d8        0x8 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-strcmp.o)
- .ARM.exidx     0x700532e0        0x0 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-strlen.o)
+ .ARM.exidx     0x70053248        0x8 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-strcmp.o)
+ .ARM.exidx     0x70053250        0x0 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-strlen.o)
                                   0x8 (size before relaxing)
- .ARM.exidx     0x700532e0        0x0 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-memchr.o)
+ .ARM.exidx     0x70053250        0x0 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-memchr.o)
                                   0x8 (size before relaxing)
- .ARM.exidx     0x700532e0        0x0 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.exidx     0x70053250        0x0 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libgcc.a(_udivmoddi4.o)
                                   0x8 (size before relaxing)
-                0x700532e0                        __exidx_end = .
-                0x700532e0                        . = ALIGN (0x4)
+                0x70053250                        __exidx_end = .
+                0x70053250                        . = ALIGN (0x4)
 
-.preinit_array  0x700532e0        0x0
-                0x700532e0                        . = ALIGN (0x4)
-                0x700532e0                        PROVIDE (__preinit_array_start = .)
+.preinit_array  0x70053250        0x0
+                0x70053250                        . = ALIGN (0x4)
+                0x70053250                        PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x700532e0                        PROVIDE (__preinit_array_end = .)
-                0x700532e0                        . = ALIGN (0x4)
+                0x70053250                        PROVIDE (__preinit_array_end = .)
+                0x70053250                        . = ALIGN (0x4)
 
-.init_array     0x700532e0       0x24
-                0x700532e0                        . = ALIGN (0x4)
-                0x700532e0                        PROVIDE (__init_array_start = .)
+.init_array     0x70053250       0x24
+                0x70053250                        . = ALIGN (0x4)
+                0x70053250                        PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array*)
- .init_array    0x700532e0        0x4 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtbegin.o
- .init_array    0x700532e4        0x4 ./Application/User/TouchGFX/target/TouchGFXHAL.o
- .init_array    0x700532e8        0x4 ./Application/User/TouchGFX/target/generated/TouchGFXConfiguration.o
- .init_array    0x700532ec        0x4 ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
- .init_array    0x700532f0        0x4 ./Application/User/generated/TypedTextDatabase.o
- .init_array    0x700532f4        0x4 ./Application/User/gui/CustomKeyboard.o
- .init_array    0x700532f8        0x4 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD.o)
- .init_array    0x700532fc        0x4 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(Application.o)
- .init_array    0x70053300        0x4 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(GPU2DVectorRenderer.o)
-                0x70053304                        PROVIDE (__init_array_end = .)
-                0x70053304                        . = ALIGN (0x4)
+ .init_array    0x70053250        0x4 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtbegin.o
+ .init_array    0x70053254        0x4 ./Application/User/TouchGFX/target/TouchGFXHAL.o
+ .init_array    0x70053258        0x4 ./Application/User/TouchGFX/target/generated/TouchGFXConfiguration.o
+ .init_array    0x7005325c        0x4 ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
+ .init_array    0x70053260        0x4 ./Application/User/generated/TypedTextDatabase.o
+ .init_array    0x70053264        0x4 ./Application/User/gui/CustomKeyboard.o
+ .init_array    0x70053268        0x4 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(LCD.o)
+ .init_array    0x7005326c        0x4 ../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc\libtouchgfx-float-abi-hard.a(Application.o)
+ .init_array    0x70053270        0x4 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(GPU2DVectorRenderer.o)
+                0x70053274                        PROVIDE (__init_array_end = .)
+                0x70053274                        . = ALIGN (0x4)
 
-.fini_array     0x70053304        0x8
-                0x70053304                        . = ALIGN (0x4)
+.fini_array     0x70053274        0x8
+                0x70053274                        . = ALIGN (0x4)
                 [!provide]                        PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x70053304        0x4 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtbegin.o
- .fini_array    0x70053308        0x4 ./Application/User/TouchGFX/target/generated/TouchGFXConfiguration.o
+ .fini_array    0x70053274        0x4 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtbegin.o
+ .fini_array    0x70053278        0x4 ./Application/User/TouchGFX/target/generated/TouchGFXConfiguration.o
                 [!provide]                        PROVIDE (__fini_array_end = .)
-                0x7005330c                        . = ALIGN (0x4)
-                0x7005330c                        _sidata = LOADADDR (.data)
+                0x7005327c                        . = ALIGN (0x4)
+                0x7005327c                        _sidata = LOADADDR (.data)
 
 FreeRtosHeapSection
                 0x20003000     0xc350
@@ -23314,7 +23314,7 @@ FreeRtosHeapSection
  .bss.ucHeap    0x20003000     0xc350 ./Middlewares/FreeRTOS/heap_4.o
                 0x2000f350                        . = ALIGN (0x8)
 
-.data           0x24000000      0x364 load address 0x7005330c
+.data           0x24000000      0x364 load address 0x7005327c
                 0x24000000                        . = ALIGN (0x4)
                 0x24000000                        _sdata = .
  *(.data)
@@ -23488,21 +23488,21 @@ FreeRtosHeapSection
                 0x24000364                        . = ALIGN (0x4)
                 0x24000364                        _edata = .
 
-.igot.plt       0x24000364        0x0 load address 0x70053670
+.igot.plt       0x24000364        0x0 load address 0x700535e0
  .igot.plt      0x24000364        0x0 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtbegin.o
 
 TouchGFX_ScratchbufferA
-                0x24000380      0x100 load address 0x70053670
+                0x24000380      0x100 load address 0x700535e0
  TouchGFX_ScratchbufferA
                 0x24000380      0x100 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
 
 TouchGFX_ScratchbufferB
-                0x24000480      0x100 load address 0x70053770
+                0x24000480      0x100 load address 0x700536e0
  TouchGFX_ScratchbufferB
                 0x24000480      0x100 ../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc\libtouchgfxnema-float-abi-hard.a(LCDGPU2D_AXI.o)
                 0x24000580                        . = ALIGN (0x4)
 
-.bss            0x24000580    0x12320 load address 0x70053870
+.bss            0x24000580    0x12320 load address 0x700537e0
                 0x24000580                        _sbss = .
                 0x24000580                        __bss_start__ = _sbss
  *(.bss)
@@ -26240,286 +26240,286 @@ LOAD C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.exte
  .debug_macro   0x000498d6       0x17 ./Middlewares/FreeRTOS/tasks.o
  .debug_macro   0x000498ed      0x1e7 ./Middlewares/FreeRTOS/timers.o
 
-.debug_line     0x00000000    0x893a8
+.debug_line     0x00000000    0x880f4
  .debug_line    0x00000000     0x36aa ./Application/User/Core/cJSON.o
  .debug_line    0x000036aa      0x66e ./Application/User/Core/weather_parser.o
- .debug_line    0x00003d18      0xb6d ./Application/User/Core/freertos.o
- .debug_line    0x00004885     0x1e75 ./Application/User/Core/main.o
- .debug_line    0x000066fa     0x114a ./Application/User/Core/stm32h7rsxx_hal_msp.o
- .debug_line    0x00007844      0xba6 ./Application/User/Core/stm32h7rsxx_hal_timebase_tim.o
- .debug_line    0x000083ea      0xbdb ./Application/User/Core/stm32h7rsxx_it.o
- .debug_line    0x00008fc5      0x96e ./Application/User/Core/syscalls.o
- .debug_line    0x00009933      0x5c0 ./Application/User/Core/sysmem.o
- .debug_line    0x00009ef3       0x7b ./Application/User/Startup/startup_stm32h7s7l8hxh.o
- .debug_line    0x00009f6e      0x11b ./Application/User/TouchGFX/App/app_touchgfx.o
- .debug_line    0x0000a089      0xe5e ./Application/User/TouchGFX/target/CortexMMCUInstrumentation.o
- .debug_line    0x0000aee7     0x1654 ./Application/User/TouchGFX/target/STM32TouchController.o
- .debug_line    0x0000c53b     0x10e9 ./Application/User/TouchGFX/target/TouchGFXGPIO.o
- .debug_line    0x0000d624     0x177f ./Application/User/TouchGFX/target/TouchGFXHAL.o
- .debug_line    0x0000eda3     0x23c7 ./Application/User/TouchGFX/target/generated/HardwareMJPEGDecoder.o
- .debug_line    0x0001116a      0xe4e ./Application/User/TouchGFX/target/generated/OSWrappers.o
- .debug_line    0x00011fb8     0x2234 ./Application/User/TouchGFX/target/generated/STM32DMA.o
- .debug_line    0x000141ec     0x2b14 ./Application/User/TouchGFX/target/generated/TouchGFXConfiguration.o
- .debug_line    0x00016d00     0x33ff ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
- .debug_line    0x0001a0ff     0x1005 ./Application/User/TouchGFX/target/generated/nema_hal.o
- .debug_line    0x0001b104      0x836 ./Application/User/generated/ApplicationFontProvider.o
- .debug_line    0x0001b93a      0x6ba ./Application/User/generated/BitmapDatabase.o
- .debug_line    0x0001bff4      0xa77 ./Application/User/generated/CachedFont.o
- .debug_line    0x0001ca6b     0x1663 ./Application/User/generated/FontCache.o
- .debug_line    0x0001e0ce      0x5dd ./Application/User/generated/Font_arial_10_4bpp_0.o
- .debug_line    0x0001e6ab      0x5dd ./Application/User/generated/Font_arial_10_4bpp_3.o
- .debug_line    0x0001ec88      0x5dd ./Application/User/generated/Font_arial_10_4bpp_4.o
- .debug_line    0x0001f265      0x5dd ./Application/User/generated/Font_arial_20_4bpp_0.o
- .debug_line    0x0001f842      0x5dd ./Application/User/generated/Font_arial_20_4bpp_3.o
- .debug_line    0x0001fe1f      0x5dd ./Application/User/generated/Font_arial_20_4bpp_4.o
- .debug_line    0x000203fc      0x5dd ./Application/User/generated/Font_arial_28_4bpp_0.o
- .debug_line    0x000209d9      0x5dd ./Application/User/generated/Font_arial_28_4bpp_4.o
- .debug_line    0x00020fb6      0x5dd ./Application/User/generated/Font_arial_40_4bpp_0.o
- .debug_line    0x00021593      0x5dd ./Application/User/generated/Font_arial_40_4bpp_4.o
- .debug_line    0x00021b70      0x5df ./Application/User/generated/Font_verdana_27_4bpp_0.o
- .debug_line    0x0002214f      0x5df ./Application/User/generated/Font_verdana_27_4bpp_4.o
- .debug_line    0x0002272e     0x3298 ./Application/User/generated/FrontendApplicationBase.o
- .debug_line    0x000259c6     0x15e3 ./Application/User/generated/GeneratedFont.o
- .debug_line    0x00026fa9      0x65e ./Application/User/generated/Kerning_arial_10_4bpp.o
- .debug_line    0x00027607      0x65e ./Application/User/generated/Kerning_arial_20_4bpp.o
- .debug_line    0x00027c65      0x65e ./Application/User/generated/Kerning_arial_28_4bpp.o
- .debug_line    0x000282c3      0x65e ./Application/User/generated/Kerning_arial_40_4bpp.o
- .debug_line    0x00028921      0x660 ./Application/User/generated/Kerning_verdana_27_4bpp.o
- .debug_line    0x00028f81      0x639 ./Application/User/generated/LanguageGb.o
- .debug_line    0x000295ba      0x644 ./Application/User/generated/LanguageSonderzeichen.o
- .debug_line    0x00029bfe     0x44de ./Application/User/generated/Screen1ViewBase.o
- .debug_line    0x0002e0dc     0x37bd ./Application/User/generated/ScreenConnectSSIDViewBase.o
- .debug_line    0x00031899     0x1e8d ./Application/User/generated/ScreenKeyboardViewBase.o
- .debug_line    0x00033726     0x1ec9 ./Application/User/generated/ScreenKeyboard_CityViewBase.o
- .debug_line    0x000355ef      0x734 ./Application/User/generated/Table_arial_10_4bpp.o
- .debug_line    0x00035d23      0x734 ./Application/User/generated/Table_arial_20_4bpp.o
- .debug_line    0x00036457      0x734 ./Application/User/generated/Table_arial_28_4bpp.o
- .debug_line    0x00036b8b      0x733 ./Application/User/generated/Table_arial_40_4bpp.o
- .debug_line    0x000372be      0x736 ./Application/User/generated/Table_verdana_27_4bpp.o
- .debug_line    0x000379f4     0x1160 ./Application/User/generated/Texts.o
- .debug_line    0x00038b54      0x895 ./Application/User/generated/TypedTextDatabase.o
- .debug_line    0x000393e9      0x81b ./Application/User/generated/VectorFontRendererBuffers.o
- .debug_line    0x00039c04      0x5dc ./Application/User/generated/Vector_Font_arial_0.o
- .debug_line    0x0003a1e0      0x6c2 ./Application/User/generated/Vector_Kerning_arial.o
- .debug_line    0x0003a8a2      0x6c0 ./Application/User/generated/Vector_Table_arial.o
- .debug_line    0x0003af62      0x728 ./Application/User/generated/Vector_Table_arial_20.o
- .debug_line    0x0003b68a      0x13d ./Application/User/generated/image_2995005_sun_sunny_yellow_weather_beach_icon.o
- .debug_line    0x0003b7c7      0x120 ./Application/User/generated/image_Kayra-removebg.o
- .debug_line    0x0003b8e7      0x119 ./Application/User/generated/image__01d_2x.o
- .debug_line    0x0003ba00      0x119 ./Application/User/generated/image__01n_2x.o
- .debug_line    0x0003bb19      0x119 ./Application/User/generated/image__02d_2x.o
- .debug_line    0x0003bc32      0x119 ./Application/User/generated/image__02n_2x.o
- .debug_line    0x0003bd4b      0x119 ./Application/User/generated/image__03d_2x.o
- .debug_line    0x0003be64      0x119 ./Application/User/generated/image__03n_2x.o
- .debug_line    0x0003bf7d      0x119 ./Application/User/generated/image__04d_2x.o
- .debug_line    0x0003c096      0x119 ./Application/User/generated/image__04n_2x.o
- .debug_line    0x0003c1af      0x119 ./Application/User/generated/image__09d_2x.o
- .debug_line    0x0003c2c8      0x119 ./Application/User/generated/image__09n_2x.o
- .debug_line    0x0003c3e1      0x119 ./Application/User/generated/image__10d_2x.o
- .debug_line    0x0003c4fa      0x11a ./Application/User/generated/image__10n_2x_.o
- .debug_line    0x0003c614      0x119 ./Application/User/generated/image__11d_2x.o
- .debug_line    0x0003c72d      0x119 ./Application/User/generated/image__11n_2x.o
- .debug_line    0x0003c846      0x119 ./Application/User/generated/image__13d_2x.o
- .debug_line    0x0003c95f      0x119 ./Application/User/generated/image__13n_2x.o
- .debug_line    0x0003ca78      0x119 ./Application/User/generated/image__50d_2x.o
- .debug_line    0x0003cb91      0x119 ./Application/User/generated/image__50n_2x.o
- .debug_line    0x0003ccaa      0x160 ./Application/User/generated/image_alternate_theme_images_widgets_button_icon_round_small_fill_action.o
- .debug_line    0x0003ce0a      0x161 ./Application/User/generated/image_alternate_theme_images_widgets_button_icon_round_small_fill_pressed.o
- .debug_line    0x0003cf6b      0x133 ./Application/User/generated/image_collage-konzept-fur-wettereffekte.o
- .debug_line    0x0003d09e      0x128 ./Application/User/generated/image_icon_keyboard_even_row.o
- .debug_line    0x0003d1c6      0x12b ./Application/User/generated/image_icon_keyboard_highlighted.o
- .debug_line    0x0003d2f1      0x127 ./Application/User/generated/image_icon_keyboard_odd_row.o
- .debug_line    0x0003d418      0x158 ./Application/User/generated/image_icon_theme_images_hardware_cast_connected_70_70_E8F6FB.svg.o
- .debug_line    0x0003d570      0x158 ./Application/User/generated/image_icon_theme_images_hardware_cast_connected_70_70_ED1140.svg.o
- .debug_line    0x0003d6c8      0x125 ./Application/User/generated/image_keyboard_background.o
- .debug_line    0x0003d7ed      0x131 ./Application/User/generated/image_keyboard_key_delete_highlighted.o
- .debug_line    0x0003d91e      0x12a ./Application/User/generated/image_keyboard_key_highlighted.o
- .debug_line    0x0003da48      0x12e ./Application/User/generated/image_keyboard_key_num_highlighted.o
- .debug_line    0x0003db76      0x130 ./Application/User/generated/image_keyboard_key_shift_highlighted.o
- .debug_line    0x0003dca6      0x12c ./Application/User/generated/image_keyboard_space_highlighted.o
- .debug_line    0x0003ddd2     0x2140 ./Application/User/gui/CustomKeyboard.o
- .debug_line    0x0003ff12     0x1248 ./Application/User/gui/FrontendApplication.o
- .debug_line    0x0004115a     0x19a1 ./Application/User/gui/Model.o
- .debug_line    0x00042afb     0x17e5 ./Application/User/gui/Screen1Presenter.o
- .debug_line    0x000442e0     0x2017 ./Application/User/gui/Screen1View.o
- .debug_line    0x000462f7     0x16b2 ./Application/User/gui/ScreenConnectSSIDPresenter.o
- .debug_line    0x000479a9     0x174b ./Application/User/gui/ScreenConnectSSIDView.o
- .debug_line    0x000490f4     0x1747 ./Application/User/gui/ScreenKeyboardPresenter.o
- .debug_line    0x0004a83b     0x17e2 ./Application/User/gui/ScreenKeyboardView.o
- .debug_line    0x0004c01d     0x176a ./Application/User/gui/ScreenKeyboard_CityPresenter.o
- .debug_line    0x0004d787     0x180c ./Application/User/gui/ScreenKeyboard_CityView.o
- .debug_line    0x0004ef93      0xbb5 ./Drivers/CMSIS/system_stm32h7rsxx.o
- .debug_line    0x0004fb48     0x1413 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
- .debug_line    0x00050f5b     0x10ff ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
- .debug_line    0x0005205a      0xdce ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_crc.o
- .debug_line    0x00052e28      0xb4d ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_crc_ex.o
- .debug_line    0x00053975     0x181a ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma.o
- .debug_line    0x0005518f     0x1a8e ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma2d.o
- .debug_line    0x00056c1d     0x3621 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
- .debug_line    0x0005a23e     0x135b ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
- .debug_line    0x0005b599     0x1545 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash_ex.o
- .debug_line    0x0005cade      0xeeb ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_gpio.o
- .debug_line    0x0005d9c9      0xc88 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_gpu2d.o
- .debug_line    0x0005e651     0x5949 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_i2c.o
- .debug_line    0x00063f9a      0xcc5 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_i2c_ex.o
- .debug_line    0x00064c5f      0xd34 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_icache.o
- .debug_line    0x00065993     0x3249 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_jpeg.o
- .debug_line    0x00068bdc     0x1cf6 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_ltdc.o
- .debug_line    0x0006a8d2     0x1448 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
- .debug_line    0x0006bd1a     0x2280 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
- .debug_line    0x0006df9a     0x1f81 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
- .debug_line    0x0006ff1b     0x5175 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_tim.o
- .debug_line    0x00075090     0x2457 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_tim_ex.o
- .debug_line    0x000774e7     0x55c2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_uart.o
- .debug_line    0x0007caa9     0x12f7 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_uart_ex.o
- .debug_line    0x0007dda0     0x2f51 ./Middlewares/FreeRTOS/cmsis_os2.o
- .debug_line    0x00080cf1      0xc44 ./Middlewares/FreeRTOS/heap_4.o
- .debug_line    0x00081935      0x89d ./Middlewares/FreeRTOS/list.o
- .debug_line    0x000821d2      0xa72 ./Middlewares/FreeRTOS/port.o
- .debug_line    0x00082c44     0x2249 ./Middlewares/FreeRTOS/queue.o
- .debug_line    0x00084e8d     0x3316 ./Middlewares/FreeRTOS/tasks.o
- .debug_line    0x000881a3     0x1205 ./Middlewares/FreeRTOS/timers.o
+ .debug_line    0x00003d18      0xb49 ./Application/User/Core/freertos.o
+ .debug_line    0x00004861     0x1e51 ./Application/User/Core/main.o
+ .debug_line    0x000066b2     0x1126 ./Application/User/Core/stm32h7rsxx_hal_msp.o
+ .debug_line    0x000077d8      0xb82 ./Application/User/Core/stm32h7rsxx_hal_timebase_tim.o
+ .debug_line    0x0000835a      0xbb7 ./Application/User/Core/stm32h7rsxx_it.o
+ .debug_line    0x00008f11      0x96e ./Application/User/Core/syscalls.o
+ .debug_line    0x0000987f      0x5c0 ./Application/User/Core/sysmem.o
+ .debug_line    0x00009e3f       0x7b ./Application/User/Startup/startup_stm32h7s7l8hxh.o
+ .debug_line    0x00009eba       0xf7 ./Application/User/TouchGFX/App/app_touchgfx.o
+ .debug_line    0x00009fb1      0xe3a ./Application/User/TouchGFX/target/CortexMMCUInstrumentation.o
+ .debug_line    0x0000adeb     0x1630 ./Application/User/TouchGFX/target/STM32TouchController.o
+ .debug_line    0x0000c41b     0x10c5 ./Application/User/TouchGFX/target/TouchGFXGPIO.o
+ .debug_line    0x0000d4e0     0x175b ./Application/User/TouchGFX/target/TouchGFXHAL.o
+ .debug_line    0x0000ec3b     0x23a3 ./Application/User/TouchGFX/target/generated/HardwareMJPEGDecoder.o
+ .debug_line    0x00010fde      0xe2a ./Application/User/TouchGFX/target/generated/OSWrappers.o
+ .debug_line    0x00011e08     0x2210 ./Application/User/TouchGFX/target/generated/STM32DMA.o
+ .debug_line    0x00014018     0x2af0 ./Application/User/TouchGFX/target/generated/TouchGFXConfiguration.o
+ .debug_line    0x00016b08     0x33db ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
+ .debug_line    0x00019ee3      0xfe1 ./Application/User/TouchGFX/target/generated/nema_hal.o
+ .debug_line    0x0001aec4      0x812 ./Application/User/generated/ApplicationFontProvider.o
+ .debug_line    0x0001b6d6      0x696 ./Application/User/generated/BitmapDatabase.o
+ .debug_line    0x0001bd6c      0xa53 ./Application/User/generated/CachedFont.o
+ .debug_line    0x0001c7bf     0x163f ./Application/User/generated/FontCache.o
+ .debug_line    0x0001ddfe      0x5b9 ./Application/User/generated/Font_arial_10_4bpp_0.o
+ .debug_line    0x0001e3b7      0x5b9 ./Application/User/generated/Font_arial_10_4bpp_3.o
+ .debug_line    0x0001e970      0x5b9 ./Application/User/generated/Font_arial_10_4bpp_4.o
+ .debug_line    0x0001ef29      0x5b9 ./Application/User/generated/Font_arial_20_4bpp_0.o
+ .debug_line    0x0001f4e2      0x5b9 ./Application/User/generated/Font_arial_20_4bpp_3.o
+ .debug_line    0x0001fa9b      0x5b9 ./Application/User/generated/Font_arial_20_4bpp_4.o
+ .debug_line    0x00020054      0x5b9 ./Application/User/generated/Font_arial_28_4bpp_0.o
+ .debug_line    0x0002060d      0x5b9 ./Application/User/generated/Font_arial_28_4bpp_4.o
+ .debug_line    0x00020bc6      0x5b9 ./Application/User/generated/Font_arial_40_4bpp_0.o
+ .debug_line    0x0002117f      0x5b9 ./Application/User/generated/Font_arial_40_4bpp_4.o
+ .debug_line    0x00021738      0x5bb ./Application/User/generated/Font_verdana_27_4bpp_0.o
+ .debug_line    0x00021cf3      0x5bb ./Application/User/generated/Font_verdana_27_4bpp_4.o
+ .debug_line    0x000222ae     0x3274 ./Application/User/generated/FrontendApplicationBase.o
+ .debug_line    0x00025522     0x15bf ./Application/User/generated/GeneratedFont.o
+ .debug_line    0x00026ae1      0x63a ./Application/User/generated/Kerning_arial_10_4bpp.o
+ .debug_line    0x0002711b      0x63a ./Application/User/generated/Kerning_arial_20_4bpp.o
+ .debug_line    0x00027755      0x63a ./Application/User/generated/Kerning_arial_28_4bpp.o
+ .debug_line    0x00027d8f      0x63a ./Application/User/generated/Kerning_arial_40_4bpp.o
+ .debug_line    0x000283c9      0x63c ./Application/User/generated/Kerning_verdana_27_4bpp.o
+ .debug_line    0x00028a05      0x615 ./Application/User/generated/LanguageGb.o
+ .debug_line    0x0002901a      0x620 ./Application/User/generated/LanguageSonderzeichen.o
+ .debug_line    0x0002963a     0x44ba ./Application/User/generated/Screen1ViewBase.o
+ .debug_line    0x0002daf4     0x3799 ./Application/User/generated/ScreenConnectSSIDViewBase.o
+ .debug_line    0x0003128d     0x1e69 ./Application/User/generated/ScreenKeyboardViewBase.o
+ .debug_line    0x000330f6     0x1ea5 ./Application/User/generated/ScreenKeyboard_CityViewBase.o
+ .debug_line    0x00034f9b      0x710 ./Application/User/generated/Table_arial_10_4bpp.o
+ .debug_line    0x000356ab      0x710 ./Application/User/generated/Table_arial_20_4bpp.o
+ .debug_line    0x00035dbb      0x710 ./Application/User/generated/Table_arial_28_4bpp.o
+ .debug_line    0x000364cb      0x70f ./Application/User/generated/Table_arial_40_4bpp.o
+ .debug_line    0x00036bda      0x712 ./Application/User/generated/Table_verdana_27_4bpp.o
+ .debug_line    0x000372ec     0x113c ./Application/User/generated/Texts.o
+ .debug_line    0x00038428      0x871 ./Application/User/generated/TypedTextDatabase.o
+ .debug_line    0x00038c99      0x7f7 ./Application/User/generated/VectorFontRendererBuffers.o
+ .debug_line    0x00039490      0x5b8 ./Application/User/generated/Vector_Font_arial_0.o
+ .debug_line    0x00039a48      0x69e ./Application/User/generated/Vector_Kerning_arial.o
+ .debug_line    0x0003a0e6      0x69c ./Application/User/generated/Vector_Table_arial.o
+ .debug_line    0x0003a782      0x704 ./Application/User/generated/Vector_Table_arial_20.o
+ .debug_line    0x0003ae86      0x119 ./Application/User/generated/image_2995005_sun_sunny_yellow_weather_beach_icon.o
+ .debug_line    0x0003af9f       0xfc ./Application/User/generated/image_Kayra-removebg.o
+ .debug_line    0x0003b09b       0xf5 ./Application/User/generated/image__01d_2x.o
+ .debug_line    0x0003b190       0xf5 ./Application/User/generated/image__01n_2x.o
+ .debug_line    0x0003b285       0xf5 ./Application/User/generated/image__02d_2x.o
+ .debug_line    0x0003b37a       0xf5 ./Application/User/generated/image__02n_2x.o
+ .debug_line    0x0003b46f       0xf5 ./Application/User/generated/image__03d_2x.o
+ .debug_line    0x0003b564       0xf5 ./Application/User/generated/image__03n_2x.o
+ .debug_line    0x0003b659       0xf5 ./Application/User/generated/image__04d_2x.o
+ .debug_line    0x0003b74e       0xf5 ./Application/User/generated/image__04n_2x.o
+ .debug_line    0x0003b843       0xf5 ./Application/User/generated/image__09d_2x.o
+ .debug_line    0x0003b938       0xf5 ./Application/User/generated/image__09n_2x.o
+ .debug_line    0x0003ba2d       0xf5 ./Application/User/generated/image__10d_2x.o
+ .debug_line    0x0003bb22       0xf6 ./Application/User/generated/image__10n_2x_.o
+ .debug_line    0x0003bc18       0xf5 ./Application/User/generated/image__11d_2x.o
+ .debug_line    0x0003bd0d       0xf5 ./Application/User/generated/image__11n_2x.o
+ .debug_line    0x0003be02       0xf5 ./Application/User/generated/image__13d_2x.o
+ .debug_line    0x0003bef7       0xf5 ./Application/User/generated/image__13n_2x.o
+ .debug_line    0x0003bfec       0xf5 ./Application/User/generated/image__50d_2x.o
+ .debug_line    0x0003c0e1       0xf5 ./Application/User/generated/image__50n_2x.o
+ .debug_line    0x0003c1d6      0x13c ./Application/User/generated/image_alternate_theme_images_widgets_button_icon_round_small_fill_action.o
+ .debug_line    0x0003c312      0x13d ./Application/User/generated/image_alternate_theme_images_widgets_button_icon_round_small_fill_pressed.o
+ .debug_line    0x0003c44f      0x10f ./Application/User/generated/image_collage-konzept-fur-wettereffekte.o
+ .debug_line    0x0003c55e      0x104 ./Application/User/generated/image_icon_keyboard_even_row.o
+ .debug_line    0x0003c662      0x107 ./Application/User/generated/image_icon_keyboard_highlighted.o
+ .debug_line    0x0003c769      0x103 ./Application/User/generated/image_icon_keyboard_odd_row.o
+ .debug_line    0x0003c86c      0x134 ./Application/User/generated/image_icon_theme_images_hardware_cast_connected_70_70_E8F6FB.svg.o
+ .debug_line    0x0003c9a0      0x134 ./Application/User/generated/image_icon_theme_images_hardware_cast_connected_70_70_ED1140.svg.o
+ .debug_line    0x0003cad4      0x101 ./Application/User/generated/image_keyboard_background.o
+ .debug_line    0x0003cbd5      0x10d ./Application/User/generated/image_keyboard_key_delete_highlighted.o
+ .debug_line    0x0003cce2      0x106 ./Application/User/generated/image_keyboard_key_highlighted.o
+ .debug_line    0x0003cde8      0x10a ./Application/User/generated/image_keyboard_key_num_highlighted.o
+ .debug_line    0x0003cef2      0x10c ./Application/User/generated/image_keyboard_key_shift_highlighted.o
+ .debug_line    0x0003cffe      0x108 ./Application/User/generated/image_keyboard_space_highlighted.o
+ .debug_line    0x0003d106     0x211c ./Application/User/gui/CustomKeyboard.o
+ .debug_line    0x0003f222     0x1224 ./Application/User/gui/FrontendApplication.o
+ .debug_line    0x00040446     0x197d ./Application/User/gui/Model.o
+ .debug_line    0x00041dc3     0x17c1 ./Application/User/gui/Screen1Presenter.o
+ .debug_line    0x00043584     0x1ff3 ./Application/User/gui/Screen1View.o
+ .debug_line    0x00045577     0x168e ./Application/User/gui/ScreenConnectSSIDPresenter.o
+ .debug_line    0x00046c05     0x1727 ./Application/User/gui/ScreenConnectSSIDView.o
+ .debug_line    0x0004832c     0x1723 ./Application/User/gui/ScreenKeyboardPresenter.o
+ .debug_line    0x00049a4f     0x17be ./Application/User/gui/ScreenKeyboardView.o
+ .debug_line    0x0004b20d     0x1746 ./Application/User/gui/ScreenKeyboard_CityPresenter.o
+ .debug_line    0x0004c953     0x17e8 ./Application/User/gui/ScreenKeyboard_CityView.o
+ .debug_line    0x0004e13b      0xb91 ./Drivers/CMSIS/system_stm32h7rsxx.o
+ .debug_line    0x0004eccc     0x13ef ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .debug_line    0x000500bb     0x10db ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+ .debug_line    0x00051196      0xdaa ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_crc.o
+ .debug_line    0x00051f40      0xb29 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_crc_ex.o
+ .debug_line    0x00052a69     0x17f6 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma.o
+ .debug_line    0x0005425f     0x1a6a ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma2d.o
+ .debug_line    0x00055cc9     0x35fd ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .debug_line    0x000592c6     0x1337 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
+ .debug_line    0x0005a5fd     0x1521 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash_ex.o
+ .debug_line    0x0005bb1e      0xec7 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_gpio.o
+ .debug_line    0x0005c9e5      0xc64 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_gpu2d.o
+ .debug_line    0x0005d649     0x5925 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_i2c.o
+ .debug_line    0x00062f6e      0xca1 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_i2c_ex.o
+ .debug_line    0x00063c0f      0xd10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_icache.o
+ .debug_line    0x0006491f     0x3225 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_jpeg.o
+ .debug_line    0x00067b44     0x1cd2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_ltdc.o
+ .debug_line    0x00069816     0x1424 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .debug_line    0x0006ac3a     0x225c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+ .debug_line    0x0006ce96     0x1f5d ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+ .debug_line    0x0006edf3     0x5151 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_tim.o
+ .debug_line    0x00073f44     0x2433 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_tim_ex.o
+ .debug_line    0x00076377     0x559e ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_uart.o
+ .debug_line    0x0007b915     0x12d3 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_uart_ex.o
+ .debug_line    0x0007cbe8     0x2f2d ./Middlewares/FreeRTOS/cmsis_os2.o
+ .debug_line    0x0007fb15      0xc20 ./Middlewares/FreeRTOS/heap_4.o
+ .debug_line    0x00080735      0x879 ./Middlewares/FreeRTOS/list.o
+ .debug_line    0x00080fae      0xa4e ./Middlewares/FreeRTOS/port.o
+ .debug_line    0x000819fc     0x2225 ./Middlewares/FreeRTOS/queue.o
+ .debug_line    0x00083c21     0x32f2 ./Middlewares/FreeRTOS/tasks.o
+ .debug_line    0x00086f13     0x11e1 ./Middlewares/FreeRTOS/timers.o
 
-.debug_str      0x00000000   0x192446
- .debug_str     0x00000000   0x192446 ./Application/User/Core/cJSON.o
-                               0x9ef0 (size before relaxing)
- .debug_str     0x00192446     0x7ab7 ./Application/User/Core/weather_parser.o
- .debug_str     0x00192446   0x14aaed ./Application/User/Core/freertos.o
- .debug_str     0x00192446   0x14ce41 ./Application/User/Core/main.o
- .debug_str     0x00192446   0x148087 ./Application/User/Core/stm32h7rsxx_hal_msp.o
- .debug_str     0x00192446   0x146cfa ./Application/User/Core/stm32h7rsxx_hal_timebase_tim.o
- .debug_str     0x00192446   0x146de7 ./Application/User/Core/stm32h7rsxx_it.o
- .debug_str     0x00192446     0x9a8c ./Application/User/Core/syscalls.o
- .debug_str     0x00192446     0x782a ./Application/User/Core/sysmem.o
- .debug_str     0x00192446       0xd0 ./Application/User/Startup/startup_stm32h7s7l8hxh.o
- .debug_str     0x00192446     0x3049 ./Application/User/TouchGFX/App/app_touchgfx.o
- .debug_str     0x00192446     0x997b ./Application/User/TouchGFX/target/CortexMMCUInstrumentation.o
- .debug_str     0x00192446   0x14b655 ./Application/User/TouchGFX/target/STM32TouchController.o
- .debug_str     0x00192446   0x148ac2 ./Application/User/TouchGFX/target/TouchGFXGPIO.o
- .debug_str     0x00192446    0x19fe6 ./Application/User/TouchGFX/target/TouchGFXHAL.o
- .debug_str     0x00192446   0x14dcae ./Application/User/TouchGFX/target/generated/HardwareMJPEGDecoder.o
- .debug_str     0x00192446     0x9c29 ./Application/User/TouchGFX/target/generated/OSWrappers.o
- .debug_str     0x00192446   0x15442f ./Application/User/TouchGFX/target/generated/STM32DMA.o
- .debug_str     0x00192446   0x15ff90 ./Application/User/TouchGFX/target/generated/TouchGFXConfiguration.o
- .debug_str     0x00192446   0x15c8f5 ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
- .debug_str     0x00192446   0x1482a3 ./Application/User/TouchGFX/target/generated/nema_hal.o
- .debug_str     0x00192446     0x62ae ./Application/User/generated/ApplicationFontProvider.o
- .debug_str     0x00192446     0x6960 ./Application/User/generated/BitmapDatabase.o
- .debug_str     0x00192446     0x7453 ./Application/User/generated/CachedFont.o
- .debug_str     0x00192446     0xd830 ./Application/User/generated/FontCache.o
- .debug_str     0x00192446     0x4efb ./Application/User/generated/Font_arial_10_4bpp_0.o
- .debug_str     0x00192446     0x4efb ./Application/User/generated/Font_arial_10_4bpp_3.o
- .debug_str     0x00192446     0x4efb ./Application/User/generated/Font_arial_10_4bpp_4.o
- .debug_str     0x00192446     0x4efb ./Application/User/generated/Font_arial_20_4bpp_0.o
- .debug_str     0x00192446     0x4efb ./Application/User/generated/Font_arial_20_4bpp_3.o
- .debug_str     0x00192446     0x4efb ./Application/User/generated/Font_arial_20_4bpp_4.o
- .debug_str     0x00192446     0x4efb ./Application/User/generated/Font_arial_28_4bpp_0.o
- .debug_str     0x00192446     0x4efb ./Application/User/generated/Font_arial_28_4bpp_4.o
- .debug_str     0x00192446     0x4efb ./Application/User/generated/Font_arial_40_4bpp_0.o
- .debug_str     0x00192446     0x4efb ./Application/User/generated/Font_arial_40_4bpp_4.o
- .debug_str     0x00192446     0x4eff ./Application/User/generated/Font_verdana_27_4bpp_0.o
- .debug_str     0x00192446     0x4eff ./Application/User/generated/Font_verdana_27_4bpp_4.o
- .debug_str     0x00192446    0x1f0e0 ./Application/User/generated/FrontendApplicationBase.o
- .debug_str     0x00192446     0xd35e ./Application/User/generated/GeneratedFont.o
- .debug_str     0x00192446     0x55fc ./Application/User/generated/Kerning_arial_10_4bpp.o
- .debug_str     0x00192446     0x55fc ./Application/User/generated/Kerning_arial_20_4bpp.o
- .debug_str     0x00192446     0x55fc ./Application/User/generated/Kerning_arial_28_4bpp.o
- .debug_str     0x00192446     0x55fc ./Application/User/generated/Kerning_arial_40_4bpp.o
- .debug_str     0x00192446     0x5600 ./Application/User/generated/Kerning_verdana_27_4bpp.o
- .debug_str     0x00192446     0x503b ./Application/User/generated/LanguageGb.o
- .debug_str     0x00192446     0x5051 ./Application/User/generated/LanguageSonderzeichen.o
- .debug_str     0x00192446    0x1475c ./Application/User/generated/Screen1ViewBase.o
- .debug_str     0x00192446    0x14121 ./Application/User/generated/ScreenConnectSSIDViewBase.o
- .debug_str     0x00192446    0x11970 ./Application/User/generated/ScreenKeyboardViewBase.o
- .debug_str     0x00192446    0x11a43 ./Application/User/generated/ScreenKeyboard_CityViewBase.o
- .debug_str     0x00192446     0x65f3 ./Application/User/generated/Table_arial_10_4bpp.o
- .debug_str     0x00192446     0x65f3 ./Application/User/generated/Table_arial_20_4bpp.o
- .debug_str     0x00192446     0x65da ./Application/User/generated/Table_arial_28_4bpp.o
- .debug_str     0x00192446     0x65da ./Application/User/generated/Table_arial_40_4bpp.o
- .debug_str     0x00192446     0x65d1 ./Application/User/generated/Table_verdana_27_4bpp.o
- .debug_str     0x00192446     0xe27b ./Application/User/generated/Texts.o
- .debug_str     0x00192446     0x6d15 ./Application/User/generated/TypedTextDatabase.o
- .debug_str     0x00192446     0x6e8d ./Application/User/generated/VectorFontRendererBuffers.o
- .debug_str     0x00192446     0x4ef9 ./Application/User/generated/Vector_Font_arial_0.o
- .debug_str     0x00192446     0x5636 ./Application/User/generated/Vector_Kerning_arial.o
- .debug_str     0x00192446     0x5856 ./Application/User/generated/Vector_Table_arial.o
- .debug_str     0x00192446     0x65dc ./Application/User/generated/Vector_Table_arial_20.o
- .debug_str     0x00192446     0x39e0 ./Application/User/generated/image_2995005_sun_sunny_yellow_weather_beach_icon.o
- .debug_str     0x00192446     0x39a6 ./Application/User/generated/image_Kayra-removebg.o
- .debug_str     0x00192446     0x3998 ./Application/User/generated/image__01d_2x.o
- .debug_str     0x00192446     0x3998 ./Application/User/generated/image__01n_2x.o
- .debug_str     0x00192446     0x3998 ./Application/User/generated/image__02d_2x.o
- .debug_str     0x00192446     0x3998 ./Application/User/generated/image__02n_2x.o
- .debug_str     0x00192446     0x3998 ./Application/User/generated/image__03d_2x.o
- .debug_str     0x00192446     0x3998 ./Application/User/generated/image__03n_2x.o
- .debug_str     0x00192446     0x3998 ./Application/User/generated/image__04d_2x.o
- .debug_str     0x00192446     0x3998 ./Application/User/generated/image__04n_2x.o
- .debug_str     0x00192446     0x3998 ./Application/User/generated/image__09d_2x.o
- .debug_str     0x00192446     0x3998 ./Application/User/generated/image__09n_2x.o
- .debug_str     0x00192446     0x3998 ./Application/User/generated/image__10d_2x.o
- .debug_str     0x00192446     0x399a ./Application/User/generated/image__10n_2x_.o
- .debug_str     0x00192446     0x3998 ./Application/User/generated/image__11d_2x.o
- .debug_str     0x00192446     0x3998 ./Application/User/generated/image__11n_2x.o
- .debug_str     0x00192446     0x3998 ./Application/User/generated/image__13d_2x.o
- .debug_str     0x00192446     0x3998 ./Application/User/generated/image__13n_2x.o
- .debug_str     0x00192446     0x3998 ./Application/User/generated/image__50d_2x.o
- .debug_str     0x00192446     0x3998 ./Application/User/generated/image__50n_2x.o
- .debug_str     0x00192446     0x3a1a ./Application/User/generated/image_alternate_theme_images_widgets_button_icon_round_small_fill_action.o
- .debug_str     0x00192446     0x3a1c ./Application/User/generated/image_alternate_theme_images_widgets_button_icon_round_small_fill_pressed.o
- .debug_str     0x00192446     0x39cc ./Application/User/generated/image_collage-konzept-fur-wettereffekte.o
- .debug_str     0x00192446     0x39b6 ./Application/User/generated/image_icon_keyboard_even_row.o
- .debug_str     0x00192446     0x39bc ./Application/User/generated/image_icon_keyboard_highlighted.o
- .debug_str     0x00192446     0x39b4 ./Application/User/generated/image_icon_keyboard_odd_row.o
- .debug_str     0x00192446     0x3a0a ./Application/User/generated/image_icon_theme_images_hardware_cast_connected_70_70_E8F6FB.svg.o
- .debug_str     0x00192446     0x3a0a ./Application/User/generated/image_icon_theme_images_hardware_cast_connected_70_70_ED1140.svg.o
- .debug_str     0x00192446     0x39b0 ./Application/User/generated/image_keyboard_background.o
- .debug_str     0x00192446     0x39c8 ./Application/User/generated/image_keyboard_key_delete_highlighted.o
- .debug_str     0x00192446     0x39ba ./Application/User/generated/image_keyboard_key_highlighted.o
- .debug_str     0x00192446     0x39c2 ./Application/User/generated/image_keyboard_key_num_highlighted.o
- .debug_str     0x00192446     0x39c6 ./Application/User/generated/image_keyboard_key_shift_highlighted.o
- .debug_str     0x00192446     0x39be ./Application/User/generated/image_keyboard_space_highlighted.o
- .debug_str     0x00192446    0x109b8 ./Application/User/gui/CustomKeyboard.o
- .debug_str     0x00192446     0xe7b1 ./Application/User/gui/FrontendApplication.o
- .debug_str     0x00192446   0x14d58f ./Application/User/gui/Model.o
- .debug_str     0x00192446    0x13118 ./Application/User/gui/Screen1Presenter.o
- .debug_str     0x00192446    0x1540f ./Application/User/gui/Screen1View.o
- .debug_str     0x00192446    0x12a88 ./Application/User/gui/ScreenConnectSSIDPresenter.o
- .debug_str     0x00192446    0x1430b ./Application/User/gui/ScreenConnectSSIDView.o
- .debug_str     0x00192446    0x12e3a ./Application/User/gui/ScreenKeyboardPresenter.o
- .debug_str     0x00192446    0x13248 ./Application/User/gui/ScreenKeyboardView.o
- .debug_str     0x00192446    0x12f3b ./Application/User/gui/ScreenKeyboard_CityPresenter.o
- .debug_str     0x00192446    0x1335a ./Application/User/gui/ScreenKeyboard_CityView.o
- .debug_str     0x00192446   0x145cff ./Drivers/CMSIS/system_stm32h7rsxx.o
- .debug_str     0x00192446   0x1471fe ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
- .debug_str     0x00192446   0x146800 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
- .debug_str     0x00192446   0x145bae ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_crc.o
- .debug_str     0x00192446   0x145b54 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_crc_ex.o
- .debug_str     0x00192446   0x14604b ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma.o
- .debug_str     0x00192446   0x14624a ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma2d.o
- .debug_str     0x00192446   0x14667c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
- .debug_str     0x00192446   0x145daf ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
- .debug_str     0x00192446   0x146038 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash_ex.o
- .debug_str     0x00192446   0x145be3 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_gpio.o
- .debug_str     0x00192446   0x145c1d ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_gpu2d.o
- .debug_str     0x00192446   0x146f14 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_i2c.o
- .debug_str     0x00192446   0x146035 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_i2c_ex.o
- .debug_str     0x00192446   0x145c74 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_icache.o
- .debug_str     0x00192446   0x146dda ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_jpeg.o
- .debug_str     0x00192446   0x146118 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_ltdc.o
- .debug_str     0x00192446   0x1462a1 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
- .debug_str     0x00192446   0x146699 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
- .debug_str     0x00192446   0x146449 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
- .debug_str     0x00192446   0x1470f0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_tim.o
- .debug_str     0x00192446   0x146d3a ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_tim_ex.o
- .debug_str     0x00192446   0x146d57 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_uart.o
- .debug_str     0x00192446   0x14637a ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_uart_ex.o
- .debug_str     0x00192446   0x14ec82 ./Middlewares/FreeRTOS/cmsis_os2.o
- .debug_str     0x00192446     0xcbab ./Middlewares/FreeRTOS/heap_4.o
- .debug_str     0x00192446     0xb392 ./Middlewares/FreeRTOS/list.o
- .debug_str     0x00192446     0x9b3a ./Middlewares/FreeRTOS/port.o
- .debug_str     0x00192446     0xdcff ./Middlewares/FreeRTOS/queue.o
- .debug_str     0x00192446     0xe698 ./Middlewares/FreeRTOS/tasks.o
- .debug_str     0x00192446     0xdff5 ./Middlewares/FreeRTOS/timers.o
+.debug_str      0x00000000   0x19116e
+ .debug_str     0x00000000   0x19116e ./Application/User/Core/cJSON.o
+                               0x9ecc (size before relaxing)
+ .debug_str     0x0019116e     0x7a93 ./Application/User/Core/weather_parser.o
+ .debug_str     0x0019116e   0x14aaa5 ./Application/User/Core/freertos.o
+ .debug_str     0x0019116e   0x14cdf9 ./Application/User/Core/main.o
+ .debug_str     0x0019116e   0x14803f ./Application/User/Core/stm32h7rsxx_hal_msp.o
+ .debug_str     0x0019116e   0x146cb2 ./Application/User/Core/stm32h7rsxx_hal_timebase_tim.o
+ .debug_str     0x0019116e   0x146d9f ./Application/User/Core/stm32h7rsxx_it.o
+ .debug_str     0x0019116e     0x9a68 ./Application/User/Core/syscalls.o
+ .debug_str     0x0019116e     0x7806 ./Application/User/Core/sysmem.o
+ .debug_str     0x0019116e       0xac ./Application/User/Startup/startup_stm32h7s7l8hxh.o
+ .debug_str     0x0019116e     0x3001 ./Application/User/TouchGFX/App/app_touchgfx.o
+ .debug_str     0x0019116e     0x9933 ./Application/User/TouchGFX/target/CortexMMCUInstrumentation.o
+ .debug_str     0x0019116e   0x14b60d ./Application/User/TouchGFX/target/STM32TouchController.o
+ .debug_str     0x0019116e   0x148a7a ./Application/User/TouchGFX/target/TouchGFXGPIO.o
+ .debug_str     0x0019116e    0x19f9e ./Application/User/TouchGFX/target/TouchGFXHAL.o
+ .debug_str     0x0019116e   0x14dc66 ./Application/User/TouchGFX/target/generated/HardwareMJPEGDecoder.o
+ .debug_str     0x0019116e     0x9be1 ./Application/User/TouchGFX/target/generated/OSWrappers.o
+ .debug_str     0x0019116e   0x1543e7 ./Application/User/TouchGFX/target/generated/STM32DMA.o
+ .debug_str     0x0019116e   0x15ff48 ./Application/User/TouchGFX/target/generated/TouchGFXConfiguration.o
+ .debug_str     0x0019116e   0x15c8ad ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
+ .debug_str     0x0019116e   0x14825b ./Application/User/TouchGFX/target/generated/nema_hal.o
+ .debug_str     0x0019116e     0x6266 ./Application/User/generated/ApplicationFontProvider.o
+ .debug_str     0x0019116e     0x6918 ./Application/User/generated/BitmapDatabase.o
+ .debug_str     0x0019116e     0x740b ./Application/User/generated/CachedFont.o
+ .debug_str     0x0019116e     0xd7e8 ./Application/User/generated/FontCache.o
+ .debug_str     0x0019116e     0x4eb3 ./Application/User/generated/Font_arial_10_4bpp_0.o
+ .debug_str     0x0019116e     0x4eb3 ./Application/User/generated/Font_arial_10_4bpp_3.o
+ .debug_str     0x0019116e     0x4eb3 ./Application/User/generated/Font_arial_10_4bpp_4.o
+ .debug_str     0x0019116e     0x4eb3 ./Application/User/generated/Font_arial_20_4bpp_0.o
+ .debug_str     0x0019116e     0x4eb3 ./Application/User/generated/Font_arial_20_4bpp_3.o
+ .debug_str     0x0019116e     0x4eb3 ./Application/User/generated/Font_arial_20_4bpp_4.o
+ .debug_str     0x0019116e     0x4eb3 ./Application/User/generated/Font_arial_28_4bpp_0.o
+ .debug_str     0x0019116e     0x4eb3 ./Application/User/generated/Font_arial_28_4bpp_4.o
+ .debug_str     0x0019116e     0x4eb3 ./Application/User/generated/Font_arial_40_4bpp_0.o
+ .debug_str     0x0019116e     0x4eb3 ./Application/User/generated/Font_arial_40_4bpp_4.o
+ .debug_str     0x0019116e     0x4eb7 ./Application/User/generated/Font_verdana_27_4bpp_0.o
+ .debug_str     0x0019116e     0x4eb7 ./Application/User/generated/Font_verdana_27_4bpp_4.o
+ .debug_str     0x0019116e    0x1f098 ./Application/User/generated/FrontendApplicationBase.o
+ .debug_str     0x0019116e     0xd316 ./Application/User/generated/GeneratedFont.o
+ .debug_str     0x0019116e     0x55b4 ./Application/User/generated/Kerning_arial_10_4bpp.o
+ .debug_str     0x0019116e     0x55b4 ./Application/User/generated/Kerning_arial_20_4bpp.o
+ .debug_str     0x0019116e     0x55b4 ./Application/User/generated/Kerning_arial_28_4bpp.o
+ .debug_str     0x0019116e     0x55b4 ./Application/User/generated/Kerning_arial_40_4bpp.o
+ .debug_str     0x0019116e     0x55b8 ./Application/User/generated/Kerning_verdana_27_4bpp.o
+ .debug_str     0x0019116e     0x4ff3 ./Application/User/generated/LanguageGb.o
+ .debug_str     0x0019116e     0x5009 ./Application/User/generated/LanguageSonderzeichen.o
+ .debug_str     0x0019116e    0x14714 ./Application/User/generated/Screen1ViewBase.o
+ .debug_str     0x0019116e    0x140d9 ./Application/User/generated/ScreenConnectSSIDViewBase.o
+ .debug_str     0x0019116e    0x11928 ./Application/User/generated/ScreenKeyboardViewBase.o
+ .debug_str     0x0019116e    0x119fb ./Application/User/generated/ScreenKeyboard_CityViewBase.o
+ .debug_str     0x0019116e     0x65ab ./Application/User/generated/Table_arial_10_4bpp.o
+ .debug_str     0x0019116e     0x65ab ./Application/User/generated/Table_arial_20_4bpp.o
+ .debug_str     0x0019116e     0x6592 ./Application/User/generated/Table_arial_28_4bpp.o
+ .debug_str     0x0019116e     0x6592 ./Application/User/generated/Table_arial_40_4bpp.o
+ .debug_str     0x0019116e     0x6589 ./Application/User/generated/Table_verdana_27_4bpp.o
+ .debug_str     0x0019116e     0xe233 ./Application/User/generated/Texts.o
+ .debug_str     0x0019116e     0x6ccd ./Application/User/generated/TypedTextDatabase.o
+ .debug_str     0x0019116e     0x6e45 ./Application/User/generated/VectorFontRendererBuffers.o
+ .debug_str     0x0019116e     0x4eb1 ./Application/User/generated/Vector_Font_arial_0.o
+ .debug_str     0x0019116e     0x55ee ./Application/User/generated/Vector_Kerning_arial.o
+ .debug_str     0x0019116e     0x580e ./Application/User/generated/Vector_Table_arial.o
+ .debug_str     0x0019116e     0x6594 ./Application/User/generated/Vector_Table_arial_20.o
+ .debug_str     0x0019116e     0x3998 ./Application/User/generated/image_2995005_sun_sunny_yellow_weather_beach_icon.o
+ .debug_str     0x0019116e     0x395e ./Application/User/generated/image_Kayra-removebg.o
+ .debug_str     0x0019116e     0x3950 ./Application/User/generated/image__01d_2x.o
+ .debug_str     0x0019116e     0x3950 ./Application/User/generated/image__01n_2x.o
+ .debug_str     0x0019116e     0x3950 ./Application/User/generated/image__02d_2x.o
+ .debug_str     0x0019116e     0x3950 ./Application/User/generated/image__02n_2x.o
+ .debug_str     0x0019116e     0x3950 ./Application/User/generated/image__03d_2x.o
+ .debug_str     0x0019116e     0x3950 ./Application/User/generated/image__03n_2x.o
+ .debug_str     0x0019116e     0x3950 ./Application/User/generated/image__04d_2x.o
+ .debug_str     0x0019116e     0x3950 ./Application/User/generated/image__04n_2x.o
+ .debug_str     0x0019116e     0x3950 ./Application/User/generated/image__09d_2x.o
+ .debug_str     0x0019116e     0x3950 ./Application/User/generated/image__09n_2x.o
+ .debug_str     0x0019116e     0x3950 ./Application/User/generated/image__10d_2x.o
+ .debug_str     0x0019116e     0x3952 ./Application/User/generated/image__10n_2x_.o
+ .debug_str     0x0019116e     0x3950 ./Application/User/generated/image__11d_2x.o
+ .debug_str     0x0019116e     0x3950 ./Application/User/generated/image__11n_2x.o
+ .debug_str     0x0019116e     0x3950 ./Application/User/generated/image__13d_2x.o
+ .debug_str     0x0019116e     0x3950 ./Application/User/generated/image__13n_2x.o
+ .debug_str     0x0019116e     0x3950 ./Application/User/generated/image__50d_2x.o
+ .debug_str     0x0019116e     0x3950 ./Application/User/generated/image__50n_2x.o
+ .debug_str     0x0019116e     0x39d2 ./Application/User/generated/image_alternate_theme_images_widgets_button_icon_round_small_fill_action.o
+ .debug_str     0x0019116e     0x39d4 ./Application/User/generated/image_alternate_theme_images_widgets_button_icon_round_small_fill_pressed.o
+ .debug_str     0x0019116e     0x3984 ./Application/User/generated/image_collage-konzept-fur-wettereffekte.o
+ .debug_str     0x0019116e     0x396e ./Application/User/generated/image_icon_keyboard_even_row.o
+ .debug_str     0x0019116e     0x3974 ./Application/User/generated/image_icon_keyboard_highlighted.o
+ .debug_str     0x0019116e     0x396c ./Application/User/generated/image_icon_keyboard_odd_row.o
+ .debug_str     0x0019116e     0x39c2 ./Application/User/generated/image_icon_theme_images_hardware_cast_connected_70_70_E8F6FB.svg.o
+ .debug_str     0x0019116e     0x39c2 ./Application/User/generated/image_icon_theme_images_hardware_cast_connected_70_70_ED1140.svg.o
+ .debug_str     0x0019116e     0x3968 ./Application/User/generated/image_keyboard_background.o
+ .debug_str     0x0019116e     0x3980 ./Application/User/generated/image_keyboard_key_delete_highlighted.o
+ .debug_str     0x0019116e     0x3972 ./Application/User/generated/image_keyboard_key_highlighted.o
+ .debug_str     0x0019116e     0x397a ./Application/User/generated/image_keyboard_key_num_highlighted.o
+ .debug_str     0x0019116e     0x397e ./Application/User/generated/image_keyboard_key_shift_highlighted.o
+ .debug_str     0x0019116e     0x3976 ./Application/User/generated/image_keyboard_space_highlighted.o
+ .debug_str     0x0019116e    0x10970 ./Application/User/gui/CustomKeyboard.o
+ .debug_str     0x0019116e     0xe769 ./Application/User/gui/FrontendApplication.o
+ .debug_str     0x0019116e   0x14d547 ./Application/User/gui/Model.o
+ .debug_str     0x0019116e    0x130d0 ./Application/User/gui/Screen1Presenter.o
+ .debug_str     0x0019116e    0x153c7 ./Application/User/gui/Screen1View.o
+ .debug_str     0x0019116e    0x12a40 ./Application/User/gui/ScreenConnectSSIDPresenter.o
+ .debug_str     0x0019116e    0x142c3 ./Application/User/gui/ScreenConnectSSIDView.o
+ .debug_str     0x0019116e    0x12df2 ./Application/User/gui/ScreenKeyboardPresenter.o
+ .debug_str     0x0019116e    0x13200 ./Application/User/gui/ScreenKeyboardView.o
+ .debug_str     0x0019116e    0x12ef3 ./Application/User/gui/ScreenKeyboard_CityPresenter.o
+ .debug_str     0x0019116e    0x13312 ./Application/User/gui/ScreenKeyboard_CityView.o
+ .debug_str     0x0019116e   0x145cb7 ./Drivers/CMSIS/system_stm32h7rsxx.o
+ .debug_str     0x0019116e   0x1471b6 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .debug_str     0x0019116e   0x1467b8 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+ .debug_str     0x0019116e   0x145b66 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_crc.o
+ .debug_str     0x0019116e   0x145b0c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_crc_ex.o
+ .debug_str     0x0019116e   0x146003 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma.o
+ .debug_str     0x0019116e   0x146202 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma2d.o
+ .debug_str     0x0019116e   0x146634 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .debug_str     0x0019116e   0x145d67 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
+ .debug_str     0x0019116e   0x145ff0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash_ex.o
+ .debug_str     0x0019116e   0x145b9b ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_gpio.o
+ .debug_str     0x0019116e   0x145bd5 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_gpu2d.o
+ .debug_str     0x0019116e   0x146ecc ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_i2c.o
+ .debug_str     0x0019116e   0x145fed ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_i2c_ex.o
+ .debug_str     0x0019116e   0x145c2c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_icache.o
+ .debug_str     0x0019116e   0x146d92 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_jpeg.o
+ .debug_str     0x0019116e   0x1460d0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_ltdc.o
+ .debug_str     0x0019116e   0x146259 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .debug_str     0x0019116e   0x146651 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+ .debug_str     0x0019116e   0x146401 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+ .debug_str     0x0019116e   0x1470a8 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_tim.o
+ .debug_str     0x0019116e   0x146cf2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_tim_ex.o
+ .debug_str     0x0019116e   0x146d0f ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_uart.o
+ .debug_str     0x0019116e   0x146332 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_uart_ex.o
+ .debug_str     0x0019116e   0x14ec3a ./Middlewares/FreeRTOS/cmsis_os2.o
+ .debug_str     0x0019116e     0xcb63 ./Middlewares/FreeRTOS/heap_4.o
+ .debug_str     0x0019116e     0xb34a ./Middlewares/FreeRTOS/list.o
+ .debug_str     0x0019116e     0x9af2 ./Middlewares/FreeRTOS/port.o
+ .debug_str     0x0019116e     0xdcb7 ./Middlewares/FreeRTOS/queue.o
+ .debug_str     0x0019116e     0xe650 ./Middlewares/FreeRTOS/tasks.o
+ .debug_str     0x0019116e     0xdfad ./Middlewares/FreeRTOS/timers.o
 
 .comment        0x00000000       0xc2
  .comment       0x00000000       0xc2 ./Application/User/Core/cJSON.o
@@ -26895,6 +26895,6 @@ LOAD C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.exte
  .debug_frame   0x0000d7d0       0x34 C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libgcc.a(_udivmoddi4.o)
 
 .debug_line_str
-                0x00000000       0xb4
+                0x00000000       0x90
  .debug_line_str
-                0x00000000       0xb4 ./Application/User/Startup/startup_stm32h7s7l8hxh.o
+                0x00000000       0x90 ./Application/User/Startup/startup_stm32h7s7l8hxh.o

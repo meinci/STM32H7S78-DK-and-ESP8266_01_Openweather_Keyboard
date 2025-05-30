@@ -26,12 +26,12 @@
 ../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:121:18:virtual void touchgfx::Drawable::invalidateContent() const	2
 ../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:45:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	3
 ../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:233:10:void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	1
-C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/TouchGFX/gui/src/common/CustomKeyboard.cpp:44:6:void CustomKeyboard::setKeyMappingList()	4
-C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/TouchGFX/gui/src/common/CustomKeyboard.cpp:72:6:void CustomKeyboard::backspacePressedHandler()	3
-C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/TouchGFX/gui/src/common/CustomKeyboard.cpp:91:6:void CustomKeyboard::capslockPressedHandler()	1
-C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/TouchGFX/gui/src/common/CustomKeyboard.cpp:97:6:void CustomKeyboard::modePressedHandler()	1
-C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/TouchGFX/gui/src/common/CustomKeyboard.cpp:114:6:void CustomKeyboard::keyPressedhandler(touchgfx::Unicode::UnicodeChar)	3
-C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/TouchGFX/gui/src/common/CustomKeyboard.cpp:6:1:CustomKeyboard::CustomKeyboard()	1
-C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/TouchGFX/gui/src/common/CustomKeyboard.cpp:125:6:void CustomKeyboard::setTouchable(bool)	1
-C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/TouchGFX/gui/src/common/CustomKeyboard.cpp:131:23:touchgfx::Unicode::UnicodeChar* CustomKeyboard::getBuffer()	1
-C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/TouchGFX/gui/src/common/CustomKeyboard.cpp:134:1:cpp)	1
+C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Appli/TouchGFX/gui/src/common/CustomKeyboard.cpp:44:6:void CustomKeyboard::setKeyMappingList()	4
+C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Appli/TouchGFX/gui/src/common/CustomKeyboard.cpp:72:6:void CustomKeyboard::backspacePressedHandler()	3
+C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Appli/TouchGFX/gui/src/common/CustomKeyboard.cpp:91:6:void CustomKeyboard::capslockPressedHandler()	1
+C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Appli/TouchGFX/gui/src/common/CustomKeyboard.cpp:97:6:void CustomKeyboard::modePressedHandler()	1
+C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Appli/TouchGFX/gui/src/common/CustomKeyboard.cpp:114:6:void CustomKeyboard::keyPressedhandler(touchgfx::Unicode::UnicodeChar)	3
+C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Appli/TouchGFX/gui/src/common/CustomKeyboard.cpp:6:1:CustomKeyboard::CustomKeyboard()	1
+C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Appli/TouchGFX/gui/src/common/CustomKeyboard.cpp:125:6:void CustomKeyboard::setTouchable(bool)	1
+C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Appli/TouchGFX/gui/src/common/CustomKeyboard.cpp:131:23:touchgfx::Unicode::UnicodeChar* CustomKeyboard::getBuffer()	1
+C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Appli/TouchGFX/gui/src/common/CustomKeyboard.cpp:134:1:cpp)	1

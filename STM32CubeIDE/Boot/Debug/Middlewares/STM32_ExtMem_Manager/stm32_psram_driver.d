@@ -1,5 +1,5 @@
 Middlewares/STM32_ExtMem_Manager/stm32_psram_driver.o: \
- C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Middlewares/ST/STM32_ExtMem_Manager/psram/stm32_psram_driver.c \
+ C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Middlewares/ST/STM32_ExtMem_Manager/psram/stm32_psram_driver.c \
  ../../../Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.h \
  ../../../Boot/Core/Inc/stm32_extmem_conf.h \
  ../../../Drivers/STM32H7RSxx_HAL_Driver/Inc/stm32h7rsxx_hal.h \
@@ -34,8 +34,8 @@ Middlewares/STM32_ExtMem_Manager/stm32_psram_driver.o: \
  ../../../Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver_type.h \
  ../../../Middlewares/ST/STM32_ExtMem_Manager/psram/stm32_psram_driver_type.h \
  ../../../Middlewares/ST/STM32_ExtMem_Manager/boot/stm32_boot_xip.h \
- C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Middlewares/ST/STM32_ExtMem_Manager/psram/../sal/stm32_sal_xspi_api.h \
- C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Middlewares/ST/STM32_ExtMem_Manager/psram/stm32_psram_driver_api.h
+ C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Middlewares/ST/STM32_ExtMem_Manager/psram/../sal/stm32_sal_xspi_api.h \
+ C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Middlewares/ST/STM32_ExtMem_Manager/psram/stm32_psram_driver_api.h
 ../../../Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.h:
 ../../../Boot/Core/Inc/stm32_extmem_conf.h:
 ../../../Drivers/STM32H7RSxx_HAL_Driver/Inc/stm32h7rsxx_hal.h:
@@ -70,5 +70,5 @@ Middlewares/STM32_ExtMem_Manager/stm32_psram_driver.o: \
 ../../../Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver_type.h:
 ../../../Middlewares/ST/STM32_ExtMem_Manager/psram/stm32_psram_driver_type.h:
 ../../../Middlewares/ST/STM32_ExtMem_Manager/boot/stm32_boot_xip.h:
-C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Middlewares/ST/STM32_ExtMem_Manager/psram/../sal/stm32_sal_xspi_api.h:
-C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Middlewares/ST/STM32_ExtMem_Manager/psram/stm32_psram_driver_api.h:
+C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Middlewares/ST/STM32_ExtMem_Manager/psram/../sal/stm32_sal_xspi_api.h:
+C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Middlewares/ST/STM32_ExtMem_Manager/psram/stm32_psram_driver_api.h:

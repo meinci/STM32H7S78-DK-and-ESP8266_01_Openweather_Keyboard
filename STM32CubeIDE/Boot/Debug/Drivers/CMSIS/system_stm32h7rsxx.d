@@ -1,5 +1,5 @@
 Drivers/CMSIS/system_stm32h7rsxx.o: \
- C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Boot/Core/Src/system_stm32h7rsxx.c \
+ C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Boot/Core/Src/system_stm32h7rsxx.c \
  ../../../Drivers/CMSIS/Device/ST/STM32H7RSxx/Include/stm32h7rsxx.h \
  ../../../Drivers/CMSIS/Device/ST/STM32H7RSxx/Include/stm32h7s7xx.h \
  ../../../Drivers/CMSIS/Include/core_cm7.h \

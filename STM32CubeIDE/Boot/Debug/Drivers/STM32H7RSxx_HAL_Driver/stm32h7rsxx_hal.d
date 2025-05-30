@@ -1,5 +1,5 @@
 Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o: \
- C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Drivers/STM32H7RSxx_HAL_Driver/Src/stm32h7rsxx_hal.c \
+ C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Drivers/STM32H7RSxx_HAL_Driver/Src/stm32h7rsxx_hal.c \
  ../../../Drivers/STM32H7RSxx_HAL_Driver/Inc/stm32h7rsxx_hal.h \
  ../../../Boot/Core/Inc/stm32h7rsxx_hal_conf.h \
  ../../../Drivers/STM32H7RSxx_HAL_Driver/Inc/stm32h7rsxx_hal_rcc.h \

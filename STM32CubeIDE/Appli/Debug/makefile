@@ -91,8 +91,8 @@ all: main-build
 main-build: STM32H7S78-DK_Appli.elf secondary-outputs
 
 # Tool invocations
-STM32H7S78-DK_Appli.elf STM32H7S78-DK_Appli.map: $(OBJS) $(USER_OBJS) C:\Users\HP\Downloads\STM32H7S78-DK_OpenWeather_Keyboard-main\STM32H7S78-DK_OpenWeather_Keyboard-main\STM32CubeIDE\Appli\STM32H7S7L8HXH_RAMxspi1_ROMxspi2.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-g++ -o "STM32H7S78-DK_Appli.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m7 -T"C:\Users\HP\Downloads\STM32H7S78-DK_OpenWeather_Keyboard-main\STM32H7S78-DK_OpenWeather_Keyboard-main\STM32CubeIDE\Appli\STM32H7S7L8HXH_RAMxspi1_ROMxspi2.ld" --specs=nosys.specs -Wl,-Map="STM32H7S78-DK_Appli.map" -Wl,--gc-sections -static -L../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc -L../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/NemaGFX/lib/core/cortex_m7/gcc -L../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
+STM32H7S78-DK_Appli.elf STM32H7S78-DK_Appli.map: $(OBJS) $(USER_OBJS) C:\Users\HP\git\STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard\STM32CubeIDE\Appli\STM32H7S7L8HXH_RAMxspi1_ROMxspi2.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-g++ -o "STM32H7S78-DK_Appli.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m7 -T"C:\Users\HP\git\STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard\STM32CubeIDE\Appli\STM32H7S7L8HXH_RAMxspi1_ROMxspi2.ld" --specs=nosys.specs -Wl,-Map="STM32H7S78-DK_Appli.map" -Wl,--gc-sections -static -L../../../Appli/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc -L../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/NemaGFX/lib/core/cortex_m7/gcc -L../../Appli/../../Appli/Middlewares/ST/touchgfx_components/gpu2d/TouchGFXNema/lib/cortex_m7/gcc --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

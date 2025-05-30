@@ -1,5 +1,5 @@
 Application/User/generated/FrontendApplicationBase.o: \
- C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/TouchGFX/generated/gui_generated/src/common/FrontendApplicationBase.cpp \
+ C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Appli/TouchGFX/generated/gui_generated/src/common/FrontendApplicationBase.cpp \
  ../../Appli/../../Appli/TouchGFX/generated/gui_generated/include/gui_generated/common/FrontendApplicationBase.hpp \
  ../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/mvp/MVPApplication.hpp \
  ../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/common/AbstractPartition.hpp \

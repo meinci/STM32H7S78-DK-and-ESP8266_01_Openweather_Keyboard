@@ -1,5 +1,5 @@
 Application/User/gui/CustomKeyboard.o: \
- C:/Users/HP/Downloads/STM32H7S78-DK_OpenWeather_Keyboard-main/STM32H7S78-DK_OpenWeather_Keyboard-main/Appli/TouchGFX/gui/src/common/CustomKeyboard.cpp \
+ C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Appli/TouchGFX/gui/src/common/CustomKeyboard.cpp \
  ../../Appli/../../Appli/TouchGFX/gui/include/gui/common/CustomKeyboard.hpp \
  ../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Keyboard.hpp \
  ../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp \

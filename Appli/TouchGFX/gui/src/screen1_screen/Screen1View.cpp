@@ -50,7 +50,7 @@ void Screen1View::tearDownScreen()
 
 void Screen1View::flexbuttonShow_SSIDs()
 {
-    // Hier machst du, was du willst, z. B. Presenter-Funktion aufrufen
+    //Presenter-Funktion aufrufen
 	tA_SSIDList.setVisible(true);
     presenter->buttonClicked(); // oder presenter->updateSSIDList(...);
 }

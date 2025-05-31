@@ -28,11 +28,11 @@
 #include <stdio.h>
 #include <cJSON.h>
 #include "datetime.h"
-#include "globals.h"
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
 
+#include "globals.h"
 #include "wifi_credentials.h"
 
 
@@ -50,7 +50,7 @@
 
 /* Private macro -------------------------------------------------------------*/
 /* USER CODE BEGIN PM */
-
+// Git
 
 /* USER CODE END PM */
 
@@ -123,12 +123,10 @@ extern void TouchGFX_Task(void *argument);
 /* USER CODE BEGIN 0 */
 
 #define TX_BUFFER_SIZE 256
-uint8_t tx_buffer[TX_BUFFER_SIZE];  // Buffer for transmitting data
-
 #define Rx_Data_size 628
+
+uint8_t tx_buffer[TX_BUFFER_SIZE];  // Buffer for transmitting data
 char RxData[Rx_Data_size];
-
-
 char *json_data = NULL; // Hier wird die globale Variable einmalig definiert
 
 __IO float guiTemp;
@@ -145,11 +143,11 @@ __IO int request = 0;
 char guiCity[30];
 char guiSSID[32] = "UnknownSSID";
 char stadt[25];
-//char gui_nearby_SSID[33] = "UnknownSSID";
-// Maximale Anzahl an SSIDs, die gespeichert werden sollen
-#define MAX_SSIDS  20
-// Maximale Laenge einer SSID (inkl. '\0')
-#define MAX_GUI_SSID_LEN  32+1
+
+
+#define MAX_SSIDS  20 // Maximale Anzahl an SSIDs, die gespeichert werden sollen
+
+#define MAX_GUI_SSID_LEN  32+1 // Maximale Laenge einer SSID (inkl. '\0')
 int foundCount = 0;
 long stamp;
 int zone;
@@ -182,18 +180,15 @@ typedef struct {
   	char city_name[50];
   }WeatherData;
 
-  char stadt[25];
-  const char *api_key = "b3a6cd1cdf759486e569c8d6daef8db5";
-  //#define MAX_REQ 256  // oder was für dich ausreicht
+char stadt[25];
+const char *api_key = "b3a6cd1cdf759486e569c8d6daef8db5";
 
-
-  char *AT_REQUEST_SSID = "AT+CWJAP?\r\n";
-  char *AT_REQUEST_nearby_SSID = "AT+CWLAP\r\n";
-  char *AT_OPEN_CONNECTION = "AT+CIPSTART=\"TCP\",\"api.openweathermap.org\",80\r\n";
-  char *AT_REQUEST_0 = "GET /data/2.5/weather?q=Dortmund&appid=b3a6cd1cdf759486e569c8d6daef8db5&lang=de&units=metric\r\nHost: api.openweathermap.org\r\nConnection: close\r\n\r\n";
-  char *default_request = "GET /data/2.5/weather?q=Ennepetal&appid=b3a6cd1cdf759486e569c8d6daef8db5&lang=de&units=metric\r\nHost: api.openweathermap.org\r\nConnection: close\r\n\r\n";
-  char AT_NEW_REQUEST_1[MAX_REQ];
-
+char *AT_REQUEST_SSID = "AT+CWJAP?\r\n";
+char *AT_REQUEST_nearby_SSID = "AT+CWLAP\r\n";
+char *AT_OPEN_CONNECTION = "AT+CIPSTART=\"TCP\",\"api.openweathermap.org\",80\r\n";
+char *AT_REQUEST_0 = "GET /data/2.5/weather?q=Dortmund&appid=b3a6cd1cdf759486e569c8d6daef8db5&lang=de&units=metric\r\nHost: api.openweathermap.org\r\nConnection: close\r\n\r\n";
+char *default_request = "GET /data/2.5/weather?q=Ennepetal&appid=b3a6cd1cdf759486e569c8d6daef8db5&lang=de&units=metric\r\nHost: api.openweathermap.org\r\nConnection: close\r\n\r\n";
+char AT_NEW_REQUEST_1[MAX_REQ];
 
 int weatherData_cpl =0;
 char AT_CIPSEND_0[32];
@@ -282,8 +277,6 @@ void HAL_UARTEx_RxEventCallback(UART_HandleTypeDef *huart, uint16_t Size) {
 	}
 }
 
-
-// Funktion, die WeatherData zurückgibt(Wurde in weather.c angelegt)
 void parse_weather_data(const char *json_response) {
 	WeatherData data; // Lokale Struct-Variable, die wir füllen
 	data.humidity = 0;
@@ -327,60 +320,44 @@ void parse_weather_data(const char *json_response) {
 		// Erstes Element im "weather"-Array holen
 		cJSON *weather_item = cJSON_GetArrayItem(weather_array, 0);
 		if (cJSON_IsObject(weather_item)){
-
-			// Darin das "icon" holen
-			cJSON *icon = cJSON_GetObjectItem(weather_item, "icon");
+			cJSON *icon = cJSON_GetObjectItem(weather_item, "icon"); // Darin das "icon" holen
 			if (cJSON_IsString(icon)){
-
-				// In deine Struct schreiben
-				strncpy(data.iconId, icon->valuestring, sizeof(data.iconId) - 1);
+				strncpy(data.iconId, icon->valuestring, sizeof(data.iconId) - 1); // In deine Struct schreiben
 				data.iconId[sizeof(data.iconId) - 1] = '\0';
-
-				// In dein globales Array schreiben
-				strncpy(guiIcon, data.iconId, sizeof(guiIcon) - 1);
+				strncpy(guiIcon, data.iconId, sizeof(guiIcon) - 1); // In dein globales Array schreiben
 				guiIcon[sizeof(guiIcon) - 1] = '\0';
 			}
 		}
-
-		// Darin das "description" holen
-		cJSON *description_item = cJSON_GetObjectItem(weather_item, "description");
+		cJSON *description_item = cJSON_GetObjectItem(weather_item, "description"); // Darin das "description" holen
 		if (cJSON_IsString(description_item)){
-			// In deine Struct schreiben
-			strncpy(data.description, description_item->valuestring, sizeof(data.description) - 1);
+			strncpy(data.description, description_item->valuestring, sizeof(data.description) - 1); // In deine Struct schreiben
 			data.description[sizeof(data.description) - 1] = '\0';
-			// In dein globales Array schreiben
-			strncpy(guiDescription, data.description, sizeof(guiDescription) - 1);
+			strncpy(guiDescription, data.description, sizeof(guiDescription) - 1); // In dein globales Array schreiben
 			guiDescription[sizeof(guiDescription) - 1] = '\0';
 		}
 	}
-	// "main"-Objekt holen
-	cJSON *main_object = cJSON_GetObjectItem(root, "main");
+	cJSON *main_object = cJSON_GetObjectItem(root, "main"); // "main"-Objekt holen
 	if (main_object) {
-		// Temperatur
-		cJSON *temp = cJSON_GetObjectItem(main_object, "temp");
+		cJSON *temp = cJSON_GetObjectItem(main_object, "temp"); // Temperatur
 		if (cJSON_IsNumber(temp)) {
 			data.temperature = temp->valuedouble;
 			guiTemp = data.temperature;
 		}
-		// Luftfeuchtigkeit
-		cJSON *humidity = cJSON_GetObjectItem(main_object, "humidity");
+		cJSON *humidity = cJSON_GetObjectItem(main_object, "humidity"); // Luftfeuchtigkeit
 		if (cJSON_IsNumber(humidity)) {
 			data.humidity = humidity->valueint;
 			guiHumi = data.humidity;
 		}
-		//Luftdruck
-		cJSON *pressure = cJSON_GetObjectItem(main_object, "pressure");
+		cJSON *pressure = cJSON_GetObjectItem(main_object, "pressure"); //Luftdruck
 		if (cJSON_IsNumber(pressure)) {
 			data.pressure = pressure->valueint;
 			guiPres = data.pressure;
 		}
-		// Stadtname
-		cJSON *name = cJSON_GetObjectItem(root, "name");
+		cJSON *name = cJSON_GetObjectItem(root, "name"); // Stadtname
 		if (cJSON_IsString(name)) {
 			strncpy(data.city_name, name->valuestring, sizeof(data.city_name) - 1);
 			data.city_name[sizeof(data.city_name) - 1] = '\0';
-			// Jetzt kopieren wir diesen Namen auch in unser globales Array guiCity:
-			strncpy(guiCity, data.city_name, sizeof(guiCity) - 1);
+			strncpy(guiCity, data.city_name, sizeof(guiCity) - 1); //kopieren der Name in globales Array guiCity
 			guiCity[sizeof(guiCity) - 1] = '\0';
 		}
 	}
@@ -1139,24 +1116,17 @@ void HAL_UART_TxCpltCallback(UART_HandleTypeDef *huart) {
 	if (huart->Instance == UART7) {
 		printf("Übertragung abgeschlossen\n");
 		HAL_GPIO_TogglePin(GPIOM, GPIO_PIN_2);
-
 	}
 }
-/*void show_SSIDs(void)
-{
-    // Hier Ihre Logik einfügen, z.B. Scan nach WLAN-Netzwerken usw.
-    printf("show_SSIDs aufgerufen!\n");
-    send_at_command(AT_REQUEST_nearby_SSID);
 
-}*/
 void myScanFunctionInC(void)
 {
     // Hier implementierst du deinen Scan-Code (z. B. Aufruf eines WiFi-Treibers)
 	if(scanSSIDs == 1){
 		printf("Scanning for SSIDs...\n");
 	  send_at_command(AT_REQUEST_nearby_SSID);
+	  HAL_Delay(5000); // 5 Sekunden warten
 	}
-
 }
 
 /* USER CODE END 4 */
@@ -1179,17 +1149,12 @@ void StartDefaultTask(void *argument)
 	HAL_UARTEx_ReceiveToIdle_IT(&huart7, (uint8_t*)RxData, Rx_Data_size);
 	osDelay(5000);
 	HAL_GPIO_WritePin(GPIOF, GPIO_PIN_13, GPIO_PIN_SET);//Set ESP8266 enable Pin high
-	//send_at_command(AT_REQUEST_nearby_SSID);
-	//osDelay(5000);
 	send_at_command(AT_OPEN_CONNECTION);
 
 	/* Infinite loop */
 	for(;;)
 	{
-
-		osDelay(1000);
-
-		//send_at_command(AT_REQUEST_nearby_SSID);
+		osDelay(1);
 	}
   /* USER CODE END 5 */
 }
@@ -1303,7 +1268,6 @@ void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef *htim){
 
   /* USER CODE BEGIN Callback 1 */
 if (htim->Instance == TIM7){
-	//send_at_command(AT_REQUEST_nearby_SSID);
 	HAL_GPIO_TogglePin(GPIOM, GPIO_PIN_2);
 	send_at_command(AT_OPEN_CONNECTION);
 }

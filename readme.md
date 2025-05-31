@@ -6,6 +6,10 @@ Performance testing can be done using the GPIO pins designated with the followin
 - RENDER_TIME - CN14-D4 (PF2)
 - FRAME_RATE  - CN14-D7 (PF3)
 - MCU_ACTIVE  - CN15-D8 (PF4)
+![IMG_20250531_231852](https://github.com/user-attachments/assets/d5e2376e-f41f-43f5-977c-7b0cd0c94740)
+![IMG_20250531_231920](https://github.com/user-attachments/assets/ca8a8c8a-032d-4f12-9583-e236a87ef31b)
+![IMG_20250531_231927](https://github.com/user-attachments/assets/f8769e10-3ef3-4e64-94d9-c4b29e7e1c78)
+
 
 ## Debugging in STM32CubeIDE
 Debugging the code in an IDE can be complex because of the Bootloader and Application structure of the TBS for STM32H7S78-DK. To step through the code of the TouchGFX application in STM32CubeIDE, follow these steps:

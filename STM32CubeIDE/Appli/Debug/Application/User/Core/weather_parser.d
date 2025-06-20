@@ -1,2 +1,2 @@
 Application/User/Core/weather_parser.o: \
- C:/Users/HP/Workspace_STM32H7S_DK/STM32H7_Test/Appli/Core/Src/weather_parser.c
+ C:/Users/HP/git/STM32H7S78-DK-and-ESP8266_01_Openweather_Keyboard/Appli/Core/Src/weather_parser.c
